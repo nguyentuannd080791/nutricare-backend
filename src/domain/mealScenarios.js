@@ -636,6 +636,12 @@ export function refineDishFormat(dish) {
     }
   }
 
+  // 12. Món ăn lành mạnh / ưu tiên sức khỏe (Eat Clean, Healthy, Whole foods Việt Nam)
+  const isHealthy =
+    /gạo lứt|lứt|khoai lang luộc|ngô luộc|yến mạch|quinoa|hạt sen|ức gà|cá lóc hấp|cá quả hấp|cá hấp|cá nướng|tôm hấp|tôm luộc|đậu phụ luộc|đậu phụ hấp|đậu phụ kho nấm|rau luộc|bông cải|bí xanh luộc|canh rau ngót|rau ngót nấu thịt|canh mồng tơi|nấm rơm|salad/.test(
+      name
+    ) && !isDeepFried && !isHighSugar && !isOrganMeat && !isSnackOrBarFood;
+
   return {
     refinedFormat,
     proteinSource,
@@ -647,6 +653,7 @@ export function refineDishFormat(dish) {
     isHighSugarFruit,
     isNightHeavyCarb,
     isFastFood,
+    isHealthy,
   };
 }
 

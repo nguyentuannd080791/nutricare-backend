@@ -15,6 +15,7 @@ export function toPoolDish(row) {
     isHighSugarFruit,
     isNightHeavyCarb,
     isFastFood,
+    isHealthy,
   } = refineDishFormat(row);
   const effectiveFormat = refinedFormat || row.dishFormat;
   return {
@@ -41,6 +42,8 @@ export function toPoolDish(row) {
     isHighSugarFruit,
     isNightHeavyCarb,
     isFastFood,
+    isHealthy: Boolean(isHealthy),
+    serving_g: row.servingG || row.serving_g || 150,
     allowedSlots: allowedSlotsFor(effectiveFormat), // ["sang","trua",...] - xem domain/mealContext.js
   };
 }

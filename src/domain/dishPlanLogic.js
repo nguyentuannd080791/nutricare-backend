@@ -13,6 +13,86 @@ const MACRO_IMPORTANCE = { protein: 2, fat: 1, carb: 1 };
 const MAX_SHELLFISH_PER_WEEK = 3;
 const MAX_FAST_FOOD_BREAKFAST_PER_WEEK = 1;
 
+// Trọng lượng tham chiếu cơ sở (gram) theo từng vai trò trong mâm cơm chuẩn Việt Nam
+export const BASE_ROLE_GRAMS = {
+  STAPLE_CARB: 150, // 1 chén cơm vừa (150g) hoặc 1 củ khoai lang vừa (150g)
+  MAIN_PROTEIN: 150, // 1 suất thịt nạc / ức gà / fillet cá (150g)
+  SIDE_PROTEIN: 100, // Đậu phụ / trứng / chả (100g)
+  VEG: 150, // 1 đĩa rau luộc / xào (150g)
+  SOUP: 200, // 1 bát canh nước (200g)
+  NOODLE_MAIN: 450, // 1 tô bún / phở lớn (450g)
+  NOODLE_SIDE: 100, // Rau giá / quẩy ăn kèm (100g)
+  SALAD_BOWL: 220, // 1 tô salad / gỏi trộn (220g)
+  ROLLS: 180, // Đĩa gỏi cuốn / phở cuốn (180g)
+  SNACK: 120, // Trái cây đĩa nhỏ / hạt (120g)
+  DRINK: 250, // 1 ly nước ép / sữa hạt (250g ~ 250ml)
+  DESSERT: 120, // Sữa chua / chè (120g)
+};
+
+/**
+ * Tính toán khẩu lượng gram và tỷ lệ dinh dưỡng co giãn theo nhu cầu calo cá nhân
+ * @param {Object} dish Món ăn từ CSDL
+ * @param {string} slotRole Vai trò món trong kịch bản (STAPLE_CARB, MAIN_PROTEIN...)
+ * @param {number} subTargetKcal Calo mục tiêu phân bổ cho slot này
+ * @returns {{ gram: number, scaleRatio: number, serving: string, scaledMacros: Object, scaledKcal: number }}
+ */
+export function calculatePortionGram(dish, slotRole, subTargetKcal) {
+  const baseWeight = dish.serving_g || BASE_ROLE_GRAMS[slotRole] || 150;
+  const baseKcal = dish.kcal || 100;
+
+  // Nếu không có subTargetKcal hoặc baseKcal không hợp lệ, giữ nguyên chuẩn 1 serving
+  if (!subTargetKcal || baseKcal <= 0) {
+    return {
+      gram: baseWeight,
+      scaleRatio: 1,
+      serving: `${baseWeight}g`,
+      scaledKcal: baseKcal,
+      scaledMacros: {
+        protein_g: dish.protein_g || 0,
+        fat_g: dish.fat_g || 0,
+        carb_g: dish.carb_g || 0,
+      },
+    };
+  }
+
+  // Tỷ lệ co giãn calo
+  const rawRatio = subTargetKcal / baseKcal;
+  // Giới hạn hệ số co giãn hợp lý trong khoảng an toàn sinh học [0.65, 1.45]
+  const scaleRatio = Math.max(0.65, Math.min(1.45, rawRatio));
+
+  // Làm tròn trọng lượng gram theo bước 5g (ví dụ: 135g, 150g, 175g, 210g)
+  const gram = Math.round((baseWeight * scaleRatio) / 5) * 5;
+  const actualRatio = gram / baseWeight;
+
+  // Tính lại năng lượng và macro theo gram thực tế
+  const scaledKcal = Math.round(baseKcal * actualRatio * 10) / 10;
+  const scaledMacros = {
+    protein_g: Math.round((dish.protein_g || 0) * actualRatio * 10) / 10,
+    fat_g: Math.round((dish.fat_g || 0) * actualRatio * 10) / 10,
+    carb_g: Math.round((dish.carb_g || 0) * actualRatio * 10) / 10,
+  };
+
+  // Tạo nhãn khẩu phần trực quan dễ hiểu cho người dùng Việt
+  let unitHint = "";
+  if (slotRole === "STAPLE_CARB") {
+    unitHint = gram <= 120 ? " (lưng chén)" : gram <= 170 ? " (1 chén vừa)" : " (1 chén đầy)";
+  } else if (slotRole === "SOUP") {
+    unitHint = " (1 bát canh)";
+  } else if (slotRole === "VEG") {
+    unitHint = " (1 đĩa rau)";
+  } else if (slotRole === "NOODLE_MAIN") {
+    unitHint = " (1 tô vừa)";
+  }
+
+  return {
+    gram,
+    scaleRatio: actualRatio,
+    serving: `${gram}g${unitHint}`,
+    scaledKcal,
+    scaledMacros,
+  };
+}
+
 // Pool -> chỉ giữ món hợp với bộ luật bệnh nền/dị ứng (fail-closed)
 export function filterEligibleDishes(pool, rules) {
   return pool.filter((d) => isDishAllowed(d, rules));
@@ -52,23 +132,34 @@ function scoreSlotDish(dish, slotRole, subBudget, mealScale) {
 
   if (slotRole === "VEG") {
     const fatExcess = Math.max(0, (dish.fat_g || 0) - subBudget.fat_g) / minScaleF;
-    return kcalErr * 0.7 + fatExcess * 0.3;
+    let score = kcalErr * 0.7 + fatExcess * 0.3;
+    if (dish.isHealthy) score -= 0.3;
+    return score;
   }
 
   if (slotRole === "SOUP") {
     const fatExcess = Math.max(0, (dish.fat_g || 0) - subBudget.fat_g) / minScaleF;
-    return kcalErr * 0.7 + fatExcess * 0.3;
+    let score = kcalErr * 0.7 + fatExcess * 0.3;
+    if (dish.isHealthy) score -= 0.3;
+    return score;
   }
 
   if (slotRole === "STAPLE_CARB") {
     const carbDiff = Math.abs((dish.carb_g || 0) - subBudget.carb_g) / minScaleC;
     const fatExcess = Math.max(0, (dish.fat_g || 0) - subBudget.fat_g) / minScaleF;
-    return kcalErr * 0.4 + carbDiff * 0.4 + fatExcess * 0.2;
+    let score = kcalErr * 0.4 + carbDiff * 0.4 + fatExcess * 0.2;
+    // Ưu tiên mạnh mẽ tinh bột tốt cho sức khỏe Việt Nam: Cơm gạo lứt, khoai lang luộc, ngô luộc, yến mạch
+    if (dish.isHealthy || /lứt|khoai lang|ngô luộc|yến mạch|quinoa/.test((dish.nameVi || "").toLowerCase())) {
+      score -= 0.45;
+    }
+    return score;
   }
 
   if (slotRole === "DRINK" || slotRole === "SNACK") {
     const fatExcess = Math.max(0, (dish.fat_g || 0) - subBudget.fat_g) / minScaleF;
-    return kcalErr * 0.6 + fatExcess * 0.4;
+    let score = kcalErr * 0.6 + fatExcess * 0.4;
+    if (dish.isHealthy) score -= 0.3;
+    return score;
   }
 
   // Món đạm chính (MAIN_PROTEIN) & Món đạm phụ (SIDE_PROTEIN)
@@ -85,6 +176,11 @@ function scoreSlotDish(dish, slotRole, subBudget, mealScale) {
     score -= 0.4; // Ưu tiên hàng đầu (tối thiểu 4-5 bữa/tuần)
   } else if (dish.proteinSource === "PORK_BEEF" || dish.proteinSource === "PLANT") {
     score -= 0.25;
+  }
+
+  // Thưởng điểm thêm cho các món đạm chuẩn Eat Clean / Sức khỏe Việt Nam (ức gà, cá hấp, đậu phụ luộc...)
+  if (dish.isHealthy) {
+    score -= 0.35;
   }
 
   return score;
@@ -259,6 +355,7 @@ function generateMealForScenario(
     slotCandidates.push({
       role: slot.role,
       roleLabel: slot.label,
+      subTargetKcal,
       tolerance: slot.tolerance,
       candidates: ranked.slice(0, 4).map((r) => r.dish),
       allRanked: ranked.map((r) => r.dish),
@@ -288,23 +385,33 @@ function generateMealForScenario(
 
   const items = bestCombo.map((d, idx) => {
     const slotInfo = slotCandidates[idx];
+    const portion = calculatePortionGram(d, slotInfo.role, slotInfo.subTargetKcal);
+
     const swapCandidates = slotInfo.allRanked
       .filter((cand) => cand.id !== d.id)
       .slice(0, SWAP_CANDIDATE_COUNT)
-      .map((c) => ({
-        dishId: c.id,
-        nameVi: c.nameVi,
-        kcal: c.kcal,
-        macros: { protein_g: c.protein_g, fat_g: c.fat_g, carb_g: c.carb_g },
-      }));
+      .map((c) => {
+        const cPortion = calculatePortionGram(c, slotInfo.role, slotInfo.subTargetKcal);
+        return {
+          dishId: c.id,
+          nameVi: c.nameVi,
+          gram: cPortion.gram,
+          serving: cPortion.serving,
+          kcal: cPortion.scaledKcal,
+          macros: cPortion.scaledMacros,
+        };
+      });
 
     return {
       role: slotInfo.role,
       roleLabel: slotInfo.roleLabel,
       dishId: d.id,
       nameVi: d.nameVi,
-      kcal: d.kcal,
-      macros: { protein_g: d.protein_g, fat_g: d.fat_g, carb_g: d.carb_g },
+      gram: portion.gram,
+      serving: portion.serving,
+      baseKcal: d.kcal,
+      kcal: portion.scaledKcal,
+      macros: portion.scaledMacros,
       swapCandidates,
     };
   });
@@ -315,6 +422,10 @@ function generateMealForScenario(
     fat_g: Math.round(items.reduce((s, i) => s + (i.macros.fat_g || 0), 0) * 10) / 10,
     carb_g: Math.round(items.reduce((s, i) => s + (i.macros.carb_g || 0), 0) * 10) / 10,
   };
+  const totalGrams = items.reduce((s, i) => s + (i.gram || 0), 0);
+  const servingSummary = items.length > 1
+    ? items.map((i) => `${i.gram}g ${i.nameVi}`).join(" + ")
+    : items[0]?.serving || `${totalGrams}g`;
 
   const isNoodle = Boolean(
     scenario.isNoodleFormat || items.some((i) => bestCombo.some((d) => d.dishFormat === "SOUP_NOODLE"))
@@ -332,6 +443,8 @@ function generateMealForScenario(
     kcal: totalKcal,
     macros: totalMacros,
     items,
+    gram: totalGrams,
+    serving: servingSummary,
     isNoodleFormat: isNoodle,
     dishIds: bestCombo.map((d) => d.id),
     proteinSource: mainProteinItem?.proteinSource || "OTHER",
@@ -474,6 +587,8 @@ export function generateDishMealPlan({
         nameVi: chosenMeal.nameVi,
         kcal: chosenMeal.kcal,
         macros: chosenMeal.macros,
+        gram: chosenMeal.gram,
+        serving: chosenMeal.serving,
         items: chosenMeal.items,
         swapCandidates: chosenMeal.items[0]?.swapCandidates ?? [],
       });
@@ -502,6 +617,8 @@ export function applyItemSwap(meal, itemIndex, chooseDishId) {
   const oldItemDish = {
     dishId: targetItem.dishId,
     nameVi: targetItem.nameVi,
+    gram: targetItem.gram,
+    serving: targetItem.serving,
     kcal: targetItem.kcal,
     macros: targetItem.macros,
   };
@@ -512,6 +629,8 @@ export function applyItemSwap(meal, itemIndex, chooseDishId) {
     ...targetItem,
     dishId: chosenCandidate.dishId,
     nameVi: chosenCandidate.nameVi,
+    gram: chosenCandidate.gram || targetItem.gram,
+    serving: chosenCandidate.serving || (chosenCandidate.gram ? `${chosenCandidate.gram}g` : targetItem.serving),
     kcal: chosenCandidate.kcal,
     macros: chosenCandidate.macros,
     swapCandidates: updatedCandidates,
@@ -526,6 +645,10 @@ export function applyItemSwap(meal, itemIndex, chooseDishId) {
     fat_g: Math.round(updatedItems.reduce((s, i) => s + (i.macros.fat_g || 0), 0) * 10) / 10,
     carb_g: Math.round(updatedItems.reduce((s, i) => s + (i.macros.carb_g || 0), 0) * 10) / 10,
   };
+  const newTotalGrams = updatedItems.reduce((s, i) => s + (i.gram || 0), 0);
+  const newServingSummary = updatedItems.length > 1
+    ? updatedItems.map((i) => `${i.gram}g ${i.nameVi}`).join(" + ")
+    : updatedItems[0]?.serving || `${newTotalGrams}g`;
 
   const updatedMeal = {
     ...meal,
@@ -533,6 +656,8 @@ export function applyItemSwap(meal, itemIndex, chooseDishId) {
     kcal: newTotalKcal,
     macros: newMacros,
     items: updatedItems,
+    gram: newTotalGrams,
+    serving: newServingSummary,
   };
 
   return { ok: true, meal: updatedMeal };
