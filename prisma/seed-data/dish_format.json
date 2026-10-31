@@ -1,0 +1,22 @@
+[
+  { "code": "SOUP_NOODLE",           "nameVi": "Món nước (bún/phở/miến/mỳ/hủ tiếu có nước)", "nameEn": "Wet noodle soup", "note": "Gộp toàn bộ id 1 và id 8 cũ khi món có nước dùng." },
+  { "code": "DRY_NOODLE",            "nameVi": "Bún/miến/mỳ trộn, khô", "nameEn": "Dry/mixed noodle" },
+  { "code": "RICE_PORRIDGE_STICKY",  "nameVi": "Cơm, cháo, xôi", "nameEn": "Rice, congee, sticky rice", "note": "Gộp id 5, 9, 12, và phần xôi trong id 16 cũ." },
+  { "code": "HOTPOT",                "nameVi": "Lẩu", "nameEn": "Hotpot" },
+  { "code": "SALAD_MIX",             "nameVi": "Gỏi, nộm, món trộn tái", "nameEn": "Salad / raw-mixed dish" },
+  { "code": "STIR_FRY",              "nameVi": "Món xào", "nameEn": "Stir-fried" },
+  { "code": "FRIED_RANG",            "nameVi": "Món chiên, rán, rang khô", "nameEn": "Fried / dry-roasted" },
+  { "code": "GRILLED",               "nameVi": "Món nướng, quay", "nameEn": "Grilled / roasted" },
+  { "code": "BRAISED_STEWED",        "nameVi": "Món kho, rim, hầm, om, tần", "nameEn": "Braised / stewed" },
+  { "code": "BOILED_STEAMED",        "nameVi": "Món luộc, hấp", "nameEn": "Boiled / steamed" },
+  { "code": "SOUP_SIDE",             "nameVi": "Canh, súp (món ăn kèm, không phải món nước chính)", "nameEn": "Side soup" },
+  { "code": "BREAD_BURGER",          "nameVi": "Bánh mì, burger, pizza", "nameEn": "Bread-based / Western" },
+  { "code": "WRAPPED_CAKE_CHA_NEM",  "nameVi": "Bánh cuốn/gói, chả, nem, giò, cuốn", "nameEn": "Wrapped cake / processed meat roll" },
+  { "code": "DESSERT_SWEET",         "nameVi": "Chè, kem, caramen, tào phớ, thạch", "nameEn": "Sweet dessert", "note": "Gộp phần tráng miệng trong id 3, 4, 10, 16 cũ." },
+  { "code": "BEVERAGE",              "nameVi": "Nước uống, trà, cà phê, sữa uống", "nameEn": "Beverage", "note": "Tách khỏi id 3/4/10 cũ để không lẫn với chè/kem." },
+  { "code": "SUSHI",                 "nameVi": "Sushi", "nameEn": "Sushi" },
+  { "code": "FRUIT_RAW",             "nameVi": "Trái cây / rau củ ăn sống", "nameEn": "Fresh fruit or raw vegetable" },
+  { "code": "PICKLED_RAW",           "nameVi": "Muối chua, dầm giấm", "nameEn": "Pickled" },
+  { "code": "PACKAGED_SNACK",        "nameVi": "Đồ ăn vặt / bánh kẹo công nghiệp đóng gói", "nameEn": "Packaged commercial snack" },
+  { "code": "OTHER_UNCLASSIFIED",    "nameVi": "Chưa phân loại - cần duyệt tay", "nameEn": "Unclassified - needs manual review" }
+]

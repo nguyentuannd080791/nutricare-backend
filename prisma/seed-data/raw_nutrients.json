@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "code": "chat_dam",
+    "name": "Chất đạm",
+    "unit": "g",
+    "category": "PROXIMATE",
+    "display_order": 1
+  },
+  {
+    "id": 2,
+    "code": "chat_beo_fat",
+    "name": "Chất béo (Fat)",
+    "unit": "g",
+    "category": "PROXIMATE",
+    "display_order": 2
+  },
+  {
+    "id": 3,
+    "code": "chat_bot_duong",
+    "name": "Chất bột đường",
+    "unit": "g",
+    "category": "PROXIMATE",
+    "display_order": 3
+  },
+  {
+    "id": 4,
+    "code": "chat_xo",
+    "name": "Chất xơ",
+    "unit": "g",
+    "category": "PROXIMATE",
+    "display_order": 4
+  },
+  {
+    "id": 5,
+    "code": "canxi",
+    "name": "Canxi",
+    "unit": "mg",
+    "category": "MINERAL",
+    "display_order": 5
+  },
+  {
+    "id": 6,
+    "code": "sat",
+    "name": "Sắt",
+    "unit": "mg",
+    "category": "MINERAL",
+    "display_order": 6
+  },
+  {
+    "id": 7,
+    "code": "natri",
+    "name": "Natri",
+    "unit": "mg",
+    "category": "MINERAL",
+    "display_order": 7
+  },
+  {
+    "id": 8,
+    "code": "kali",
+    "name": "Kali",
+    "unit": "mg",
+    "category": "MINERAL",
+    "display_order": 8
+  },
+  {
+    "id": 9,
+    "code": "kem",
+    "name": "Kẽm",
+    "unit": "mg",
+    "category": "MINERAL",
+    "display_order": 9
+  },
+  {
+    "id": 10,
+    "code": "nuoc",
+    "name": "Nước",
+    "unit": "g",
+    "category": "PROXIMATE",
+    "display_order": 10
+  },
+  {
+    "id": 11,
+    "code": "threonine",
+    "name": "Threonine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 11
+  },
+  {
+    "id": 12,
+    "code": "isoleucine",
+    "name": "Isoleucine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 12
+  },
+  {
+    "id": 13,
+    "code": "leucine",
+    "name": "Leucine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 13
+  },
+  {
+    "id": 14,
+    "code": "lysine",
+    "name": "Lysine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 14
+  },
+  {
+    "id": 15,
+    "code": "methionine",
+    "name": "Methionine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 15
+  },
+  {
+    "id": 16,
+    "code": "cystine",
+    "name": "Cystine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 16
+  },
+  {
+    "id": 17,
+    "code": "phenylalanine",
+    "name": "Phenylalanine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 17
+  },
+  {
+    "id": 18,
+    "code": "tyrosine",
+    "name": "Tyrosine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 18
+  },
+  {
+    "id": 19,
+    "code": "valine",
+    "name": "Valine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 19
+  },
+  {
+    "id": 20,
+    "code": "arginine",
+    "name": "Arginine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 20
+  },
+  {
+    "id": 21,
+    "code": "histidine",
+    "name": "Histidine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 21
+  },
+  {
+    "id": 22,
+    "code": "alanine",
+    "name": "Alanine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 22
+  },
+  {
+    "id": 23,
+    "code": "axit_aspartic",
+    "name": "Axit Aspartic",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 23
+  },
+  {
+    "id": 24,
+    "code": "axit_glutamic",
+    "name": "Axit Glutamic",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 24
+  },
+  {
+    "id": 25,
+    "code": "glycine",
+    "name": "Glycine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 25
+  },
+  {
+    "id": 26,
+    "code": "proline",
+    "name": "Proline",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 26
+  },
+  {
+    "id": 27,
+    "code": "serine",
+    "name": "Serine",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 27
+  },
+  {
+    "id": 28,
+    "code": "ash",
+    "name": "Ash",
+    "unit": "g",
+    "category": "PROXIMATE",
+    "display_order": 28
+  },
+  {
+    "id": 29,
+    "code": "magie",
+    "name": "Magie",
+    "unit": "mg",
+    "category": "MINERAL",
+    "display_order": 29
+  },
+  {
+    "id": 30,
+    "code": "photpho",
+    "name": "Photpho",
+    "unit": "mg",
+    "category": "MINERAL",
+    "display_order": 30
+  },
+  {
+    "id": 31,
+    "code": "dong",
+    "name": "Đồng",
+    "unit": "mg",
+    "category": "MINERAL",
+    "display_order": 31
+  },
+  {
+    "id": 32,
+    "code": "mangan",
+    "name": "Mangan",
+    "unit": "mg",
+    "category": "MINERAL",
+    "display_order": 32
+  },
+  {
+    "id": 33,
+    "code": "vitamin_b1_thiamin",
+    "name": "Vitamin B1 (Thiamin)",
+    "unit": "mg",
+    "category": "VITAMIN",
+    "display_order": 33
+  },
+  {
+    "id": 34,
+    "code": "vitamin_b2_riboflavin",
+    "name": "Vitamin B2 (Riboflavin)",
+    "unit": "mg",
+    "category": "VITAMIN",
+    "display_order": 34
+  },
+  {
+    "id": 35,
+    "code": "vitamin_b3_niacin",
+    "name": "Vitamin B3 (Niacin)",
+    "unit": "mg",
+    "category": "VITAMIN",
+    "display_order": 35
+  },
+  {
+    "id": 36,
+    "code": "tryptophan",
+    "name": "Tryptophan",
+    "unit": "mg",
+    "category": "AMINO_ACID",
+    "display_order": 36
+  },
+  {
+    "id": 37,
+    "code": "axit_beo_bao_hoa_tong_so",
+    "name": "Axit béo bão hòa tổng số",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 37
+  },
+  {
+    "id": 38,
+    "code": "c16_0",
+    "name": "C16:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 38
+  },
+  {
+    "id": 39,
+    "code": "c18_0",
+    "name": "C18:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 39
+  },
+  {
+    "id": 40,
+    "code": "axit_beo_khong_bao_hoa_don_tong_so",
+    "name": "Axit béo không bão hòa đơn tổng số",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 40
+  },
+  {
+    "id": 41,
+    "code": "c16_1_c",
+    "name": "C16:1 c",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 41
+  },
+  {
+    "id": 42,
+    "code": "c18_1_c",
+    "name": "C18:1 c",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 42
+  },
+  {
+    "id": 43,
+    "code": "axit_beo_khong_bao_hoa_da_tong_so",
+    "name": "Axit béo không bão hòa đa tổng số",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 43
+  },
+  {
+    "id": 44,
+    "code": "c_18_2_cis_n_6_linoleic_acid",
+    "name": "C 18:2, cis, n-6 (Linoleic Acid)",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 44
+  },
+  {
+    "id": 45,
+    "code": "c_18_3_cis_n_3_alpha_linolenic_acid",
+    "name": "C 18:3, cis, n-3 (Alpha-Linolenic Acid)",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 45
+  },
+  {
+    "id": 46,
+    "code": "selen",
+    "name": "Selen",
+    "unit": "mcg",
+    "category": "MINERAL",
+    "display_order": 46
+  },
+  {
+    "id": 47,
+    "code": "vitamin_b5_axit_pantothenic",
+    "name": "Vitamin B5 (axit pantothenic)",
+    "unit": "mg",
+    "category": "VITAMIN",
+    "display_order": 47
+  },
+  {
+    "id": 48,
+    "code": "vit_b6",
+    "name": "Vit B6",
+    "unit": "mg",
+    "category": "VITAMIN",
+    "display_order": 48
+  },
+  {
+    "id": 49,
+    "code": "folate_tong_so",
+    "name": "Folate tổng số",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 49
+  },
+  {
+    "id": 50,
+    "code": "folate_food",
+    "name": "Folate, food",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 50
+  },
+  {
+    "id": 51,
+    "code": "vit_a_rae",
+    "name": "Vit A-RAE",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 51
+  },
+  {
+    "id": 52,
+    "code": "b_carotene",
+    "name": "ß-carotene",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 52
+  },
+  {
+    "id": 53,
+    "code": "vit_e",
+    "name": "Vit E",
+    "unit": "mg",
+    "category": "VITAMIN",
+    "display_order": 53
+  },
+  {
+    "id": 54,
+    "code": "vit_k_phylloquinone",
+    "name": "Vit K (phylloquinone)",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 54
+  },
+  {
+    "id": 55,
+    "code": "vit_c",
+    "name": "Vit C",
+    "unit": "mg",
+    "category": "VITAMIN",
+    "display_order": 55
+  },
+  {
+    "id": 56,
+    "code": "sugars_total",
+    "name": "Sugars, total",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 56
+  },
+  {
+    "id": 57,
+    "code": "lutein_zeaxanthin",
+    "name": "Lutein + zeaxanthin",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 57
+  },
+  {
+    "id": 58,
+    "code": "carotene_alpha",
+    "name": "Carotene, alpha",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 58
+  },
+  {
+    "id": 59,
+    "code": "c20_4_n_6",
+    "name": "C20:4 n-6",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 59
+  },
+  {
+    "id": 60,
+    "code": "cholesterol",
+    "name": "Cholesterol",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 60
+  },
+  {
+    "id": 61,
+    "code": "cryptoxanthin_beta",
+    "name": "Cryptoxanthin, beta",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 61
+  },
+  {
+    "id": 62,
+    "code": "c17_0",
+    "name": "C17:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 62
+  },
+  {
+    "id": 63,
+    "code": "c20_0",
+    "name": "C20:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 63
+  },
+  {
+    "id": 64,
+    "code": "c22_0",
+    "name": "C22:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 64
+  },
+  {
+    "id": 65,
+    "code": "c24_0",
+    "name": "C24:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 65
+  },
+  {
+    "id": 66,
+    "code": "vit_d_d2_d3",
+    "name": "Vit D (D2 +D3)",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 66
+  },
+  {
+    "id": 67,
+    "code": "c16_1_undifferentiated",
+    "name": "C16:1 undifferentiated",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 67
+  },
+  {
+    "id": 68,
+    "code": "c18_1_undifferentiated",
+    "name": "C18:1 undifferentiated",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 68
+  },
+  {
+    "id": 69,
+    "code": "lycopene",
+    "name": "Lycopene",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 69
+  },
+  {
+    "id": 70,
+    "code": "c20_5_n_3_epa",
+    "name": "C20:5 n-3 (EPA)",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 70
+  },
+  {
+    "id": 71,
+    "code": "c18_2_undifferentiated",
+    "name": "C18:2 undifferentiated",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 71
+  },
+  {
+    "id": 72,
+    "code": "c18_3_undifferentiated",
+    "name": "C18:3 undifferentiated",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 72
+  },
+  {
+    "id": 73,
+    "code": "glucose_dextrose",
+    "name": "Glucose (Dextrose)",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 73
+  },
+  {
+    "id": 74,
+    "code": "folate_dfe",
+    "name": "Folate, DFE",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 74
+  },
+  {
+    "id": 75,
+    "code": "choline_total",
+    "name": "Choline, total",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 75
+  },
+  {
+    "id": 76,
+    "code": "c12_0",
+    "name": "C12:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 76
+  },
+  {
+    "id": 77,
+    "code": "c14_0",
+    "name": "C14:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 77
+  },
+  {
+    "id": 78,
+    "code": "c18_1_t",
+    "name": "C18:1 t",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 78
+  },
+  {
+    "id": 79,
+    "code": "tocopherol_alpha",
+    "name": "Tocopherol, alpha",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 79
+  },
+  {
+    "id": 80,
+    "code": "retinol",
+    "name": "Retinol",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 80
+  },
+  {
+    "id": 81,
+    "code": "c22_6_n_3_dha",
+    "name": "C22:6 n-3 (DHA)",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 81
+  },
+  {
+    "id": 82,
+    "code": "c20_4_undifferentiated",
+    "name": "C20:4 undifferentiated",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 82
+  },
+  {
+    "id": 83,
+    "code": "vit_b12",
+    "name": "Vit B12",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 83
+  },
+  {
+    "id": 84,
+    "code": "c10_0",
+    "name": "C10:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 84
+  },
+  {
+    "id": 85,
+    "code": "c20_1",
+    "name": "C20:1",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 85
+  },
+  {
+    "id": 86,
+    "code": "vit_d3_cholecalciferol",
+    "name": "Vit D3 (cholecalciferol)",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 86
+  },
+  {
+    "id": 87,
+    "code": "c14_1",
+    "name": "C14:1",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 87
+  },
+  {
+    "id": 88,
+    "code": "c15_0",
+    "name": "C15:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 88
+  },
+  {
+    "id": 89,
+    "code": "c15_1",
+    "name": "C15:1",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 89
+  },
+  {
+    "id": 90,
+    "code": "c16_1_t",
+    "name": "C16:1 t",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 90
+  },
+  {
+    "id": 91,
+    "code": "c17_1",
+    "name": "C17:1",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 91
+  },
+  {
+    "id": 92,
+    "code": "c22_1_undifferentiated",
+    "name": "C22:1 undifferentiated",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 92
+  },
+  {
+    "id": 93,
+    "code": "c22_1_c",
+    "name": "C22:1 c",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 93
+  },
+  {
+    "id": 94,
+    "code": "c24_1_c",
+    "name": "C24:1 c",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 94
+  },
+  {
+    "id": 95,
+    "code": "c18_2_clas",
+    "name": "C18:2 CLAs",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 95
+  },
+  {
+    "id": 96,
+    "code": "c18_3_n_6_c_c_c",
+    "name": "C18:3 n-6 c,c,c",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 96
+  },
+  {
+    "id": 97,
+    "code": "c18_4",
+    "name": "C18:4",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 97
+  },
+  {
+    "id": 98,
+    "code": "c20_2_n_6_c_c",
+    "name": "C20:2 n-6 c,c",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 98
+  },
+  {
+    "id": 99,
+    "code": "c20_3_undifferentiated",
+    "name": "C20:3 undifferentiated",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 99
+  },
+  {
+    "id": 100,
+    "code": "c20_3_n_3",
+    "name": "C20:3 n-3",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 100
+  },
+  {
+    "id": 101,
+    "code": "c20_3_n_6",
+    "name": "C20:3 n-6",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 101
+  },
+  {
+    "id": 102,
+    "code": "c22_4",
+    "name": "C22:4",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 102
+  },
+  {
+    "id": 103,
+    "code": "c22_5_n_3_dpa",
+    "name": "C22:5 n-3 (DPA)",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 103
+  },
+  {
+    "id": 104,
+    "code": "fatty_acids_total_trans",
+    "name": "Fatty acids, total trans",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 104
+  },
+  {
+    "id": 105,
+    "code": "fatty_acids_total_trans_monoenoic",
+    "name": "Fatty acids, total trans-monoenoic",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 105
+  },
+  {
+    "id": 106,
+    "code": "fatty_acids_total_trans_polyenoic",
+    "name": "Fatty acids, total trans-polyenoic",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 106
+  },
+  {
+    "id": 107,
+    "code": "tocopherol_gamma",
+    "name": "Tocopherol, gamma",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 107
+  },
+  {
+    "id": 108,
+    "code": "tocotrienol_alpha",
+    "name": "Tocotrienol, alpha",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 108
+  },
+  {
+    "id": 109,
+    "code": "tocotrienol_gamma",
+    "name": "Tocotrienol, gamma",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 109
+  },
+  {
+    "id": 110,
+    "code": "c4_0",
+    "name": "C4:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 110
+  },
+  {
+    "id": 111,
+    "code": "c6_0",
+    "name": "C6:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 111
+  },
+  {
+    "id": 112,
+    "code": "c8_0",
+    "name": "C8:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 112
+  },
+  {
+    "id": 113,
+    "code": "f",
+    "name": "F",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 113
+  },
+  {
+    "id": 114,
+    "code": "vit_a_re",
+    "name": "Vit A- RE",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 114
+  },
+  {
+    "id": 115,
+    "code": "c13_0",
+    "name": "C13:0",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 115
+  },
+  {
+    "id": 116,
+    "code": "c18_1_11_t_18_1t_n_7",
+    "name": "C18:1-11 t (18:1t n-7)",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 116
+  },
+  {
+    "id": 117,
+    "code": "c22_1_t",
+    "name": "C22:1 t",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 117
+  },
+  {
+    "id": 118,
+    "code": "c18_2_t_t",
+    "name": "C18:2 t,t",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 118
+  },
+  {
+    "id": 119,
+    "code": "c18_2_i",
+    "name": "C18:2 i",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 119
+  },
+  {
+    "id": 120,
+    "code": "c18_2_t_not_further_defined",
+    "name": "C18:2 t not further defined",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 120
+  },
+  {
+    "id": 121,
+    "code": "c18_3i",
+    "name": "C18:3i",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 121
+  },
+  {
+    "id": 122,
+    "code": "c21_5",
+    "name": "C21:5",
+    "unit": "g",
+    "category": "FATTY_ACID",
+    "display_order": 122
+  },
+  {
+    "id": 123,
+    "code": "phytosterols",
+    "name": "Phytosterols",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 123
+  },
+  {
+    "id": 124,
+    "code": "stigmasterol",
+    "name": "Stigmasterol",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 124
+  },
+  {
+    "id": 125,
+    "code": "campesterol",
+    "name": "Campesterol",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 125
+  },
+  {
+    "id": 126,
+    "code": "beta_sitosterol",
+    "name": "Beta-sitosterol",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 126
+  },
+  {
+    "id": 127,
+    "code": "fructose",
+    "name": "Fructose",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 127
+  },
+  {
+    "id": 128,
+    "code": "lactose",
+    "name": "Lactose",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 128
+  },
+  {
+    "id": 129,
+    "code": "maltose",
+    "name": "Maltose",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 129
+  },
+  {
+    "id": 130,
+    "code": "galactose",
+    "name": "Galactose",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 130
+  },
+  {
+    "id": 131,
+    "code": "starch",
+    "name": "Starch",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 131
+  },
+  {
+    "id": 132,
+    "code": "phytic_acid",
+    "name": "Phytic acid",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 132
+  },
+  {
+    "id": 133,
+    "code": "vit_a",
+    "name": "Vit A",
+    "unit": "mg",
+    "category": "VITAMIN",
+    "display_order": 133
+  },
+  {
+    "id": 134,
+    "code": "vit_d2_ergocalciferol",
+    "name": "Vit D2 (ergocalciferol)",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 134
+  },
+  {
+    "id": 135,
+    "code": "vit_e_added",
+    "name": "Vit E, added",
+    "unit": "mg",
+    "category": "VITAMIN",
+    "display_order": 135
+  },
+  {
+    "id": 136,
+    "code": "tocopherol_beta",
+    "name": "Tocopherol, beta",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 136
+  },
+  {
+    "id": 137,
+    "code": "tocopherol_delta",
+    "name": "Tocopherol, delta",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 137
+  },
+  {
+    "id": 138,
+    "code": "tocotrienol_beta",
+    "name": "Tocotrienol, beta",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 138
+  },
+  {
+    "id": 139,
+    "code": "tocotrienol_delta",
+    "name": "Tocotrienol, delta",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 139
+  },
+  {
+    "id": 140,
+    "code": "niacin_equivalents",
+    "name": "Niacin equivalents",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 140
+  },
+  {
+    "id": 141,
+    "code": "vit_b12_added",
+    "name": "Vit B12, added",
+    "unit": "mcg",
+    "category": "VITAMIN",
+    "display_order": 141
+  },
+  {
+    "id": 142,
+    "code": "folic_acid",
+    "name": "Folic acid",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 142
+  },
+  {
+    "id": 143,
+    "code": "caffeine",
+    "name": "Caffeine",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 143
+  },
+  {
+    "id": 144,
+    "code": "theobromine",
+    "name": "Theobromine",
+    "unit": "mg",
+    "category": "OTHER",
+    "display_order": 144
+  },
+  {
+    "id": 145,
+    "code": "hydroxyproline",
+    "name": "Hydroxyproline",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 145
+  },
+  {
+    "id": 146,
+    "code": "sugars_added",
+    "name": "Sugars, added",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 146
+  },
+  {
+    "id": 147,
+    "code": "dihydrophylloquinone",
+    "name": "Dihydrophylloquinone",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 147
+  },
+  {
+    "id": 148,
+    "code": "menaquinone_4",
+    "name": "Menaquinone-4",
+    "unit": "mcg",
+    "category": "OTHER",
+    "display_order": 148
+  },
+  {
+    "id": 149,
+    "code": "alcohol_ethyl",
+    "name": "Alcohol, ethyl",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 149
+  },
+  {
+    "id": 150,
+    "code": "sucrose",
+    "name": "Sucrose",
+    "unit": "g",
+    "category": "OTHER",
+    "display_order": 150
+  }
+]

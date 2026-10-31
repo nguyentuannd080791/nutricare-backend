@@ -1,0 +1,332 @@
+// Ban thuc hanh Node.js - schema nay dung PostgreSQL de chay duoc tren
+// ca ARM va x86 (Oracle Free Tier). Khi port sang Spring Boot, DB dich
+// van la SQL Server nhu da chot trong Overview - giu ten bang/cot
+// snake_case de dich JPA entity duoc 1-1.
+//
+// LUU Y: "isActive per user" partial unique index (mot target/plan active
+// tai mot thoi diem) khong khai bao duoc bang cu phap Prisma schema nen nam
+// trong raw SQL migration 20260921130000_frontend_integration:
+//   CREATE UNIQUE INDEX nutrition_targets_one_active_per_user
+//     ON nutrition_targets (user_id) WHERE is_active = true;
+//   CREATE UNIQUE INDEX meal_plans_one_active_per_user
+//     ON meal_plans (user_id) WHERE is_active = true;
+// Dung nguyen tac trong Decisions_And_Principles: composite unique se vo
+// hieu khi mot ban ghi cha duoc tham chieu boi nhieu ban ghi con.
+
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "debian-openssl-3.0.x", "linux-musl", "linux-musl-openssl-3.0.x"]
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model User {
+  id            String   @id @default(uuid())
+  email         String   @unique
+  passwordHash  String   @map("password_hash")
+  fullName      String   @default("") @map("full_name")
+  gender        String? // "nam" | "nu" - dau vao cua cong thuc Mifflin-St Jeor
+  dob           DateTime?
+  isPremium     Boolean  @default(false) @map("is_premium")
+  aiPlanCount   Int      @default(0) @map("ai_plan_count")
+  scanCount     Int      @default(0) @map("scan_count")
+  createdAt     DateTime @default(now()) @map("created_at")
+
+  bmiRecords       BmiRecord[]
+  nutritionTargets NutritionTarget[]
+  mealPlans        MealPlan[]
+  healthConditions HealthCondition[]
+  mealLogs         MealLog[]
+  exerciseLogs     ExerciseLog[]
+  passwordResetTokens PasswordResetToken[]
+  waterLogs        WaterLog[]
+  paymentTransactions PaymentTransaction[]
+
+  @@map("users")
+}
+
+model HealthCondition {
+  id        String   @id @default(uuid())
+  userId    String   @map("user_id")
+  name      String // van ban tu do - luat loc mon duoc suy ra tu ten (domain/conditionRules.js)
+  type      String   @default("BENH_NEN") // BENH_NEN | DI_UNG | CHI_DINH_BAC_SI
+  createdAt DateTime @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("health_conditions")
+}
+
+model BmiRecord {
+  id        String   @id @default(uuid())
+  userId    String   @map("user_id")
+  date      DateTime
+  heightCm  Float    @map("height_cm")
+  weightKg  Float    @map("weight_kg")
+  gender    String
+  dob       DateTime?
+  createdAt DateTime @default(now()) @map("created_at")
+
+  user             User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+  nutritionTargets NutritionTarget[]
+
+  @@index([userId])
+  @@map("bmi_records")
+}
+
+// user_id duoc giu truc tiep (khong chi qua bmiRecordId) vi bmiRecordId
+// nullable va user_id la hot-path query field - dung quyet dinh da chot.
+model NutritionTarget {
+  id                String    @id @default(uuid())
+  userId            String    @map("user_id")
+  bmiRecordId       String?   @map("bmi_record_id")
+  goalId            String    @map("goal_id")
+  activityId        String    @map("activity_id")
+  durationMonths    Int?      @map("duration_months")
+  targetWeightKg    Float?    @map("target_weight_kg") // cân nặng đích (chỉ giam_can / tang_can)
+  dailyKcalDelta    Int?      @map("daily_kcal_delta") // thâm hụt(-)/thặng dư(+) kcal mỗi ngày (chỉ giam_can / tang_can)
+  trigger           String    @default("initial") // initial | manual | bmi_change
+  bmr               Int
+  tdee              Int
+  calories          Int
+  protein           Int
+  carb              Int
+  fat               Int
+  fiber             Int
+  isActive          Boolean   @default(true) @map("is_active")
+  effectiveFrom     DateTime  @default(now()) @map("effective_from")
+  effectiveTo       DateTime? @map("effective_to")
+  lastTriggerDate   DateTime  @map("last_trigger_date")
+  lastTriggerWeight Float     @map("last_trigger_weight")
+  lastFeedbackCheckAt DateTime? @map("last_feedback_check_at") // Premium feedback loop, toi da 1 lan/7 ngay
+  createdAt         DateTime  @default(now()) @map("created_at")
+
+  user      User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  bmiRecord BmiRecord? @relation(fields: [bmiRecordId], references: [id])
+
+  @@index([userId])
+  @@map("nutrition_targets")
+}
+
+// ===== "Món ăn" (dish, nguyên 1 phần ăn đã chế biến) =====
+// Nguồn: viendinhduong.vn "giá trị dinh dưỡng món ăn" (scrape 2026-09-20),
+// 1247 món, 19 nhóm. Xem CHANGELOG_DISH_CATALOG.md để biết cách chuẩn hoá
+// đơn vị nutrient (nhiều id trong dữ liệu nguồn ghi sai nhãn đơn vị).
+model DishGroup {
+  id     Int    @id
+  nameVi String @map("name_vi")
+  nameEn String? @map("name_en")
+  dishes Dish[]
+
+  @@map("dish_groups")
+}
+
+model Dish {
+  id             Int      @id
+  code           String
+  groupId        Int      @map("group_id")
+  nameVi         String   @map("name_vi")
+  nameEn         String?  @map("name_en")
+  kcal           Float
+  proteinG       Float?   @map("protein_g")
+  fatG           Float?   @map("fat_g")
+  carbG          Float?   @map("carb_g")
+  fiberG         Float?   @map("fiber_g")
+  sodiumMg       Float?   @map("sodium_mg")
+  saltG          Float?   @map("salt_g")
+  cholesterolMg  Float?   @map("cholesterol_mg")
+  calciumMg      Float?   @map("calcium_mg")
+  ironMg         Float?   @map("iron_mg")
+  zincMg         Float?   @map("zinc_mg")
+  magnesiumMg    Float?   @map("magnesium_mg")
+  potassiumMg    Float?   @map("potassium_mg")
+  vitaminAMcg    Float?   @map("vitamin_a_mcg")
+  vitaminCMg     Float?   @map("vitamin_c_mg")
+  betacarotenMcg Float?   @map("betacaroten_mcg")
+  transfatMg     Float?   @map("transfat_mg")
+  mufaPufaG      Float?   @map("mufa_pufa_g")
+  sourceUrl      String?  @map("source_url")
+  dishFormat     String?  @map("dish_format") // kiểu chế biến (SOUP_NOODLE, DESSERT_SWEET...) - dùng làm "category" chống lặp món + suy ra bữa phù hợp, xem domain/mealContext.js
+  tags           Json     @default("[]") // string[] - gắn heuristic lúc seed, xem domain/dishTagging.js
+  searchAliases  Json     @default("[]") @map("search_aliases")
+
+  group DishGroup @relation(fields: [groupId], references: [id])
+
+  @@index([groupId])
+  @@index([nameVi])
+  @@map("dishes")
+}
+
+// ===== "Thực phẩm" (nguyên liệu tự nhiên, nguồn NIN) - TÁI LẬP 2026-09-21 =====
+// Khác hẳn model Food (60 item) đã ngắt kết nối trước đó - đây là dữ liệu
+// thật (847 thực phẩm, 150 nutrient kể cả acid amin) từ nin_source_long.csv
+// (dạng "long" - đã có sẵn tên + nhóm + đầy đủ nutrient, không cần join với
+// source_food_id của 03_adjusted_data2.sql như dự định ban đầu - bỏ qua
+// theo đúng yêu cầu, vì CSV này tự đủ và đáng tin hơn).
+//
+// Dùng EAV (RawFoodNutrient) thay vì flat column như Dish, vì 150 nutrient
+// (kể cả 18 acid amin, 54 acid béo) sẽ tạo ra bảng quá nhiều cột nếu làm flat.
+model RawFoodGroup {
+  id     Int       @id
+  nameVi String    @map("name_vi")
+  foods  RawFood[]
+
+  @@map("raw_food_groups")
+}
+
+model RawNutrient {
+  id           Int    @id
+  code         String @unique
+  nameVi       String @map("name_vi")
+  unit         String
+  category     String // PROXIMATE | MINERAL | VITAMIN | AMINO_ACID | FATTY_ACID | OTHER
+  displayOrder Int    @map("display_order")
+
+  values RawFoodNutrient[]
+
+  @@map("raw_nutrients")
+}
+
+model RawFood {
+  id      Int    @id // = "code" trong CSV nguồn (NIN food code, vd 1001)
+  nameVi  String @map("name_vi")
+  nameEn  String? @map("name_en")
+  groupId Int    @map("group_id")
+  kcal    Float
+  searchAliases Json @default("[]") @map("search_aliases")
+
+  group     RawFoodGroup      @relation(fields: [groupId], references: [id])
+  nutrients RawFoodNutrient[]
+
+  @@index([groupId])
+  @@index([nameVi])
+  @@map("raw_foods")
+}
+
+model RawFoodNutrient {
+  id         Int   @id @default(autoincrement())
+  foodId     Int   @map("food_id")
+  nutrientId Int   @map("nutrient_id")
+  amount     Float
+
+  food     RawFood     @relation(fields: [foodId], references: [id], onDelete: Cascade)
+  nutrient RawNutrient @relation(fields: [nutrientId], references: [id])
+
+  @@unique([foodId, nutrientId])
+  @@index([foodId])
+  @@map("raw_food_nutrients")
+}
+
+model MealPlan {
+  id                 String    @id @default(uuid())
+  userId             String    @map("user_id")
+  source             String // "algorithm" | "ai"
+  goalId             String    @map("goal_id")
+  days               Json
+  caloriesAtCreation Int       @map("calories_at_creation")
+  isActive           Boolean   @default(true) @map("is_active")
+  createdAt          DateTime  @default(now()) @map("created_at")
+  endedAt            DateTime? @map("ended_at")
+
+  user     User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  mealLogs MealLog[]
+
+  @@index([userId])
+  @@map("meal_plans")
+}
+
+// Nhật ký "đã ăn" do client gửi lên, server tự đối chiếu với thực đơn: món
+// (dishIds) và calo là BẢN CHỤP lấy từ meal_plans.days lúc ghi, không tin số
+// liệu client gửi. Mỗi (user, ngày, bữa) tối đa 1 dòng — bỏ tick = xoá dòng.
+// logDate là ngày theo UTC (cùng quy ước dateKey của client).
+model MealLog {
+  id        String   @id @default(uuid())
+  userId    String   @map("user_id")
+  planId    String   @map("plan_id")
+  logDate   DateTime @map("log_date") @db.Date
+  mealSlot  String   @map("meal_slot")
+  dayIndex  Int      @map("day_index")
+  dishIds   Json     @map("dish_ids")
+  kcal      Float
+  createdAt DateTime @default(now()) @map("created_at")
+
+  user User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  plan MealPlan @relation(fields: [planId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, logDate, mealSlot])
+  @@index([logDate])
+  @@map("meal_logs")
+}
+
+model ExerciseLog {
+  id         String   @id @default(uuid())
+  userId     String   @map("user_id")
+  logDate    DateTime @map("log_date") @db.Date
+  exerciseId String   @map("exercise_id")
+  minutes    Int
+  weightKg   Float    @map("weight_kg")
+  kcal       Int
+  createdAt  DateTime @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, logDate])
+  @@map("exercise_logs")
+}
+
+model PasswordResetToken {
+  id        String    @id @default(uuid())
+  userId    String    @map("user_id")
+  tokenHash String    @unique @map("token_hash")
+  expiresAt DateTime  @map("expires_at")
+  usedAt    DateTime? @map("used_at")
+  createdAt DateTime  @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("password_reset_tokens")
+}
+
+model WaterLog {
+  id        String   @id @default(uuid())
+  userId    String   @map("user_id")
+  logDate   DateTime @map("log_date") @db.Date
+  cups      Int
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, logDate])
+  @@map("water_logs")
+}
+
+model PaymentTransaction {
+  id                 String    @id @default(uuid())
+  orderCode          String    @unique @map("order_code")
+  userId             String    @map("user_id")
+  amount             Int
+  plan               String    // "monthly" | "yearly"
+  status             String    @default("PENDING") // PENDING | COMPLETED | FAILED | CANCELLED
+  gateway            String    @default("SEPAY")
+  transferContent    String    @map("transfer_content")
+  sepayTransactionId Int?      @map("sepay_transaction_id")
+  referenceCode      String?   @map("reference_code")
+  bankAccount        String?   @map("bank_account")
+  bankName           String?   @map("bank_name")
+  transactionDate    DateTime? @map("transaction_date")
+  createdAt          DateTime  @default(now()) @map("created_at")
+  completedAt        DateTime? @map("completed_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([orderCode])
+  @@index([status])
+  @@map("payment_transactions")
+}

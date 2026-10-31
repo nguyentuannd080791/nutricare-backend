@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "nameVi": "Bánh đa, bún, phở",
+    "nameEn": "Thick rice noodle, rice vermicelli, pho"
+  },
+  {
+    "id": 2,
+    "nameVi": "Các loại bánh",
+    "nameEn": "Cakes"
+  },
+  {
+    "id": 3,
+    "nameVi": "Chè, các loại giải khát",
+    "nameEn": "Sweet soup, drinks"
+  },
+  {
+    "id": 4,
+    "nameVi": "Chè, caramen, kem",
+    "nameEn": "Sweet soup, caramel pudding, ice cream"
+  },
+  {
+    "id": 5,
+    "nameVi": "Cơm, cháo, xôi",
+    "nameEn": "Fried rice, rice congee, sticky rice"
+  },
+  {
+    "id": 6,
+    "nameVi": "Các món khác",
+    "nameEn": "Other food dishes"
+  },
+  {
+    "id": 7,
+    "nameVi": "Burger, pizza",
+    "nameEn": "Burger, pizza"
+  },
+  {
+    "id": 8,
+    "nameVi": "Bánh canh, bánh đa, bún, cháo, súp, hoành thánh, hủ tiếu, miến, mỳ, phở, lẩu",
+    "nameEn": "Thick noodle soup, rice cracker noodles, rice vermicelli, congee, soup, wonton, hu tieu noodles, glass noodles, egg noodles, pho, hot pot"
+  },
+  {
+    "id": 9,
+    "nameVi": "Bún, cơm, xôi, cháo",
+    "nameEn": "Vermicelli, rice, sticky rice, porridge"
+  },
+  {
+    "id": 10,
+    "nameVi": "Giải khát",
+    "nameEn": "Drinks"
+  },
+  {
+    "id": 11,
+    "nameVi": "Ngao, ốc",
+    "nameEn": "Clams, snails"
+  },
+  {
+    "id": 12,
+    "nameVi": "Cơm các loại",
+    "nameEn": "A variety of rice dishes"
+  },
+  {
+    "id": 13,
+    "nameVi": "Món xào",
+    "nameEn": "Stir-fried dish"
+  },
+  {
+    "id": 14,
+    "nameVi": "Món canh",
+    "nameEn": "Món canh"
+  },
+  {
+    "id": 15,
+    "nameVi": "Các món bánh, kẹo",
+    "nameEn": "Pastries, snacks, candies"
+  },
+  {
+    "id": 16,
+    "nameVi": "Các món xôi, chè",
+    "nameEn": "Sticky rice dishes, sweet desserts"
+  },
+  {
+    "id": 17,
+    "nameVi": "Các món trứng, sữa và chế phẩm",
+    "nameEn": "Eggs, dairy products and derivatives"
+  },
+  {
+    "id": 18,
+    "nameVi": "Các loại trái cây",
+    "nameEn": "Fresh fruits"
+  },
+  {
+    "id": 19,
+    "nameVi": "Các món chế biến sẵn",
+    "nameEn": "Ready-made foods"
+  }
+]
