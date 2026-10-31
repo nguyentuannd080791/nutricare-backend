@@ -9,6 +9,7 @@ import {
 } from "../services/paymentService.js";
 import { requireAuth } from "../middleware/auth.js";
 import { requireAdmin } from "../middleware/admin.js";
+import { HttpError } from "../errors.js";
 
 export const publicPaymentRouter = Router();
 export const paymentRouter = Router();
@@ -62,9 +63,12 @@ paymentRouter.get("/payment/orders/:orderCode", async (req, res, next) => {
   }
 });
 
-// Giả lập thanh toán thành công (dành cho môi trường test/sandbox)
+// Giả lập thanh toán thành công (chỉ cho phép trong môi trường test/sandbox, cấm trên production)
 paymentRouter.post("/payment/orders/:orderCode/simulate", async (req, res, next) => {
   try {
+    if (process.env.NODE_ENV === "production") {
+      throw new HttpError(403, "Tính năng giả lập thanh toán bị vô hiệu hoá trên môi trường production.");
+    }
     const result = await simulatePaymentSuccess(req.params.orderCode, req.user.id);
     res.json(result);
   } catch (error) {

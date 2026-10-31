@@ -1,5 +1,6 @@
 import { Router } from "express";
 import { enforceAiPlanLimit } from "../middleware/usageLimits.js";
+import { aiLimiter } from "../middleware/rateLimiter.js";
 import { listPlans, generatePlan, swapMeal, swapItem, proposeDiversifiedPlan, applyDiversification } from "../services/planService.js";
 import { HttpError } from "../errors.js";
 import { requireInteger, requireText } from "../validation.js";
@@ -46,7 +47,7 @@ planRouter.post("/plan/swap", async (req, res) => {
 });
 
 // AI chỉ là lớp đa dạng hoá TUỲ CHỌN trên thực đơn đã có — trả đề xuất, chưa lưu.
-planRouter.post("/plan/diversify", enforceAiPlanLimit, async (req, res) => {
+planRouter.post("/plan/diversify", aiLimiter, enforceAiPlanLimit, async (req, res) => {
   const planId = requireText(req.body.planId, { label: "planId", max: 64 });
   res.json(await proposeDiversifiedPlan(req.user, { planId, note: req.body.note }));
 });

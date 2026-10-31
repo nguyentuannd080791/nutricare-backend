@@ -61,8 +61,11 @@ export function extractOrderCodeFromContent(content) {
  *   x-sepay-timestamp: '<timestamp>'
  * Chuỗi ký: timestamp + '.' + payload
  */
-export function verifySepayHmacSignature({ signature, timestamp, payload, secret }) {
+export function verifySepayHmacSignature({ signature, timestamp, payload, secret, isProduction = process.env.NODE_ENV === "production" }) {
   if (!secret) {
+    if (isProduction) {
+      return { verified: false, error: "SEPAY_SECRET_KEY chưa được cấu hình trên môi trường production." };
+    }
     // Nếu chưa cấu hình secret key trong .env thì cho phép bypass (để chạy local test / dev)
     return { verified: true, bypass: true };
   }
@@ -75,12 +78,20 @@ export function verifySepayHmacSignature({ signature, timestamp, payload, secret
   const rawSig = String(signature).trim().toLowerCase();
   const normalizedSig = rawSig.startsWith("sha256=") ? rawSig.slice(7) : rawSig;
 
+  function safeCompare(a, b) {
+    if (typeof a !== "string" || typeof b !== "string") return false;
+    const bufA = Buffer.from(a, "hex");
+    const bufB = Buffer.from(b, "hex");
+    if (bufA.length === 0 || bufA.length !== bufB.length) return false;
+    return crypto.timingSafeEqual(bufA, bufB);
+  }
+
   // 1. Thử ký với payload chuỗi nguyên bản (rawBody)
   const payloadStr1 = typeof payload === "string" ? payload : JSON.stringify(payload || {});
   const dataToSign1 = String(timestamp || "") + "." + payloadStr1;
   const hash1 = crypto.createHmac("sha256", cleanSecret).update(dataToSign1).digest("hex").toLowerCase();
 
-  if (hash1 === normalizedSig) {
+  if (safeCompare(hash1, normalizedSig)) {
     return { verified: true };
   }
 
@@ -88,7 +99,7 @@ export function verifySepayHmacSignature({ signature, timestamp, payload, secret
   if (typeof payload === "object" && payload !== null) {
     const dataToSign2 = String(timestamp || "") + "." + JSON.stringify(payload);
     const hash2 = crypto.createHmac("sha256", cleanSecret).update(dataToSign2).digest("hex").toLowerCase();
-    if (hash2 === normalizedSig) {
+    if (safeCompare(hash2, normalizedSig)) {
       return { verified: true };
     }
   }

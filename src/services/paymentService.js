@@ -171,6 +171,14 @@ export async function handleSepayWebhook({ body, rawBody, headers = {} }) {
         message: "Từ chối kích hoạt: API Key SePay không chính xác.",
       };
     }
+  } else if (process.env.NODE_ENV === "production") {
+    // Trên môi trường production, bắt buộc phải có SEPAY_SECRET_KEY hoặc SEPAY_API_KEY
+    console.error("[SePay Webhook] Chưa cấu hình SEPAY_SECRET_KEY hoặc SEPAY_API_KEY trên production.");
+    return {
+      success: true,
+      rejected: true,
+      message: "Từ chối kích hoạt: Hệ thống chưa cấu hình khóa bảo mật Webhook.",
+    };
   }
 
   // 4. Bỏ qua nếu payload không hợp lệ hoặc không có mã đơn hàng NutriCare

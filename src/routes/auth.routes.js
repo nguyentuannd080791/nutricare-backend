@@ -5,8 +5,10 @@ import { publicUser } from "../services/serializers.js";
 import { HttpError } from "../errors.js";
 import { requireNewPassword, requireText } from "../validation.js";
 import { requestPasswordReset, resetPassword } from "../services/passwordResetService.js";
+import { authLimiter } from "../middleware/rateLimiter.js";
 
 export const authRouter = Router();
+authRouter.use(authLimiter);
 
 const EMAIL_PATTERN = /^\S+@\S+\.\S+$/;
 
