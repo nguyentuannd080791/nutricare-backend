@@ -4,3787 +4,3787 @@
     "nameVi": "Gạo, trắng, nếp cái, sống",
     "nameEn": "Rice, white, glutinous, raw",
     "groupId": 1,
-    "kcal": 348.0
+    "kcal": 348
   },
   {
     "id": 1002,
     "nameVi": "Gạo, trắng, nếp thường, sống",
     "nameEn": "Rice, white, glutinous, raw",
     "groupId": 1,
-    "kcal": 350.0
+    "kcal": 350
   },
   {
     "id": 1003,
     "nameVi": "Gạo, trắng, tẻ, giã tay, sống",
     "nameEn": "Rice, white, home-milled, raw",
     "groupId": 1,
-    "kcal": 347.0
+    "kcal": 347
   },
   {
     "id": 1004,
     "nameVi": "Gạo, trắng, tẻ, xát máy, sống",
     "nameEn": "Rice, white, polished, raw",
     "groupId": 1,
-    "kcal": 346.0
+    "kcal": 346
   },
   {
     "id": 1005,
     "nameVi": "Gạo, tẻ, chưa xát (gạo lứt), sống",
     "nameEn": "Rice, brown, raw",
     "groupId": 1,
-    "kcal": 359.0
+    "kcal": 359
   },
   {
     "id": 1006,
     "nameVi": "Kê, hạt, sống",
     "nameEn": "Millet, raw",
     "groupId": 1,
-    "kcal": 345.0
+    "kcal": 345
   },
   {
     "id": 1007,
     "nameVi": "Ngô, cả bắp, tươi",
     "nameEn": "Corn, whole corb, fresh",
     "groupId": 1,
-    "kcal": 200.0
+    "kcal": 200
   },
   {
     "id": 1008,
     "nameVi": "Ngô, vàng, hạt, khô",
     "nameEn": "Corn, yellow, seed, dried",
     "groupId": 1,
-    "kcal": 362.0
+    "kcal": 362
   },
   {
     "id": 1009,
     "nameVi": "Bánh bao, nhân thịt",
     "nameEn": "Dumpling, with pork",
     "groupId": 1,
-    "kcal": 276.0
+    "kcal": 276
   },
   {
     "id": 1010,
     "nameVi": "Bánh đa nem",
     "nameEn": "Vietnamese rice paper, raw",
     "groupId": 1,
-    "kcal": 335.0
+    "kcal": 335
   },
   {
     "id": 1011,
     "nameVi": "Bánh đúc",
     "nameEn": "Rice cake made of rice flour, and lime water, cooked",
     "groupId": 1,
-    "kcal": 52.0
+    "kcal": 52
   },
   {
     "id": 1012,
     "nameVi": "Bánh mỳ",
     "nameEn": "Bread, French style",
     "groupId": 1,
-    "kcal": 250.0
+    "kcal": 250
   },
   {
     "id": 1013,
     "nameVi": "Bánh phở",
     "nameEn": "Rice noodles, raw",
     "groupId": 1,
-    "kcal": 146.0
+    "kcal": 146
   },
   {
     "id": 1014,
     "nameVi": "Bánh quẩy",
     "nameEn": "Fried breadstick, Youtiao",
     "groupId": 1,
-    "kcal": 200.0
+    "kcal": 200
   },
   {
     "id": 1015,
     "nameVi": "Bỏng ngô",
     "nameEn": "Corn flakes",
     "groupId": 1,
-    "kcal": 386.0
+    "kcal": 386
   },
   {
     "id": 1016,
     "nameVi": "Bột gạo, gạo nếp thường",
     "nameEn": "Rice flour, glutinous",
     "groupId": 1,
-    "kcal": 365.0
+    "kcal": 365
   },
   {
     "id": 1017,
     "nameVi": "Bột gạo, gạo tẻ",
     "nameEn": "Rice flour, white",
     "groupId": 1,
-    "kcal": 360.0
+    "kcal": 360
   },
   {
     "id": 1018,
     "nameVi": "Bột mì, trắng",
     "nameEn": "Wheat flour, white",
     "groupId": 1,
-    "kcal": 347.0
+    "kcal": 347
   },
   {
     "id": 1019,
     "nameVi": "Bột ngô, ngô vàng",
     "nameEn": "Maize flour, yellow",
     "groupId": 1,
-    "kcal": 367.0
+    "kcal": 367
   },
   {
     "id": 1020,
     "nameVi": "Bún, tươi",
     "nameEn": "Rice vermicelli, soft noodles, fresh",
     "groupId": 1,
-    "kcal": 116.0
+    "kcal": 116
   },
   {
     "id": 1021,
     "nameVi": "Cốm, tươi",
     "nameEn": "Rice, unriped, raw",
     "groupId": 1,
-    "kcal": 307.0
+    "kcal": 307
   },
   {
     "id": 1022,
     "nameVi": "Mỳ sợi, khô",
     "nameEn": "Wheat noodle, dried",
     "groupId": 1,
-    "kcal": 350.0
+    "kcal": 350
   },
   {
     "id": 1023,
     "nameVi": "Ngô, cả bắp, nếp, luộc",
     "nameEn": "Corn, whole corb, boiled",
     "groupId": 1,
-    "kcal": 172.0
+    "kcal": 172
   },
   {
     "id": 1032,
     "nameVi": "Bánh mì, vuông, ngọt",
     "nameEn": "Bread, square/sandwich type, sweet",
     "groupId": 1,
-    "kcal": 384.0
+    "kcal": 384
   },
   {
     "id": 1038,
     "nameVi": "Bánh bao chay",
     "nameEn": "Dumplings, no filled",
     "groupId": 1,
-    "kcal": 221.0
+    "kcal": 221
   },
   {
     "id": 1041,
     "nameVi": "Bánh đa (đỏ, trắng)",
     "nameEn": "Vietnamese style rice noodles (flat), raw",
     "groupId": 1,
-    "kcal": 347.0
+    "kcal": 347
   },
   {
     "id": 1043,
     "nameVi": "Mỳ ăn liền, lúa mì",
     "nameEn": "Instant noodle, wheat, uncooked",
     "groupId": 1,
-    "kcal": 364.0
+    "kcal": 364
   },
   {
     "id": 1045,
     "nameVi": "Sợi mỳ Quảng",
     "nameEn": null,
     "groupId": 1,
-    "kcal": 352.0
+    "kcal": 352
   },
   {
     "id": 2001,
     "nameVi": "Củ ấu, tươi",
     "nameEn": "Water caltrop, buffalo nut, root, raw",
     "groupId": 2,
-    "kcal": 119.0
+    "kcal": 119
   },
   {
     "id": 2002,
     "nameVi": "Củ cái, tươi",
     "nameEn": "Winged yam, purple yam, root, raw",
     "groupId": 2,
-    "kcal": 134.0
+    "kcal": 134
   },
   {
     "id": 2003,
     "nameVi": "Củ dong, tươi",
     "nameEn": "Arrow root, raw",
     "groupId": 2,
-    "kcal": 129.0
+    "kcal": 129
   },
   {
     "id": 2004,
     "nameVi": "Củ sắn, tươi",
     "nameEn": "Cassava, root, raw",
     "groupId": 2,
-    "kcal": 158.0
+    "kcal": 158
   },
   {
     "id": 2005,
     "nameVi": "Củ sắn dây, tươi",
     "nameEn": "Kudzu root, Japanese arrowroot",
     "groupId": 2,
-    "kcal": 156.0
+    "kcal": 156
   },
   {
     "id": 2006,
     "nameVi": "Củ súng, bóc vỏ, khô",
     "nameEn": "Tropical water lilies root, peeled, dried",
     "groupId": 2,
-    "kcal": 359.0
+    "kcal": 359
   },
   {
     "id": 2007,
     "nameVi": "Củ từ, tươi",
     "nameEn": "Lesser Yam, raw",
     "groupId": 2,
-    "kcal": 97.0
+    "kcal": 97
   },
   {
     "id": 2008,
     "nameVi": "Khoai lang, tươi",
     "nameEn": "Sweet potato, raw",
     "groupId": 2,
-    "kcal": 124.0
+    "kcal": 124
   },
   {
     "id": 2009,
     "nameVi": "Khoai lang nghệ, tươi",
     "nameEn": "Sweet potato, yellow, raw",
     "groupId": 2,
-    "kcal": 119.0
+    "kcal": 119
   },
   {
     "id": 2010,
     "nameVi": "Khoai môn, tươi",
     "nameEn": "Taro, Indian taro, raw",
     "groupId": 2,
-    "kcal": 113.0
+    "kcal": 113
   },
   {
     "id": 2011,
     "nameVi": "Khoai nước, tươi",
     "nameEn": "Water taro, raw",
     "groupId": 2,
-    "kcal": 106.0
+    "kcal": 106
   },
   {
     "id": 2012,
     "nameVi": "Khoai riềng, tươi",
     "nameEn": "Edible canna, raw",
     "groupId": 2,
-    "kcal": 114.0
+    "kcal": 114
   },
   {
     "id": 2013,
     "nameVi": "Khoai sọ, tươi",
     "nameEn": "Taro tuber, raw",
     "groupId": 2,
-    "kcal": 119.0
+    "kcal": 119
   },
   {
     "id": 2014,
     "nameVi": "Khoai tây, tươi",
     "nameEn": "Potato, white, raw",
     "groupId": 2,
-    "kcal": 96.0
+    "kcal": 96
   },
   {
     "id": 2015,
     "nameVi": "Miến dong, khô",
     "nameEn": "Vermicelli from arrow root, raw",
     "groupId": 2,
-    "kcal": 338.0
+    "kcal": 338
   },
   {
     "id": 2016,
     "nameVi": "Bột dong lọc",
     "nameEn": "Arrow root flour",
     "groupId": 2,
-    "kcal": 343.0
+    "kcal": 343
   },
   {
     "id": 2017,
     "nameVi": "Bột khoai lang",
     "nameEn": "Sweet potato flour",
     "groupId": 2,
-    "kcal": 341.0
+    "kcal": 341
   },
   {
     "id": 2018,
     "nameVi": "Bột khoai riềng (bột đao)",
     "nameEn": "Edible canna flour",
     "groupId": 2,
-    "kcal": 343.0
+    "kcal": 343
   },
   {
     "id": 2019,
     "nameVi": "Bột khoai tây (lọc)",
     "nameEn": "White potato flour",
     "groupId": 2,
-    "kcal": 346.0
+    "kcal": 346
   },
   {
     "id": 2020,
     "nameVi": "Bột sắn",
     "nameEn": "Cassava flour",
     "groupId": 2,
-    "kcal": 341.0
+    "kcal": 341
   },
   {
     "id": 2021,
     "nameVi": "Bột sắn dây",
     "nameEn": "Kudzu root flour",
     "groupId": 2,
-    "kcal": 343.0
+    "kcal": 343
   },
   {
     "id": 2022,
     "nameVi": "Khoai lang, khô",
     "nameEn": "Sweet potato, dried",
     "groupId": 2,
-    "kcal": 348.0
+    "kcal": 348
   },
   {
     "id": 2023,
     "nameVi": "Khoai tây, khô",
     "nameEn": "White potato, dried",
     "groupId": 2,
-    "kcal": 343.0
+    "kcal": 343
   },
   {
     "id": 2024,
     "nameVi": "Khoai tây lát, chiên",
     "nameEn": "Potato crisp, fried",
     "groupId": 2,
-    "kcal": 550.0
+    "kcal": 550
   },
   {
     "id": 2025,
     "nameVi": "Sắn, củ, khô",
     "nameEn": "Cassava, dried",
     "groupId": 2,
-    "kcal": 352.0
+    "kcal": 352
   },
   {
     "id": 2026,
     "nameVi": "Trân châu sắn",
     "nameEn": "Tapioca",
     "groupId": 2,
-    "kcal": 344.0
+    "kcal": 344
   },
   {
     "id": 3001,
     "nameVi": "Cùi dừa già, tươi",
     "nameEn": "Coconut meat, mature, raw",
     "groupId": 3,
-    "kcal": 385.0
+    "kcal": 385
   },
   {
     "id": 3002,
     "nameVi": "Cùi dừa non, tươi",
     "nameEn": "Coconut meat, immature, raw",
     "groupId": 3,
-    "kcal": 54.0
+    "kcal": 54
   },
   {
     "id": 3003,
     "nameVi": "Đậu cô ve, hạt, khô",
     "nameEn": "Common bean, seed, dried",
     "groupId": 3,
-    "kcal": 335.0
+    "kcal": 335
   },
   {
     "id": 3004,
     "nameVi": "Đậu đen, hạt, khô",
     "nameEn": "Black bean, seed, dried",
     "groupId": 3,
-    "kcal": 341.0
+    "kcal": 341
   },
   {
     "id": 3005,
     "nameVi": "Đậu đũa, hạt, khô",
     "nameEn": "Yardlong bean, seed, dried",
     "groupId": 3,
-    "kcal": 338.0
+    "kcal": 338
   },
   {
     "id": 3006,
     "nameVi": "Đậu Hà lan, hạt, khô",
     "nameEn": "Field peas, seed, dried",
     "groupId": 3,
-    "kcal": 342.0
+    "kcal": 342
   },
   {
     "id": 3007,
     "nameVi": "Đậu tương, đậu nành, hạt khô",
     "nameEn": "Soybean, seed, dried",
     "groupId": 3,
-    "kcal": 418.0
+    "kcal": 418
   },
   {
     "id": 3008,
     "nameVi": "Đậu trắng (đậu tây), hạt, khô",
     "nameEn": "Kidney bean, white bean, seed, dried",
     "groupId": 3,
-    "kcal": 341.0
+    "kcal": 341
   },
   {
     "id": 3009,
     "nameVi": "Đậu trứng cuốc, hạt, khô",
     "nameEn": null,
     "groupId": 3,
-    "kcal": 340.0
+    "kcal": 340
   },
   {
     "id": 3010,
     "nameVi": "Đậu xanh (đậu tắt), hạt, khô",
     "nameEn": "Mungo bean",
     "groupId": 3,
-    "kcal": 346.0
+    "kcal": 346
   },
   {
     "id": 3011,
     "nameVi": "Hạt dẻ to, khô",
     "nameEn": "Chestnut, dried",
     "groupId": 3,
-    "kcal": 652.0
+    "kcal": 652
   },
   {
     "id": 3012,
     "nameVi": "Hạt dẻ to, tươi",
     "nameEn": "Chestnut, fresh",
     "groupId": 3,
-    "kcal": 223.0
+    "kcal": 223
   },
   {
     "id": 3013,
     "nameVi": "Hạt dẻ, khô",
     "nameEn": "Chestnut, small, dried",
     "groupId": 3,
-    "kcal": 363.0
+    "kcal": 363
   },
   {
     "id": 3014,
     "nameVi": "Hạt đen, khô",
     "nameEn": null,
     "groupId": 3,
-    "kcal": 486.0
+    "kcal": 486
   },
   {
     "id": 3015,
     "nameVi": "Hạt điều, khô",
     "nameEn": "Cashew nut, dried",
     "groupId": 3,
-    "kcal": 608.0
+    "kcal": 608
   },
   {
     "id": 3016,
     "nameVi": "Hạt mít, tươi",
     "nameEn": "Jack fruit, seed, raw",
     "groupId": 3,
-    "kcal": 166.0
+    "kcal": 166
   },
   {
     "id": 3017,
     "nameVi": "Lạc hạt, khô",
     "nameEn": "Peanut, dried",
     "groupId": 3,
-    "kcal": 583.0
+    "kcal": 583
   },
   {
     "id": 3018,
     "nameVi": "Quả cọ, tươi",
     "nameEn": "Palm fruit, fresh",
     "groupId": 3,
-    "kcal": 192.0
+    "kcal": 192
   },
   {
     "id": 3019,
     "nameVi": "Quả đại hái, tươi",
     "nameEn": "Hodgsonia fruit, raw",
     "groupId": 3,
-    "kcal": 440.0
+    "kcal": 440
   },
   {
     "id": 3020,
     "nameVi": "Vừng (đen, trắng), hạt, khô",
     "nameEn": "Sesame seeds, dried, black or white",
     "groupId": 3,
-    "kcal": 582.0
+    "kcal": 582
   },
   {
     "id": 3021,
     "nameVi": "Bột đậu tương, đã loại béo",
     "nameEn": "Soyflour, defatted",
     "groupId": 3,
-    "kcal": 331.0
+    "kcal": 331
   },
   {
     "id": 3022,
     "nameVi": "Bột đậu tương, rang chín",
     "nameEn": "Soybeans, roasted, flour",
     "groupId": 3,
-    "kcal": 428.0
+    "kcal": 428
   },
   {
     "id": 3023,
     "nameVi": "Bột đậu xanh",
     "nameEn": "Mungo bean flour",
     "groupId": 3,
-    "kcal": 363.0
+    "kcal": 363
   },
   {
     "id": 3024,
     "nameVi": "Bột lạc",
     "nameEn": "Peanut flour",
     "groupId": 3,
-    "kcal": 583.0
+    "kcal": 583
   },
   {
     "id": 3025,
     "nameVi": "Đậu phụ, sống",
     "nameEn": "Tofu, raw",
     "groupId": 3,
-    "kcal": 97.0
+    "kcal": 97
   },
   {
     "id": 3026,
     "nameVi": "Đậu phụ chúc, sống",
     "nameEn": "Tofu skin, yuba, bean curd skin, bean curd sheet, raw",
     "groupId": 3,
-    "kcal": 415.0
+    "kcal": 415
   },
   {
     "id": 3027,
     "nameVi": "Đậu phụ, nướng",
     "nameEn": "Tofu, grilled",
     "groupId": 3,
-    "kcal": 116.0
+    "kcal": 116
   },
   {
     "id": 3028,
     "nameVi": "Hạt bí đỏ, rang",
     "nameEn": "Pumpkin seeds, fried",
     "groupId": 3,
-    "kcal": 528.0
+    "kcal": 528
   },
   {
     "id": 3029,
     "nameVi": "Hạt dưa hấu, rang",
     "nameEn": "Water melon seeds, fried",
     "groupId": 3,
-    "kcal": 558.0
+    "kcal": 558
   },
   {
     "id": 3030,
     "nameVi": "Hạt điều khô, chiên dầu",
     "nameEn": "Cashew nut, roasted with oil",
     "groupId": 3,
-    "kcal": 585.0
+    "kcal": 585
   },
   {
     "id": 3031,
     "nameVi": "Sữa bột đậu nành",
     "nameEn": "Milk powder, soy flour and sugar",
     "groupId": 3,
-    "kcal": 413.0
+    "kcal": 413
   },
   {
     "id": 3032,
     "nameVi": "Sữa đậu nành (100g đậu/lít)",
     "nameEn": "Soymilk (100 g soybean/L)",
     "groupId": 3,
-    "kcal": 29.0
+    "kcal": 29
   },
   {
     "id": 3033,
     "nameVi": "Tào phớ",
     "nameEn": "Soybean curd in light syrup",
     "groupId": 3,
-    "kcal": 46.0
+    "kcal": 46
   },
   {
     "id": 3038,
     "nameVi": "Đậu phụ non Tứ Xuyên",
     "nameEn": null,
     "groupId": 3,
-    "kcal": 97.0
+    "kcal": 97
   },
   {
     "id": 4001,
     "nameVi": "Quả bầu, tươi",
     "nameEn": "Calabash, Bottle gourd, raw",
     "groupId": 4,
-    "kcal": 18.0
+    "kcal": 18
   },
   {
     "id": 4002,
     "nameVi": "Quả bí đao (bí xanh), tươi",
     "nameEn": "Asgourd, winter melon, raw",
     "groupId": 4,
-    "kcal": 16.0
+    "kcal": 16
   },
   {
     "id": 4003,
     "nameVi": "Quả bí ngô, tươi",
     "nameEn": "Pumpkin squash, raw",
     "groupId": 4,
-    "kcal": 29.0
+    "kcal": 29
   },
   {
     "id": 4004,
     "nameVi": "Quả cà bát, tươi",
     "nameEn": "Egg plant, large round, raw",
     "groupId": 4,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 4005,
     "nameVi": "Quả cà chua, tươi",
     "nameEn": "Tomato, raw",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4006,
     "nameVi": "Quả cà pháo, tươi",
     "nameEn": "Egg plant - small, raw",
     "groupId": 4,
-    "kcal": 27.0
+    "kcal": 27
   },
   {
     "id": 4007,
     "nameVi": "Củ cà rốt, tươi",
     "nameEn": "Carrots, all variety, raw",
     "groupId": 4,
-    "kcal": 44.0
+    "kcal": 44
   },
   {
     "id": 4008,
     "nameVi": "Củ cà rốt, khô",
     "nameEn": "Carrot, dried",
     "groupId": 4,
-    "kcal": 330.0
+    "kcal": 330
   },
   {
     "id": 4009,
     "nameVi": "Quả cà tím, tươi",
     "nameEn": "Aubergine, raw",
     "groupId": 4,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 4010,
     "nameVi": "Cải bắp trắng, tươi",
     "nameEn": "Cabbage, common, raw",
     "groupId": 4,
-    "kcal": 36.0
+    "kcal": 36
   },
   {
     "id": 4011,
     "nameVi": "Cải bắp đỏ, tươi",
     "nameEn": "Cabbage, red, raw",
     "groupId": 4,
-    "kcal": 61.0
+    "kcal": 61
   },
   {
     "id": 4012,
     "nameVi": "Cải bắp trắng, khô",
     "nameEn": "Cabbage, dried",
     "groupId": 4,
-    "kcal": 301.0
+    "kcal": 301
   },
   {
     "id": 4013,
     "nameVi": "Cải cúc, tươi",
     "nameEn": "Crown daisy, raw",
     "groupId": 4,
-    "kcal": 22.0
+    "kcal": 22
   },
   {
     "id": 4014,
     "nameVi": "Cải soong, tươi",
     "nameEn": "Water cress, raw",
     "groupId": 4,
-    "kcal": 22.0
+    "kcal": 22
   },
   {
     "id": 4015,
     "nameVi": "Cải thìa (cải trắng), tươi",
     "nameEn": "Chinese cabbage, raw",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4016,
     "nameVi": "Cải xanh, tươi",
     "nameEn": "Mustard greens, raw",
     "groupId": 4,
-    "kcal": 23.0
+    "kcal": 23
   },
   {
     "id": 4017,
     "nameVi": "Cần ta, tươi",
     "nameEn": "Water drop-wort, raw",
     "groupId": 4,
-    "kcal": 16.0
+    "kcal": 16
   },
   {
     "id": 4018,
     "nameVi": "Cần tây, tươi",
     "nameEn": "Celery, raw",
     "groupId": 4,
-    "kcal": 54.0
+    "kcal": 54
   },
   {
     "id": 4019,
     "nameVi": "Chuối xanh, tươi",
     "nameEn": "Banana common varieties, unripe",
     "groupId": 4,
-    "kcal": 78.0
+    "kcal": 78
   },
   {
     "id": 4020,
     "nameVi": "Củ cải đỏ, tươi",
     "nameEn": "Red radish oriental, raw",
     "groupId": 4,
-    "kcal": 52.0
+    "kcal": 52
   },
   {
     "id": 4021,
     "nameVi": "Củ cải trắng, tươi",
     "nameEn": "Radish garden while, raw",
     "groupId": 4,
-    "kcal": 27.0
+    "kcal": 27
   },
   {
     "id": 4022,
     "nameVi": "Củ cải trắng, khô",
     "nameEn": "White radish, dried",
     "groupId": 4,
-    "kcal": 290.0
+    "kcal": 290
   },
   {
     "id": 4023,
     "nameVi": "Củ đậu, tươi",
     "nameEn": "Jicama, Mexican yam bean",
     "groupId": 4,
-    "kcal": 31.0
+    "kcal": 31
   },
   {
     "id": 4024,
     "nameVi": "Củ niễng, tươi",
     "nameEn": "Manchurian wild rice, stem, raw",
     "groupId": 4,
-    "kcal": 37.0
+    "kcal": 37
   },
   {
     "id": 4025,
     "nameVi": "Dọc củ cải, non, tươi",
     "nameEn": "Radish garden, immature, raw",
     "groupId": 4,
-    "kcal": 21.0
+    "kcal": 21
   },
   {
     "id": 4026,
     "nameVi": "Dọc mùng, tươi",
     "nameEn": "Indian taro, stem, raw",
     "groupId": 4,
-    "kcal": 13.0
+    "kcal": 13
   },
   {
     "id": 4027,
     "nameVi": "Dưa chuột, tươi",
     "nameEn": "Cucumber, raw",
     "groupId": 4,
-    "kcal": 18.0
+    "kcal": 18
   },
   {
     "id": 4028,
     "nameVi": "Dưa gang, tươi",
     "nameEn": "Large cucumber, raw",
     "groupId": 4,
-    "kcal": 14.0
+    "kcal": 14
   },
   {
     "id": 4029,
     "nameVi": "Đậu cô ve, quả, tươi",
     "nameEn": "Common bean, string bean, raw",
     "groupId": 4,
-    "kcal": 77.0
+    "kcal": 77
   },
   {
     "id": 4030,
     "nameVi": "Đậu đũa, quả, tươi",
     "nameEn": "Yardlong bean, raw",
     "groupId": 4,
-    "kcal": 67.0
+    "kcal": 67
   },
   {
     "id": 4031,
     "nameVi": "Đậu Hà Lan, quả, tươi",
     "nameEn": "Green peas; field pea, raw",
     "groupId": 4,
-    "kcal": 75.0
+    "kcal": 75
   },
   {
     "id": 4032,
     "nameVi": "Đậu rồng, quả non, tươi",
     "nameEn": "Winged bean, asparagus pea, raw",
     "groupId": 4,
-    "kcal": 40.0
+    "kcal": 40
   },
   {
     "id": 4033,
     "nameVi": "Đu đủ xanh, tươi",
     "nameEn": "Papaya, unripe, raw",
     "groupId": 4,
-    "kcal": 30.0
+    "kcal": 30
   },
   {
     "id": 4034,
     "nameVi": "Quả gấc, tươi",
     "nameEn": "Gac fruit, whole, raw",
     "groupId": 4,
-    "kcal": 129.0
+    "kcal": 129
   },
   {
     "id": 4035,
     "nameVi": "Giá đậu tương, tươi",
     "nameEn": "Sprout of soybeans, raw",
     "groupId": 4,
-    "kcal": 82.0
+    "kcal": 82
   },
   {
     "id": 4036,
     "nameVi": "Giá đậu xanh, tươi",
     "nameEn": "Mungobean sprouts, raw",
     "groupId": 4,
-    "kcal": 52.0
+    "kcal": 52
   },
   {
     "id": 4037,
     "nameVi": "Hành củ, tươi",
     "nameEn": "Onion, bulb, raw",
     "groupId": 4,
-    "kcal": 29.0
+    "kcal": 29
   },
   {
     "id": 4038,
     "nameVi": "Hành lá (hành hoa), tươi",
     "nameEn": "Onion, leave, raw",
     "groupId": 4,
-    "kcal": 26.0
+    "kcal": 26
   },
   {
     "id": 4039,
     "nameVi": "Hành tây, tươi",
     "nameEn": "Onion, common, garden, raw",
     "groupId": 4,
-    "kcal": 45.0
+    "kcal": 45
   },
   {
     "id": 4040,
     "nameVi": "Hạt sen, tươi",
     "nameEn": "Lotus seed, raw",
     "groupId": 4,
-    "kcal": 164.0
+    "kcal": 164
   },
   {
     "id": 4041,
     "nameVi": "Hạt sen, khô",
     "nameEn": "Dried lotus seed",
     "groupId": 4,
-    "kcal": 342.0
+    "kcal": 342
   },
   {
     "id": 4042,
     "nameVi": "Hẹ lá, tươi",
     "nameEn": "Onion, fragrant, Chinese leek, raw",
     "groupId": 4,
-    "kcal": 21.0
+    "kcal": 21
   },
   {
     "id": 4043,
     "nameVi": "Hoa chuối, tươi",
     "nameEn": "Banana, buds and flowers, raw",
     "groupId": 4,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 4044,
     "nameVi": "Hoa lý, tươi",
     "nameEn": "Daylily, lemon flowers, raw",
     "groupId": 4,
-    "kcal": 35.0
+    "kcal": 35
   },
   {
     "id": 4045,
     "nameVi": "Quả khế, tươi",
     "nameEn": "Carambola; Star fruit, raw",
     "groupId": 4,
-    "kcal": 26.0
+    "kcal": 26
   },
   {
     "id": 4046,
     "nameVi": "Lá lốt, tươi",
     "nameEn": "Lolot pepper, raw",
     "groupId": 4,
-    "kcal": 49.0
+    "kcal": 49
   },
   {
     "id": 4047,
     "nameVi": "Lá me, tươi",
     "nameEn": null,
     "groupId": 4,
-    "kcal": 46.0
+    "kcal": 46
   },
   {
     "id": 4048,
     "nameVi": "Lá mơ lông, tươi",
     "nameEn": "Skunk vine, raw",
     "groupId": 4,
-    "kcal": 48.0
+    "kcal": 48
   },
   {
     "id": 4049,
     "nameVi": "Lá sắn, tươi",
     "nameEn": "Cassava leaves, raw",
     "groupId": 4,
-    "kcal": 96.0
+    "kcal": 96
   },
   {
     "id": 4050,
     "nameVi": "Măng chua, măng tre",
     "nameEn": "Bamboo shoot, fermented, raw",
     "groupId": 4,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 4051,
     "nameVi": "Măng tre, khô",
     "nameEn": "Bamboo shoot, dried",
     "groupId": 4,
-    "kcal": 301.0
+    "kcal": 301
   },
   {
     "id": 4052,
     "nameVi": "Măng tây, tươi",
     "nameEn": "Asparagus, white, raw",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4053,
     "nameVi": "Măng tre, tươi",
     "nameEn": "Bamboo shoots, raw",
     "groupId": 4,
-    "kcal": 31.0
+    "kcal": 31
   },
   {
     "id": 4054,
     "nameVi": "Mướp, tươi",
     "nameEn": "Gourd, sponge gourd, raw",
     "groupId": 4,
-    "kcal": 18.0
+    "kcal": 18
   },
   {
     "id": 4055,
     "nameVi": "Mướp đắng, tươi",
     "nameEn": "Balsam-pear, Bitter gourd, raw",
     "groupId": 4,
-    "kcal": 20.0
+    "kcal": 20
   },
   {
     "id": 4056,
     "nameVi": "Mướp Nhật bản, tươi",
     "nameEn": "Sponge gourd, Japanese origin, raw",
     "groupId": 4,
-    "kcal": 16.0
+    "kcal": 16
   },
   {
     "id": 4057,
     "nameVi": "Ngải cứu, tươi",
     "nameEn": "Mugwort, wormwood, raw",
     "groupId": 4,
-    "kcal": 33.0
+    "kcal": 33
   },
   {
     "id": 4058,
     "nameVi": "Ngô bao tử, tươi",
     "nameEn": "Baby corn, raw",
     "groupId": 4,
-    "kcal": 42.0
+    "kcal": 42
   },
   {
     "id": 4059,
     "nameVi": "Ngó sen, tươi",
     "nameEn": "Lotus, underground stem, raw",
     "groupId": 4,
-    "kcal": 65.0
+    "kcal": 65
   },
   {
     "id": 4060,
     "nameVi": "Nụ mướp, tươi",
     "nameEn": "Sponge gourd, young flower, raw",
     "groupId": 4,
-    "kcal": 36.0
+    "kcal": 36
   },
   {
     "id": 4061,
     "nameVi": "Ớt đỏ to, tươi",
     "nameEn": "Peppers, red, raw",
     "groupId": 4,
-    "kcal": 31.0
+    "kcal": 31
   },
   {
     "id": 4062,
     "nameVi": "Ớt vàng to, tươi",
     "nameEn": "Peppers, yellow, raw",
     "groupId": 4,
-    "kcal": 34.0
+    "kcal": 34
   },
   {
     "id": 4063,
     "nameVi": "Ớt xanh to, tươi",
     "nameEn": "Peppers, green, raw",
     "groupId": 4,
-    "kcal": 31.0
+    "kcal": 31
   },
   {
     "id": 4064,
     "nameVi": "Quả dọc, tươi",
     "nameEn": "Bira tai, raw",
     "groupId": 4,
-    "kcal": 19.0
+    "kcal": 19
   },
   {
     "id": 4065,
     "nameVi": "Quả me chua, tươi",
     "nameEn": "Tamarind fruit, pulp, raw",
     "groupId": 4,
-    "kcal": 35.0
+    "kcal": 35
   },
   {
     "id": 4066,
     "nameVi": "Rau bí, tươi",
     "nameEn": "Pumpkin leaves, raw",
     "groupId": 4,
-    "kcal": 26.0
+    "kcal": 26
   },
   {
     "id": 4067,
     "nameVi": "Rau câu, khô",
     "nameEn": "Seaweed, dried",
     "groupId": 4,
-    "kcal": 281.0
+    "kcal": 281
   },
   {
     "id": 4068,
     "nameVi": "Rau câu, tươi",
     "nameEn": "Seaweed, fresh",
     "groupId": 4,
-    "kcal": 45.0
+    "kcal": 45
   },
   {
     "id": 4069,
     "nameVi": "Rau diếp, tươi",
     "nameEn": "Lettuce, garden, raw",
     "groupId": 4,
-    "kcal": 15.0
+    "kcal": 15
   },
   {
     "id": 4070,
     "nameVi": "Rau đay, tươi",
     "nameEn": "Jute potherb, raw",
     "groupId": 4,
-    "kcal": 31.0
+    "kcal": 31
   },
   {
     "id": 4071,
     "nameVi": "Rau giấp cá, diếp cá, tươi",
     "nameEn": "Lizard tail, fishwort, raw",
     "groupId": 4,
-    "kcal": 30.0
+    "kcal": 30
   },
   {
     "id": 4072,
     "nameVi": "Rau giền cơm, tươi",
     "nameEn": "Amaranth, spineless, raw",
     "groupId": 4,
-    "kcal": 27.0
+    "kcal": 27
   },
   {
     "id": 4073,
     "nameVi": "Rau giền đỏ, tươi",
     "nameEn": "Amaranth, sp. Red, raw",
     "groupId": 4,
-    "kcal": 47.0
+    "kcal": 47
   },
   {
     "id": 4074,
     "nameVi": "Rau giền trắng, tươi",
     "nameEn": "Amaranth, sp White, raw",
     "groupId": 4,
-    "kcal": 48.0
+    "kcal": 48
   },
   {
     "id": 4075,
     "nameVi": "Rau húng, tươi",
     "nameEn": "Basil sweet leaves, raw",
     "groupId": 4,
-    "kcal": 34.0
+    "kcal": 34
   },
   {
     "id": 4076,
     "nameVi": "Rau khoai lang, tươi",
     "nameEn": "Sweet potato leaves, raw",
     "groupId": 4,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 4077,
     "nameVi": "Rau kinh giới, tươi",
     "nameEn": "Vietnamese Balm, raw",
     "groupId": 4,
-    "kcal": 36.0
+    "kcal": 36
   },
   {
     "id": 4078,
     "nameVi": "Rau má rừng, tươi",
     "nameEn": "Wild centella, raw",
     "groupId": 4,
-    "kcal": 31.0
+    "kcal": 31
   },
   {
     "id": 4079,
     "nameVi": "Rau má, má mơ, tươi",
     "nameEn": "Centella, gotu kola, raw",
     "groupId": 4,
-    "kcal": 38.0
+    "kcal": 38
   },
   {
     "id": 4080,
     "nameVi": "Rau mồng tơi, tươi",
     "nameEn": "Malabar, Ceylon spinach, raw",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4081,
     "nameVi": "Rau mùi, tươi",
     "nameEn": "Coriander, raw",
     "groupId": 4,
-    "kcal": 22.0
+    "kcal": 22
   },
   {
     "id": 4082,
     "nameVi": "Rau mùi tàu, tươi",
     "nameEn": "Parsley, curley, raw",
     "groupId": 4,
-    "kcal": 30.0
+    "kcal": 30
   },
   {
     "id": 4083,
     "nameVi": "Rau muống, tươi",
     "nameEn": "Water spinach, raw",
     "groupId": 4,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 4084,
     "nameVi": "Rau muống, khô",
     "nameEn": "Water spinach, dried",
     "groupId": 4,
-    "kcal": 293.0
+    "kcal": 293
   },
   {
     "id": 4085,
     "nameVi": "Rau ngổ, tươi",
     "nameEn": "Buffalo spinach, raw",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4086,
     "nameVi": "Rau ngót, tươi",
     "nameEn": "Sauropus, sp. Leaves, raw",
     "groupId": 4,
-    "kcal": 45.0
+    "kcal": 45
   },
   {
     "id": 4087,
     "nameVi": "Rau ngót, khô",
     "nameEn": "Sauropus, dried",
     "groupId": 4,
-    "kcal": 299.0
+    "kcal": 299
   },
   {
     "id": 4088,
     "nameVi": "Rau răm, tươi",
     "nameEn": "Vietnamese mint, hot mint, raw",
     "groupId": 4,
-    "kcal": 45.0
+    "kcal": 45
   },
   {
     "id": 4089,
     "nameVi": "Rau rút, tươi",
     "nameEn": "Water mimosa, raw",
     "groupId": 4,
-    "kcal": 35.0
+    "kcal": 35
   },
   {
     "id": 4090,
     "nameVi": "Rau sà lách, tươi",
     "nameEn": "Lettuce, garden asparagus, raw",
     "groupId": 4,
-    "kcal": 18.0
+    "kcal": 18
   },
   {
     "id": 4091,
     "nameVi": "Rau sam, tươi",
     "nameEn": "Purslane, pursley, raw",
     "groupId": 4,
-    "kcal": 20.0
+    "kcal": 20
   },
   {
     "id": 4092,
     "nameVi": "Rau sắng chùa hương, tươi",
     "nameEn": null,
     "groupId": 4,
-    "kcal": 62.0
+    "kcal": 62
   },
   {
     "id": 4093,
     "nameVi": "Rau tàu bay, tươi",
     "nameEn": "Redflower ragleaf, fireweed, raw",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4094,
     "nameVi": "Rau thơm, tươi",
     "nameEn": "Mint leaves, raw",
     "groupId": 4,
-    "kcal": 30.0
+    "kcal": 30
   },
   {
     "id": 4095,
     "nameVi": "Quả sấu xanh, tươi",
     "nameEn": "Fruit of Dracontomelon duperreanum, immature, raw",
     "groupId": 4,
-    "kcal": 19.0
+    "kcal": 19
   },
   {
     "id": 4096,
     "nameVi": "Củ su hào, tươi",
     "nameEn": "Kohlrabi, turnip cabbage, raw",
     "groupId": 4,
-    "kcal": 44.0
+    "kcal": 44
   },
   {
     "id": 4097,
     "nameVi": "Củ su hào, khô",
     "nameEn": "Kohlrabi, turnip cabbage, dried",
     "groupId": 4,
-    "kcal": 311.0
+    "kcal": 311
   },
   {
     "id": 4098,
     "nameVi": "Quả su su, tươi",
     "nameEn": "Chayote, raw",
     "groupId": 4,
-    "kcal": 23.0
+    "kcal": 23
   },
   {
     "id": 4099,
     "nameVi": "Súp lơ trắng, tươi",
     "nameEn": "Cauliflower, raw",
     "groupId": 4,
-    "kcal": 34.0
+    "kcal": 34
   },
   {
     "id": 4100,
     "nameVi": "Súp lơ xanh, tươi",
     "nameEn": "Broccoli, raw",
     "groupId": 4,
-    "kcal": 39.0
+    "kcal": 39
   },
   {
     "id": 4101,
     "nameVi": "Thìa là, tươi",
     "nameEn": "Dill, raw",
     "groupId": 4,
-    "kcal": 47.0
+    "kcal": 47
   },
   {
     "id": 4102,
     "nameVi": "Tía tô, tươi",
     "nameEn": "Balm-mint, garden- balm, raw",
     "groupId": 4,
-    "kcal": 40.0
+    "kcal": 40
   },
   {
     "id": 4103,
     "nameVi": "Tỏi ta, tươi",
     "nameEn": "Garlic bulbs, raw",
     "groupId": 4,
-    "kcal": 126.0
+    "kcal": 126
   },
   {
     "id": 4104,
     "nameVi": "Tỏi tây, cả lá, tươi",
     "nameEn": "Chinese Leek, Onion fragrant, raw",
     "groupId": 4,
-    "kcal": 35.0
+    "kcal": 35
   },
   {
     "id": 4105,
     "nameVi": "Trám đen, quả chín, tươi",
     "nameEn": "Fruit of Canarium pimela, ripe",
     "groupId": 4,
-    "kcal": 134.0
+    "kcal": 134
   },
   {
     "id": 4106,
     "nameVi": "Trám xanh, trám trắng, tươi",
     "nameEn": "Canarium nut, pili nut, Java almond, raw",
     "groupId": 4,
-    "kcal": 56.0
+    "kcal": 56
   },
   {
     "id": 4107,
     "nameVi": "Lá xương sông, tươi",
     "nameEn": "Edible leaves of Blumea lanceolaria, raw",
     "groupId": 4,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 4108,
     "nameVi": "Rau cải ngọt, tươi",
     "nameEn": "Elongated mustard, raw",
     "groupId": 4,
-    "kcal": 17.0
+    "kcal": 17
   },
   {
     "id": 4109,
     "nameVi": "Rau cải thảo, tươi",
     "nameEn": "Chinese cabbage, raw",
     "groupId": 4,
-    "kcal": 14.0
+    "kcal": 14
   },
   {
     "id": 4110,
     "nameVi": "Ngọn su su, tươi",
     "nameEn": "Chayote, young stem and leaves raw",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4111,
     "nameVi": "Quả đậu ván, tươi",
     "nameEn": "Hyacinth bean, Australian pea, raw",
     "groupId": 4,
-    "kcal": 39.0
+    "kcal": 39
   },
   {
     "id": 4112,
     "nameVi": "Cà chua, muối",
     "nameEn": "Tomato, pickled with salt",
     "groupId": 4,
-    "kcal": 10.0
+    "kcal": 10
   },
   {
     "id": 4113,
     "nameVi": "Cà pháo, muối nén",
     "nameEn": "Eggplant, pickled with salt",
     "groupId": 4,
-    "kcal": 20.0
+    "kcal": 20
   },
   {
     "id": 4114,
     "nameVi": "Cà pháo, muối sổi",
     "nameEn": "Eggplant, pickled with salt",
     "groupId": 4,
-    "kcal": 23.0
+    "kcal": 23
   },
   {
     "id": 4115,
     "nameVi": "Dưa cải bắp",
     "nameEn": "Cabbage Chinese pickled with salt",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4116,
     "nameVi": "Dưa cải bẹ",
     "nameEn": "Mustard green, pickled with salt",
     "groupId": 4,
-    "kcal": 25.0
+    "kcal": 25
   },
   {
     "id": 4117,
     "nameVi": "Dưa cải sen",
     "nameEn": "Field mustard, pickled with salt",
     "groupId": 4,
-    "kcal": 17.0
+    "kcal": 17
   },
   {
     "id": 4118,
     "nameVi": "Dưa chuột, muối",
     "nameEn": "Cucumber, pickled with salt",
     "groupId": 4,
-    "kcal": 17.0
+    "kcal": 17
   },
   {
     "id": 4119,
     "nameVi": "Dưa giá đậu xanh",
     "nameEn": "Mung bean sprouts, pickled with salt",
     "groupId": 4,
-    "kcal": 47.0
+    "kcal": 47
   },
   {
     "id": 4120,
     "nameVi": "Hành củ, muối",
     "nameEn": "Onion, pickled with salt",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4121,
     "nameVi": "Kiệu, muối",
     "nameEn": "Onion shallot, scallion, pickled with salt",
     "groupId": 4,
-    "kcal": 29.0
+    "kcal": 29
   },
   {
     "id": 4122,
     "nameVi": "Nhút (dưa muối từ mít non, lá đậu xanh non...)",
     "nameEn": "Mix pickled from young jack fruit, mung bean leaves and other",
     "groupId": 4,
-    "kcal": 25.0
+    "kcal": 25
   },
   {
     "id": 4123,
     "nameVi": "Men bia, khô",
     "nameEn": "Brewer's yeast, dried",
     "groupId": 4,
-    "kcal": 367.0
+    "kcal": 367
   },
   {
     "id": 4124,
     "nameVi": "Men bia, tươi",
     "nameEn": "Brewer's yeast, fresh",
     "groupId": 4,
-    "kcal": 103.0
+    "kcal": 103
   },
   {
     "id": 4125,
     "nameVi": "Mộc nhĩ, khô",
     "nameEn": "Jew's ear, Wood-ear, Tender variety, dried",
     "groupId": 4,
-    "kcal": 332.0
+    "kcal": 332
   },
   {
     "id": 4126,
     "nameVi": "Nấm hương, khô",
     "nameEn": "Mushroom, shiitake, dried",
     "groupId": 4,
-    "kcal": 342.0
+    "kcal": 342
   },
   {
     "id": 4127,
     "nameVi": "Nấm hương, tươi",
     "nameEn": "Mushroom, shiitake, raw",
     "groupId": 4,
-    "kcal": 51.0
+    "kcal": 51
   },
   {
     "id": 4128,
     "nameVi": "Nấm mỡ (Nấm tây), tươi",
     "nameEn": "Common mushroom, table mushroom, raw",
     "groupId": 4,
-    "kcal": 37.0
+    "kcal": 37
   },
   {
     "id": 4129,
     "nameVi": "Nấm rơm, tươi",
     "nameEn": "Straw mushroom, raw",
     "groupId": 4,
-    "kcal": 61.0
+    "kcal": 61
   },
   {
     "id": 4130,
     "nameVi": "Nấm thường, tươi",
     "nameEn": "Gilled mushroom, meadow mushroom, raw",
     "groupId": 4,
-    "kcal": 48.0
+    "kcal": 48
   },
   {
     "id": 4132,
     "nameVi": "Hành khô",
     "nameEn": null,
     "groupId": 4,
-    "kcal": 326.0
+    "kcal": 326
   },
   {
     "id": 4133,
     "nameVi": "Nấm kim châm",
     "nameEn": "Mushroom, small and tall, raw",
     "groupId": 4,
-    "kcal": 44.0
+    "kcal": 44
   },
   {
     "id": 4134,
     "nameVi": "Cải ngồng",
     "nameEn": null,
     "groupId": 4,
-    "kcal": 17.0
+    "kcal": 17
   },
   {
     "id": 4135,
     "nameVi": "Rau cải chíp",
     "nameEn": null,
     "groupId": 4,
-    "kcal": 17.0
+    "kcal": 17
   },
   {
     "id": 4139,
     "nameVi": "Rong biển",
     "nameEn": null,
     "groupId": 4,
-    "kcal": 700.0
+    "kcal": 700
   },
   {
     "id": 5001,
     "nameVi": "Bưởi, tươi",
     "nameEn": "Pomelo, Pummelo; Shaddock, raw",
     "groupId": 5,
-    "kcal": 33.0
+    "kcal": 33
   },
   {
     "id": 5002,
     "nameVi": "Cam, tươi",
     "nameEn": "Orange, raw",
     "groupId": 5,
-    "kcal": 43.0
+    "kcal": 43
   },
   {
     "id": 5003,
     "nameVi": "Chanh, tươi",
     "nameEn": "Lemon, raw",
     "groupId": 5,
-    "kcal": 29.0
+    "kcal": 29
   },
   {
     "id": 5004,
     "nameVi": "Chôm chôm, tươi",
     "nameEn": "Rambutan, raw",
     "groupId": 5,
-    "kcal": 77.0
+    "kcal": 77
   },
   {
     "id": 5005,
     "nameVi": "Chuối, khô",
     "nameEn": "Banana, dried",
     "groupId": 5,
-    "kcal": 301.0
+    "kcal": 301
   },
   {
     "id": 5006,
     "nameVi": "Chuối tây, tươi",
     "nameEn": "Banana, raw",
     "groupId": 5,
-    "kcal": 66.0
+    "kcal": 66
   },
   {
     "id": 5007,
     "nameVi": "Chuối tiêu, tươi",
     "nameEn": "Banana, dwarf, raw",
     "groupId": 5,
-    "kcal": 100.0
+    "kcal": 100
   },
   {
     "id": 5008,
     "nameVi": "Dâu gia, tươi",
     "nameEn": "Fruit of Baccaurea sapida, tươi",
     "groupId": 5,
-    "kcal": 27.0
+    "kcal": 27
   },
   {
     "id": 5009,
     "nameVi": "Dâu tây, tươi",
     "nameEn": "Strawberry, raw",
     "groupId": 5,
-    "kcal": 59.0
+    "kcal": 59
   },
   {
     "id": 5010,
     "nameVi": "Dưa bở, tươi",
     "nameEn": "Musk melon, Spanish melon, Cantaloupe, raw",
     "groupId": 5,
-    "kcal": 21.0
+    "kcal": 21
   },
   {
     "id": 5011,
     "nameVi": "Dưa hấu, tươi",
     "nameEn": "Watermelon, raw",
     "groupId": 5,
-    "kcal": 18.0
+    "kcal": 18
   },
   {
     "id": 5012,
     "nameVi": "Dưa hồng, tươi",
     "nameEn": null,
     "groupId": 5,
-    "kcal": 19.0
+    "kcal": 19
   },
   {
     "id": 5013,
     "nameVi": "Dưa lê, tươi",
     "nameEn": "Honey dew melon, raw",
     "groupId": 5,
-    "kcal": 20.0
+    "kcal": 20
   },
   {
     "id": 5014,
     "nameVi": "Dứa ta, tươi",
     "nameEn": "Pineapple, wild, raw",
     "groupId": 5,
-    "kcal": 32.0
+    "kcal": 32
   },
   {
     "id": 5015,
     "nameVi": "Dứa tây, tươi",
     "nameEn": "Pineapple, raw",
     "groupId": 5,
-    "kcal": 40.0
+    "kcal": 40
   },
   {
     "id": 5016,
     "nameVi": "Đào, tươi",
     "nameEn": "Peach, raw",
     "groupId": 5,
-    "kcal": 37.0
+    "kcal": 37
   },
   {
     "id": 5017,
     "nameVi": "Đu đủ chín, tươi",
     "nameEn": "Papaya ripe, raw",
     "groupId": 5,
-    "kcal": 38.0
+    "kcal": 38
   },
   {
     "id": 5018,
     "nameVi": "Gioi, tươi",
     "nameEn": "Ohia; Malaya roseapple, raw",
     "groupId": 5,
-    "kcal": 27.0
+    "kcal": 27
   },
   {
     "id": 5019,
     "nameVi": "Hồng bì, tươi",
     "nameEn": "Wampee, Chinese; Wampi, raw",
     "groupId": 5,
-    "kcal": 44.0
+    "kcal": 44
   },
   {
     "id": 5020,
     "nameVi": "Hồng đỏ, tươi",
     "nameEn": "Persimmon kaki soft type, ripe, raw",
     "groupId": 5,
-    "kcal": 38.0
+    "kcal": 38
   },
   {
     "id": 5021,
     "nameVi": "Hồng ngâm, tươi",
     "nameEn": "Persimmon kaki, Hard-type, ripe, raw",
     "groupId": 5,
-    "kcal": 48.0
+    "kcal": 48
   },
   {
     "id": 5022,
     "nameVi": "Hồng xiêm, tươi",
     "nameEn": "Sapodilla, sapota ponderosa, raw",
     "groupId": 5,
-    "kcal": 58.0
+    "kcal": 58
   },
   {
     "id": 5023,
     "nameVi": "Lê, tươi",
     "nameEn": "Pear, raw",
     "groupId": 5,
-    "kcal": 48.0
+    "kcal": 48
   },
   {
     "id": 5024,
     "nameVi": "Lựu, tươi",
     "nameEn": "Pome granate, raw",
     "groupId": 5,
-    "kcal": 79.0
+    "kcal": 79
   },
   {
     "id": 5025,
     "nameVi": "Mãng cầu xiêm, tươi",
     "nameEn": "Soursop, raw",
     "groupId": 5,
-    "kcal": 58.0
+    "kcal": 58
   },
   {
     "id": 5026,
     "nameVi": "Mắc coọc, tươi",
     "nameEn": "Wild Himalayan pear, raw",
     "groupId": 5,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 5027,
     "nameVi": "Mận tím, tươi",
     "nameEn": "Japanese plum, raw",
     "groupId": 5,
-    "kcal": 23.0
+    "kcal": 23
   },
   {
     "id": 5028,
     "nameVi": "Mít dai, tươi",
     "nameEn": "Jackfruit, mature, raw",
     "groupId": 5,
-    "kcal": 54.0
+    "kcal": 54
   },
   {
     "id": 5029,
     "nameVi": "Mít khô",
     "nameEn": "Jackfruit, dried",
     "groupId": 5,
-    "kcal": 286.0
+    "kcal": 286
   },
   {
     "id": 5030,
     "nameVi": "Mít mật , tươi",
     "nameEn": "Jackfruit, sweet type, raw",
     "groupId": 5,
-    "kcal": 67.0
+    "kcal": 67
   },
   {
     "id": 5031,
     "nameVi": "Mơ, tươi",
     "nameEn": "Apricot, raw",
     "groupId": 5,
-    "kcal": 50.0
+    "kcal": 50
   },
   {
     "id": 5032,
     "nameVi": "Mơ, khô",
     "nameEn": "Apricot, dried",
     "groupId": 5,
-    "kcal": 290.0
+    "kcal": 290
   },
   {
     "id": 5033,
     "nameVi": "Muỗm, quéo, tươi",
     "nameEn": "Mango, common; Indian mango, unripe, raw",
     "groupId": 5,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 5034,
     "nameVi": "Na, tươi",
     "nameEn": "Sugar apple, sweetsop, raw",
     "groupId": 5,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 5035,
     "nameVi": "Nhãn, tươi",
     "nameEn": "Longan, raw",
     "groupId": 5,
-    "kcal": 52.0
+    "kcal": 52
   },
   {
     "id": 5036,
     "nameVi": "Nhãn, khô",
     "nameEn": "Longan, dried",
     "groupId": 5,
-    "kcal": 292.0
+    "kcal": 292
   },
   {
     "id": 5037,
     "nameVi": "Nho ngọt, tươi",
     "nameEn": "Grape, European, sweet, raw",
     "groupId": 5,
-    "kcal": 71.0
+    "kcal": 71
   },
   {
     "id": 5038,
     "nameVi": "Nho ta (nho chua), tươi",
     "nameEn": "Grape fruit, wild, raw",
     "groupId": 5,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 5039,
     "nameVi": "Nhót, tươi",
     "nameEn": "Silver berry, raw",
     "groupId": 5,
-    "kcal": 22.0
+    "kcal": 22
   },
   {
     "id": 5040,
     "nameVi": "Ổi, quả chín, tươi",
     "nameEn": "Guava, common, raw",
     "groupId": 5,
-    "kcal": 61.0
+    "kcal": 61
   },
   {
     "id": 5041,
     "nameVi": "Quả bơ vỏ tím, tươi",
     "nameEn": "Avocado, Alligator Pear, raw",
     "groupId": 5,
-    "kcal": 76.0
+    "kcal": 76
   },
   {
     "id": 5042,
     "nameVi": "Quả bơ vỏ xanh, tươi",
     "nameEn": "Avocado, Alligator Pear, raaw",
     "groupId": 5,
-    "kcal": 103.0
+    "kcal": 103
   },
   {
     "id": 5043,
     "nameVi": "Quả cóc, tươi",
     "nameEn": "Pork plum, Tahitian apple, Otaheite apple, raw",
     "groupId": 5,
-    "kcal": 62.0
+    "kcal": 62
   },
   {
     "id": 5044,
     "nameVi": "Quả thanh long, tươi",
     "nameEn": "Dragon's eyes fruit, raw",
     "groupId": 5,
-    "kcal": 47.0
+    "kcal": 47
   },
   {
     "id": 5045,
     "nameVi": "Quả trứng gà, tươi",
     "nameEn": "Lúcuma, raw",
     "groupId": 5,
-    "kcal": 106.0
+    "kcal": 106
   },
   {
     "id": 5046,
     "nameVi": "Quất chín, tươi",
     "nameEn": "Mandarin, raw",
     "groupId": 5,
-    "kcal": 42.0
+    "kcal": 42
   },
   {
     "id": 5047,
     "nameVi": "Quít, tươi",
     "nameEn": "Tangerine; Orange; Mandarin, raw",
     "groupId": 5,
-    "kcal": 40.0
+    "kcal": 40
   },
   {
     "id": 5048,
     "nameVi": "Sầu riêng, tươi",
     "nameEn": "Durian, raw",
     "groupId": 5,
-    "kcal": 138.0
+    "kcal": 138
   },
   {
     "id": 5049,
     "nameVi": "Sấu chín, tươi",
     "nameEn": "Sanpidus, ripe, raw",
     "groupId": 5,
-    "kcal": 49.0
+    "kcal": 49
   },
   {
     "id": 5050,
     "nameVi": "Táo ta, tươi",
     "nameEn": "Jujube, Vietnamese apple, raw",
     "groupId": 5,
-    "kcal": 40.0
+    "kcal": 40
   },
   {
     "id": 5051,
     "nameVi": "Táo tây, tươi",
     "nameEn": "Apple, common, raw",
     "groupId": 5,
-    "kcal": 50.0
+    "kcal": 50
   },
   {
     "id": 5052,
     "nameVi": "Vải, tươi",
     "nameEn": "Litchi; lychee, raw",
     "groupId": 5,
-    "kcal": 49.0
+    "kcal": 49
   },
   {
     "id": 5053,
     "nameVi": "Vải, khô",
     "nameEn": "Litchi, dried with shells",
     "groupId": 5,
-    "kcal": 264.0
+    "kcal": 264
   },
   {
     "id": 5054,
     "nameVi": "Vú sữa, tươi",
     "nameEn": "Starapple, cainito, raw",
     "groupId": 5,
-    "kcal": 51.0
+    "kcal": 51
   },
   {
     "id": 5055,
     "nameVi": "Xoài chín, tươi",
     "nameEn": "Mango, common, ripe, raw",
     "groupId": 5,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 5056,
     "nameVi": "Quả kiwi, tươi",
     "nameEn": "Kiwifruit, Chinese gooseberry, raw",
     "groupId": 5,
-    "kcal": 68.0
+    "kcal": 68
   },
   {
     "id": 5058,
     "nameVi": "Táo mèo",
     "nameEn": null,
     "groupId": 5,
-    "kcal": 92.0
+    "kcal": 92
   },
   {
     "id": 5060,
     "nameVi": "Dưa lưới",
     "nameEn": "Cantaloupe",
     "groupId": 5,
-    "kcal": 38.0
+    "kcal": 38
   },
   {
     "id": 5061,
     "nameVi": "Măng cụt",
     "nameEn": "Mangosteen",
     "groupId": 5,
-    "kcal": 65.0
+    "kcal": 65
   },
   {
     "id": 6001,
     "nameVi": "Bơ",
     "nameEn": "Butter, unsalted",
     "groupId": 6,
-    "kcal": 756.0
+    "kcal": 756
   },
   {
     "id": 6002,
     "nameVi": "Dầu thảo mộc (Lạc, vừng, cám...)",
     "nameEn": "Vegetable oil, mixed varieties",
     "groupId": 6,
-    "kcal": 897.0
+    "kcal": 897
   },
   {
     "id": 6003,
     "nameVi": "Mỡ lợn, muối",
     "nameEn": "Lard, salted",
     "groupId": 6,
-    "kcal": 827.0
+    "kcal": 827
   },
   {
     "id": 6004,
     "nameVi": "Mỡ lợn, nước",
     "nameEn": "Lard, liquid",
     "groupId": 6,
-    "kcal": 896.0
+    "kcal": 896
   },
   {
     "id": 6005,
     "nameVi": "Bơ thực vật",
     "nameEn": "Margarine, unsalted",
     "groupId": 6,
-    "kcal": 729.0
+    "kcal": 729
   },
   {
     "id": 6006,
     "nameVi": "Dầu bông",
     "nameEn": "Oil, cottonseed, salad or cooking",
     "groupId": 6,
-    "kcal": 900.0
+    "kcal": 900
   },
   {
     "id": 6007,
     "nameVi": "Dầu cám gạo",
     "nameEn": "Oil, rice bran",
     "groupId": 6,
-    "kcal": 900.0
+    "kcal": 900
   },
   {
     "id": 6008,
     "nameVi": "Dầu cọ",
     "nameEn": "Vegetable oil, palm kernel",
     "groupId": 6,
-    "kcal": 900.0
+    "kcal": 900
   },
   {
     "id": 6009,
     "nameVi": "Dầu dừa",
     "nameEn": "Oil, coconut kernel",
     "groupId": 6,
-    "kcal": 900.0
+    "kcal": 900
   },
   {
     "id": 6010,
     "nameVi": "Dầu đậu tương",
     "nameEn": "Oil, soybean, salad or cooking",
     "groupId": 6,
-    "kcal": 900.0
+    "kcal": 900
   },
   {
     "id": 6011,
     "nameVi": "Dầu lạc",
     "nameEn": "Oil, peanut, salad or cooking",
     "groupId": 6,
-    "kcal": 900.0
+    "kcal": 900
   },
   {
     "id": 6012,
     "nameVi": "Dầu mè",
     "nameEn": "Oil, sesame, salad or cooking",
     "groupId": 6,
-    "kcal": 900.0
+    "kcal": 900
   },
   {
     "id": 6013,
     "nameVi": "Dầu ngô",
     "nameEn": "Oil, corn, salad or cooking",
     "groupId": 6,
-    "kcal": 900.0
+    "kcal": 900
   },
   {
     "id": 6014,
     "nameVi": "Dầu oliu",
     "nameEn": "Oil, olive, salad or cooking",
     "groupId": 6,
-    "kcal": 900.0
+    "kcal": 900
   },
   {
     "id": 6023,
     "nameVi": "Dầu hỗn hợp",
     "nameEn": "Vegetable oil, mixed varieties",
     "groupId": 6,
-    "kcal": 897.0
+    "kcal": 897
   },
   {
     "id": 7001,
     "nameVi": "Thịt bê, mỡ, tươi",
     "nameEn": "Veal, lean and fat meat, raw",
     "groupId": 7,
-    "kcal": 144.0
+    "kcal": 144
   },
   {
     "id": 7002,
     "nameVi": "Thịt bê, nạc, tươi",
     "nameEn": "Veal, lean meat only, raw",
     "groupId": 7,
-    "kcal": 85.0
+    "kcal": 85
   },
   {
     "id": 7003,
     "nameVi": "Thịt bò, loại I, tươi",
     "nameEn": "Beef, meat, grade I, raw",
     "groupId": 7,
-    "kcal": 118.0
+    "kcal": 118
   },
   {
     "id": 7004,
     "nameVi": "Thịt bò, loại II, tươi",
     "nameEn": "Beef, meat, grade II, raw",
     "groupId": 7,
-    "kcal": 167.0
+    "kcal": 167
   },
   {
     "id": 7005,
     "nameVi": "Thịt bò, lưng, nạc, tươi",
     "nameEn": "Beef, short loin, top loin, seperable lean only, trimmed to 1/8\" fat, prime, raw",
     "groupId": 7,
-    "kcal": 121.0
+    "kcal": 121
   },
   {
     "id": 7006,
     "nameVi": "Thịt bò, lưng, nạc và mỡ, tươi",
     "nameEn": "Beef, short loin, top loin, seperable lean only, trimmed to 1/4\" fat, prime, raw",
     "groupId": 7,
-    "kcal": 174.0
+    "kcal": 174
   },
   {
     "id": 7007,
     "nameVi": "Thịt bồ câu, cả con non (ra ràng), tươi",
     "nameEn": "Pigeon, young bird, raw",
     "groupId": 7,
-    "kcal": 340.0
+    "kcal": 340
   },
   {
     "id": 7008,
     "nameVi": "Thịt chó, sấn, tươi",
     "nameEn": "Dog, lean and fat meat, raw",
     "groupId": 7,
-    "kcal": 338.0
+    "kcal": 338
   },
   {
     "id": 7009,
     "nameVi": "Thịt chó, vai, tươi",
     "nameEn": "Dog, shoulder, lean and fat meat, raw",
     "groupId": 7,
-    "kcal": 230.0
+    "kcal": 230
   },
   {
     "id": 7010,
     "nameVi": "Thịt cừu, nạc, tươi",
     "nameEn": "Mutton, lean meat, raw",
     "groupId": 7,
-    "kcal": 219.0
+    "kcal": 219
   },
   {
     "id": 7011,
     "nameVi": "Thịt dê, nạc, tươi",
     "nameEn": "Goat, lean meat, raw",
     "groupId": 7,
-    "kcal": 122.0
+    "kcal": 122
   },
   {
     "id": 7012,
     "nameVi": "Thịt gà rừng, tươi",
     "nameEn": "Chicken, wild, raw",
     "groupId": 7,
-    "kcal": 141.0
+    "kcal": 141
   },
   {
     "id": 7013,
     "nameVi": "Thịt gà ta, tươi",
     "nameEn": "Chicken, average meat, raw",
     "groupId": 7,
-    "kcal": 199.0
+    "kcal": 199
   },
   {
     "id": 7014,
     "nameVi": "Thịt gà tây, tươi",
     "nameEn": "Turkey, average meat, raw",
     "groupId": 7,
-    "kcal": 218.0
+    "kcal": 218
   },
   {
     "id": 7015,
     "nameVi": "Thịt hươu, tươi",
     "nameEn": "Deer, average meat, raw",
     "groupId": 7,
-    "kcal": 94.0
+    "kcal": 94
   },
   {
     "id": 7016,
     "nameVi": "Thịt lợn, mỡ, tươi",
     "nameEn": "Pork, fat meat, raw",
     "groupId": 7,
-    "kcal": 394.0
+    "kcal": 394
   },
   {
     "id": 7017,
     "nameVi": "Thịt lợn, nạc, tươi",
     "nameEn": "Pork, lean meat, raw",
     "groupId": 7,
-    "kcal": 139.0
+    "kcal": 139
   },
   {
     "id": 7018,
     "nameVi": "Thịt lợn, nửa nạc, nửa mỡ, tươi",
     "nameEn": "Pork, lean and fat meat, raw",
     "groupId": 7,
-    "kcal": 260.0
+    "kcal": 260
   },
   {
     "id": 7019,
     "nameVi": "Thịt ngỗng, tươi",
     "nameEn": "Goose, average meat, raw",
     "groupId": 7,
-    "kcal": 409.0
+    "kcal": 409
   },
   {
     "id": 7020,
     "nameVi": "Thịt ngựa, tươi",
     "nameEn": "Horse, average meat, raw",
     "groupId": 7,
-    "kcal": 176.0
+    "kcal": 176
   },
   {
     "id": 7021,
     "nameVi": "Thịt thỏ nhà, tươi",
     "nameEn": "Rabbit, average meat, raw",
     "groupId": 7,
-    "kcal": 158.0
+    "kcal": 158
   },
   {
     "id": 7022,
     "nameVi": "Thịt thỏ rừng, tươi",
     "nameEn": "Rabbit, wild, average meat, raw",
     "groupId": 7,
-    "kcal": 103.0
+    "kcal": 103
   },
   {
     "id": 7023,
     "nameVi": "Thịt trâu, tươi",
     "nameEn": "Buffalo, average meat, raw",
     "groupId": 7,
-    "kcal": 97.0
+    "kcal": 97
   },
   {
     "id": 7024,
     "nameVi": "Thịt trâu, bắp, tươi",
     "nameEn": "Buffalo, shoulder, lean meat, raw",
     "groupId": 7,
-    "kcal": 115.0
+    "kcal": 115
   },
   {
     "id": 7025,
     "nameVi": "Thịt trâu, cổ, tươi",
     "nameEn": "Buffalo, neck, lean and fat meat, raw",
     "groupId": 7,
-    "kcal": 112.0
+    "kcal": 112
   },
   {
     "id": 7026,
     "nameVi": "Thịt trâu, đùi, tươi",
     "nameEn": "Buffalo, leg, lean and fat meat, raw",
     "groupId": 7,
-    "kcal": 112.0
+    "kcal": 112
   },
   {
     "id": 7027,
     "nameVi": "Thịt trâu, đùi, tươi",
     "nameEn": "Buffalo, loin, lean meat, raw",
     "groupId": 7,
-    "kcal": 121.0
+    "kcal": 121
   },
   {
     "id": 7028,
     "nameVi": "Thịt vịt, tươi",
     "nameEn": "Duck, average meat, raw",
     "groupId": 7,
-    "kcal": 267.0
+    "kcal": 267
   },
   {
     "id": 7029,
     "nameVi": "Bầu dục bò, tươi",
     "nameEn": "Beef, kidney, raw",
     "groupId": 7,
-    "kcal": 67.0
+    "kcal": 67
   },
   {
     "id": 7030,
     "nameVi": "Bầu dục lợn, tươi",
     "nameEn": "Pork, kidney, raw",
     "groupId": 7,
-    "kcal": 81.0
+    "kcal": 81
   },
   {
     "id": 7031,
     "nameVi": "Bì lợn, tươi",
     "nameEn": "Pork, skin, raw",
     "groupId": 7,
-    "kcal": 118.0
+    "kcal": 118
   },
   {
     "id": 7032,
     "nameVi": "Chân giò lợn, tươi",
     "nameEn": "Pork, leg , raw",
     "groupId": 7,
-    "kcal": 230.0
+    "kcal": 230
   },
   {
     "id": 7033,
     "nameVi": "Dạ dày bò, tươi",
     "nameEn": "Beef, stomach, raw",
     "groupId": 7,
-    "kcal": 97.0
+    "kcal": 97
   },
   {
     "id": 7034,
     "nameVi": "Dạ dày lợn, tươi",
     "nameEn": "Pork, stomach, raw",
     "groupId": 7,
-    "kcal": 85.0
+    "kcal": 85
   },
   {
     "id": 7035,
     "nameVi": "Đầu bò, tươi",
     "nameEn": "Beef, head, raw",
     "groupId": 7,
-    "kcal": 185.0
+    "kcal": 185
   },
   {
     "id": 7036,
     "nameVi": "Đầu lợn, tươi",
     "nameEn": "Pork, head, raw",
     "groupId": 7,
-    "kcal": 335.0
+    "kcal": 335
   },
   {
     "id": 7037,
     "nameVi": "Đuôi bò, tươi",
     "nameEn": "Beef, tail, raw",
     "groupId": 7,
-    "kcal": 137.0
+    "kcal": 137
   },
   {
     "id": 7038,
     "nameVi": "Đuôi lợn, tươi",
     "nameEn": "Pork, tail, raw",
     "groupId": 7,
-    "kcal": 467.0
+    "kcal": 467
   },
   {
     "id": 7039,
     "nameVi": "Gan bò, tươi",
     "nameEn": "Beef, liver, raw",
     "groupId": 7,
-    "kcal": 110.0
+    "kcal": 110
   },
   {
     "id": 7040,
     "nameVi": "Gan gà, tươi",
     "nameEn": "Chicken, liver, raw",
     "groupId": 7,
-    "kcal": 111.0
+    "kcal": 111
   },
   {
     "id": 7041,
     "nameVi": "Gan lợn, tươi",
     "nameEn": "Pork, liver, raw",
     "groupId": 7,
-    "kcal": 116.0
+    "kcal": 116
   },
   {
     "id": 7042,
     "nameVi": "Gan vịt, tươi",
     "nameEn": "Duck, liver, raw",
     "groupId": 7,
-    "kcal": 122.0
+    "kcal": 122
   },
   {
     "id": 7043,
     "nameVi": "Gân chân bò, tươi",
     "nameEn": "Beef, tendon, leg, raw",
     "groupId": 7,
-    "kcal": 124.0
+    "kcal": 124
   },
   {
     "id": 7044,
     "nameVi": "Lưỡi bò, tươi",
     "nameEn": "Beef, tongue, raw",
     "groupId": 7,
-    "kcal": 164.0
+    "kcal": 164
   },
   {
     "id": 7045,
     "nameVi": "Lưỡi lợn, tươi",
     "nameEn": "Pork, tongue, raw",
     "groupId": 7,
-    "kcal": 178.0
+    "kcal": 178
   },
   {
     "id": 7046,
     "nameVi": "Lòng lợn (ruột già), tươi",
     "nameEn": "Pork, large intestine, raw",
     "groupId": 7,
-    "kcal": 167.0
+    "kcal": 167
   },
   {
     "id": 7047,
     "nameVi": "Lòng lợn (ruột non), tươi",
     "nameEn": "Pork, small intestine, raw",
     "groupId": 7,
-    "kcal": 44.0
+    "kcal": 44
   },
   {
     "id": 7048,
     "nameVi": "Mề gà, tươi",
     "nameEn": "Chicken, gizzard, raw",
     "groupId": 7,
-    "kcal": 99.0
+    "kcal": 99
   },
   {
     "id": 7049,
     "nameVi": "Óc bò, tươi",
     "nameEn": "Beef, brain, raw",
     "groupId": 7,
-    "kcal": 124.0
+    "kcal": 124
   },
   {
     "id": 7050,
     "nameVi": "Óc lợn, tươi",
     "nameEn": "Pork, brain, raw",
     "groupId": 7,
-    "kcal": 123.0
+    "kcal": 123
   },
   {
     "id": 7051,
     "nameVi": "Phổi bò, tươi",
     "nameEn": "Beef, lung, raw",
     "groupId": 7,
-    "kcal": 103.0
+    "kcal": 103
   },
   {
     "id": 7052,
     "nameVi": "Phổi lợn, tươi",
     "nameEn": "Pork, lung, raw",
     "groupId": 7,
-    "kcal": 92.0
+    "kcal": 92
   },
   {
     "id": 7053,
     "nameVi": "Sườn lợn, tươi",
     "nameEn": "Pork, ribs, raw",
     "groupId": 7,
-    "kcal": 187.0
+    "kcal": 187
   },
   {
     "id": 7054,
     "nameVi": "Tai lợn, tươi",
     "nameEn": "Pork, ears, raw",
     "groupId": 7,
-    "kcal": 126.0
+    "kcal": 126
   },
   {
     "id": 7055,
     "nameVi": "Tim bò, tươi",
     "nameEn": "Beef, heart, raw",
     "groupId": 7,
-    "kcal": 89.0
+    "kcal": 89
   },
   {
     "id": 7056,
     "nameVi": "Tim gà, tươi",
     "nameEn": "Chicken, heart, tươi",
     "groupId": 7,
-    "kcal": 114.0
+    "kcal": 114
   },
   {
     "id": 7057,
     "nameVi": "Tim lợn, tươi",
     "nameEn": "Pork, heart, raw",
     "groupId": 7,
-    "kcal": 94.0
+    "kcal": 94
   },
   {
     "id": 7058,
     "nameVi": "Tiết bò, tươi",
     "nameEn": "Beef, blood, raw",
     "groupId": 7,
-    "kcal": 75.0
+    "kcal": 75
   },
   {
     "id": 7059,
     "nameVi": "Tiết lợn, luộc",
     "nameEn": "Pork, blood, boiled",
     "groupId": 7,
-    "kcal": 44.0
+    "kcal": 44
   },
   {
     "id": 7060,
     "nameVi": "Tiết lợn, tươi",
     "nameEn": "Pork, blood, raw",
     "groupId": 7,
-    "kcal": 25.0
+    "kcal": 25
   },
   {
     "id": 7061,
     "nameVi": "Tủy xương bò, tươi",
     "nameEn": "Beef, bone marrow, raw",
     "groupId": 7,
-    "kcal": 814.0
+    "kcal": 814
   },
   {
     "id": 7062,
     "nameVi": "Tủy xương lợn, tươi",
     "nameEn": "Pork, bone marrow, raw",
     "groupId": 7,
-    "kcal": 749.0
+    "kcal": 749
   },
   {
     "id": 7063,
     "nameVi": "Ba tê lợn",
     "nameEn": "Pate, from pork",
     "groupId": 7,
-    "kcal": 326.0
+    "kcal": 326
   },
   {
     "id": 7064,
     "nameVi": "Chả lợn",
     "nameEn": "Pork, minced meat with spices, fried",
     "groupId": 7,
-    "kcal": 517.0
+    "kcal": 517
   },
   {
     "id": 7065,
     "nameVi": "Chả quế lợn",
     "nameEn": "Pork, minced meat with spices and cinnamon, fried",
     "groupId": 7,
-    "kcal": 416.0
+    "kcal": 416
   },
   {
     "id": 7066,
     "nameVi": "Dăm bông lợn",
     "nameEn": "Pork, ham",
     "groupId": 7,
-    "kcal": 318.0
+    "kcal": 318
   },
   {
     "id": 7067,
     "nameVi": "Dồi lợn, chín",
     "nameEn": "Pork, mix blood and viscera and spices in large intestine, boiled",
     "groupId": 7,
-    "kcal": 114.0
+    "kcal": 114
   },
   {
     "id": 7068,
     "nameVi": "Giò bò, chín",
     "nameEn": "Beef, minced lean meat and spices, steamed",
     "groupId": 7,
-    "kcal": 335.0
+    "kcal": 335
   },
   {
     "id": 7069,
     "nameVi": "Giò lụa, chín",
     "nameEn": "Pork, minced lean meat and spices, steamed",
     "groupId": 7,
-    "kcal": 205.0
+    "kcal": 205
   },
   {
     "id": 7070,
     "nameVi": "Giò thủ lợn, chín",
     "nameEn": "Pork, head meat with spices, steamed",
     "groupId": 7,
-    "kcal": 553.0
+    "kcal": 553
   },
   {
     "id": 7071,
     "nameVi": "Lạp xường, lạp sườn",
     "nameEn": "Chinese sausage",
     "groupId": 7,
-    "kcal": 585.0
+    "kcal": 585
   },
   {
     "id": 7072,
     "nameVi": "Nem chạo",
     "nameEn": "Pork, skin and meat with spices, rolled with rice paper",
     "groupId": 7,
-    "kcal": 116.0
+    "kcal": 116
   },
   {
     "id": 7073,
     "nameVi": "Nem chua",
     "nameEn": "Pork, lean meat, minced with spices, fermented",
     "groupId": 7,
-    "kcal": 125.0
+    "kcal": 125
   },
   {
     "id": 7074,
     "nameVi": "Ruốc thịt lợn",
     "nameEn": "Pork, lean meat, shredded, fried with salt",
     "groupId": 7,
-    "kcal": 369.0
+    "kcal": 369
   },
   {
     "id": 7075,
     "nameVi": "Thịt bò khô",
     "nameEn": "Beef, lean meat, dried with spices",
     "groupId": 7,
-    "kcal": 239.0
+    "kcal": 239
   },
   {
     "id": 7076,
     "nameVi": "Thịt trâu khô",
     "nameEn": "Buffalo, meat, dried with spices",
     "groupId": 7,
-    "kcal": 226.0
+    "kcal": 226
   },
   {
     "id": 7077,
     "nameVi": "Xúc xích",
     "nameEn": "Pork, sausage",
     "groupId": 7,
-    "kcal": 535.0
+    "kcal": 535
   },
   {
     "id": 7078,
     "nameVi": "Bột cóc",
     "nameEn": "Toad, meat and small bones, powded",
     "groupId": 7,
-    "kcal": 342.0
+    "kcal": 342
   },
   {
     "id": 7079,
     "nameVi": "Châu chấu, sống",
     "nameEn": "Locust, raw",
     "groupId": 7,
-    "kcal": 130.0
+    "kcal": 130
   },
   {
     "id": 7080,
     "nameVi": "Ếch (thịt đùi), tươi",
     "nameEn": "Frog, leg meat, raw",
     "groupId": 7,
-    "kcal": 90.0
+    "kcal": 90
   },
   {
     "id": 7081,
     "nameVi": "Nhộng, tươi",
     "nameEn": "Silk worm, raw",
     "groupId": 7,
-    "kcal": 111.0
+    "kcal": 111
   },
   {
     "id": 7082,
     "nameVi": "Lòng gà (cả bộ), tươi",
     "nameEn": "Chicken, whole giblets, raw",
     "groupId": 7,
-    "kcal": 119.0
+    "kcal": 119
   },
   {
     "id": 7083,
     "nameVi": "Thịt lợn, nạc vai, tươi",
     "nameEn": "Pork, lean meat, shoulder, raw",
     "groupId": 7,
-    "kcal": 149.0
+    "kcal": 149
   },
   {
     "id": 7084,
     "nameVi": "Thịt lợn, nạc mông, tươi",
     "nameEn": "Pork, lean meat, thighs, raw",
     "groupId": 7,
-    "kcal": 141.0
+    "kcal": 141
   },
   {
     "id": 7085,
     "nameVi": "Thịt lợn, nạc thăn, tươi",
     "nameEn": "Pork, lean meat, tenderloin, raw",
     "groupId": 7,
-    "kcal": 118.0
+    "kcal": 118
   },
   {
     "id": 7086,
     "nameVi": "Thịt lợn nửa nạc, nửa mỡ, nướng",
     "nameEn": "Pork, lean and fat meat, grilled",
     "groupId": 7,
-    "kcal": 401.0
+    "kcal": 401
   },
   {
     "id": 7087,
     "nameVi": "Thịt gà công nghiệp, cánh, tươi",
     "nameEn": "Chicken, wing, raw",
     "groupId": 7,
-    "kcal": 188.0
+    "kcal": 188
   },
   {
     "id": 7088,
     "nameVi": "Thịt gà công nghiệp, đùi, tươi",
     "nameEn": "Chicken, thighs, raw",
     "groupId": 7,
-    "kcal": 137.0
+    "kcal": 137
   },
   {
     "id": 7089,
     "nameVi": "Thịt gà công nghiệp, lườn, raw",
     "nameEn": "Chicken, breast, raw",
     "groupId": 7,
-    "kcal": 134.0
+    "kcal": 134
   },
   {
     "id": 7090,
     "nameVi": "Thịt ngan, tươi",
     "nameEn": "Goose, average meat, raw",
     "groupId": 7,
-    "kcal": 288.0
+    "kcal": 288
   },
   {
     "id": 7091,
     "nameVi": "Chả lá lốt, rán",
     "nameEn": "Pork, meat with spices, rolled with lolot pepper leaves, fried",
     "groupId": 7,
-    "kcal": 306.0
+    "kcal": 306
   },
   {
     "id": 7094,
     "nameVi": "Thịt bò, bắp, sống",
     "nameEn": null,
     "groupId": 7,
-    "kcal": 122.0
+    "kcal": 122
   },
   {
     "id": 7112,
     "nameVi": "Thịt lợn, mông, sống",
     "nameEn": null,
     "groupId": 7,
-    "kcal": 131.0
+    "kcal": 131
   },
   {
     "id": 7142,
     "nameVi": "Thịt xá xíu",
     "nameEn": null,
     "groupId": 7,
-    "kcal": 189.0
+    "kcal": 189
   },
   {
     "id": 7143,
     "nameVi": "Xúc xích bò",
     "nameEn": null,
     "groupId": 7,
-    "kcal": 178.0
+    "kcal": 178
   },
   {
     "id": 7144,
     "nameVi": "Tiết gà",
     "nameEn": null,
     "groupId": 7,
-    "kcal": 25.0
+    "kcal": 25
   },
   {
     "id": 7145,
     "nameVi": "Tiết dê",
     "nameEn": null,
     "groupId": 7,
-    "kcal": 25.0
+    "kcal": 25
   },
   {
     "id": 8001,
     "nameVi": "Cá bống, tươi",
     "nameEn": "Fish, goby, raw",
     "groupId": 8,
-    "kcal": 70.0
+    "kcal": 70
   },
   {
     "id": 8002,
     "nameVi": "Cá chày, tươi",
     "nameEn": "Fish, barbel chub, raw",
     "groupId": 8,
-    "kcal": 113.0
+    "kcal": 113
   },
   {
     "id": 8003,
     "nameVi": "Cá chép, tươi",
     "nameEn": "Fish, carp, raw",
     "groupId": 8,
-    "kcal": 96.0
+    "kcal": 96
   },
   {
     "id": 8004,
     "nameVi": "Cá dưa, tươi",
     "nameEn": "Fissh, daggertooth pike conger, raw",
     "groupId": 8,
-    "kcal": 115.0
+    "kcal": 115
   },
   {
     "id": 8005,
     "nameVi": "Cá dầu, tươi",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 96.0
+    "kcal": 96
   },
   {
     "id": 8006,
     "nameVi": "Cá diếc, tươi",
     "nameEn": "Fissh, mullet, raw",
     "groupId": 8,
-    "kcal": 87.0
+    "kcal": 87
   },
   {
     "id": 8007,
     "nameVi": "Cá đao, tươi",
     "nameEn": "Fish, sawfish, raw",
     "groupId": 8,
-    "kcal": 94.0
+    "kcal": 94
   },
   {
     "id": 8008,
     "nameVi": "Cá đé, tươi",
     "nameEn": "Fish, chinese herring or slender shad, raw",
     "groupId": 8,
-    "kcal": 83.0
+    "kcal": 83
   },
   {
     "id": 8009,
     "nameVi": "Cá đối, tươi",
     "nameEn": "Fish, flathead grey mullet, raw",
     "groupId": 8,
-    "kcal": 108.0
+    "kcal": 108
   },
   {
     "id": 8010,
     "nameVi": "Cá đồng tiền, tươi",
     "nameEn": "Fish, goby, raw",
     "groupId": 8,
-    "kcal": 98.0
+    "kcal": 98
   },
   {
     "id": 8011,
     "nameVi": "Cá hồi, tươi",
     "nameEn": "Fish, salmon, raw",
     "groupId": 8,
-    "kcal": 136.0
+    "kcal": 136
   },
   {
     "id": 8012,
     "nameVi": "Cá khô (chim, thu, nụ, đé), sống",
     "nameEn": "Fish, mix variety, dried",
     "groupId": 8,
-    "kcal": 208.0
+    "kcal": 208
   },
   {
     "id": 8013,
     "nameVi": "Cá lác, tươi",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 71.0
+    "kcal": 71
   },
   {
     "id": 8014,
     "nameVi": "Cá mè, tươi",
     "nameEn": "Fish, silver carp, raw",
     "groupId": 8,
-    "kcal": 144.0
+    "kcal": 144
   },
   {
     "id": 8015,
     "nameVi": "Cá mòi (cá sardin), tươi",
     "nameEn": "Fish, sardin, raw",
     "groupId": 8,
-    "kcal": 124.0
+    "kcal": 124
   },
   {
     "id": 8016,
     "nameVi": "Cá mỡ, tươi",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 151.0
+    "kcal": 151
   },
   {
     "id": 8017,
     "nameVi": "Cá mối, tươi",
     "nameEn": "Fish, lizardfish, raw",
     "groupId": 8,
-    "kcal": 116.0
+    "kcal": 116
   },
   {
     "id": 8018,
     "nameVi": "Cá nạc, tươi",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 80.0
+    "kcal": 80
   },
   {
     "id": 8019,
     "nameVi": "Cá ngừ, tươi",
     "nameEn": "Fish, tuna, raw",
     "groupId": 8,
-    "kcal": 87.0
+    "kcal": 87
   },
   {
     "id": 8020,
     "nameVi": "Cá nục, tươi",
     "nameEn": "Fish, anchovy, raw",
     "groupId": 8,
-    "kcal": 111.0
+    "kcal": 111
   },
   {
     "id": 8021,
     "nameVi": "Cá phèn, tươi",
     "nameEn": "Fish, goatfishes, raw",
     "groupId": 8,
-    "kcal": 104.0
+    "kcal": 104
   },
   {
     "id": 8022,
     "nameVi": "Cá quả, tươi",
     "nameEn": "Fish, snakehead fish, raw",
     "groupId": 8,
-    "kcal": 97.0
+    "kcal": 97
   },
   {
     "id": 8023,
     "nameVi": "Cá rô đồng, tươi",
     "nameEn": "Fish, climbing perch, raw",
     "groupId": 8,
-    "kcal": 126.0
+    "kcal": 126
   },
   {
     "id": 8024,
     "nameVi": "Cá rô phi, tươi",
     "nameEn": "Fish, tilapia, raw",
     "groupId": 8,
-    "kcal": 100.0
+    "kcal": 100
   },
   {
     "id": 8025,
     "nameVi": "Cá thờn bơn, tươi",
     "nameEn": "Fish, flatfishes, raw",
     "groupId": 8,
-    "kcal": 73.0
+    "kcal": 73
   },
   {
     "id": 8026,
     "nameVi": "Cá thu, tươi",
     "nameEn": "Fish, mackerel, kingfish, raw",
     "groupId": 8,
-    "kcal": 166.0
+    "kcal": 166
   },
   {
     "id": 8027,
     "nameVi": "Cá thu đao, tươi",
     "nameEn": "Fish, pacific saury, raw",
     "groupId": 8,
-    "kcal": 156.0
+    "kcal": 156
   },
   {
     "id": 8028,
     "nameVi": "Cá trạch, tươi",
     "nameEn": "Fish, spiny eels, raw",
     "groupId": 8,
-    "kcal": 110.0
+    "kcal": 110
   },
   {
     "id": 8029,
     "nameVi": "Cá trắm cỏ, tươi",
     "nameEn": "Fish, grass carp, raw",
     "groupId": 8,
-    "kcal": 91.0
+    "kcal": 91
   },
   {
     "id": 8030,
     "nameVi": "Cá trê, tươi",
     "nameEn": "Fish, catfish, raw",
     "groupId": 8,
-    "kcal": 173.0
+    "kcal": 173
   },
   {
     "id": 8031,
     "nameVi": "Cá trích, tươi",
     "nameEn": "Fish, herring, raw",
     "groupId": 8,
-    "kcal": 166.0
+    "kcal": 166
   },
   {
     "id": 8032,
     "nameVi": "Cá trôi, tươi",
     "nameEn": "Fish, mrigal carp, raw",
     "groupId": 8,
-    "kcal": 127.0
+    "kcal": 127
   },
   {
     "id": 8033,
     "nameVi": "Cua bể, tươi",
     "nameEn": "Crab, sea water, raw",
     "groupId": 8,
-    "kcal": 103.0
+    "kcal": 103
   },
   {
     "id": 8034,
     "nameVi": "Cua đồng, tươi",
     "nameEn": "Crab, fresh water, raw",
     "groupId": 8,
-    "kcal": 87.0
+    "kcal": 87
   },
   {
     "id": 8035,
     "nameVi": "Cua ghẹ, tươi",
     "nameEn": "Crab, flower crab, blue crab, or sand crab, raw",
     "groupId": 8,
-    "kcal": 54.0
+    "kcal": 54
   },
   {
     "id": 8036,
     "nameVi": "Hải sâm, tươi",
     "nameEn": "Sea slug, sea cucumber, raw",
     "groupId": 8,
-    "kcal": 90.0
+    "kcal": 90
   },
   {
     "id": 8037,
     "nameVi": "Hến, tươi",
     "nameEn": "Clam, raw",
     "groupId": 8,
-    "kcal": 45.0
+    "kcal": 45
   },
   {
     "id": 8038,
     "nameVi": "Lươn, tươi",
     "nameEn": "Fish, eel, mixed species, raw",
     "groupId": 8,
-    "kcal": 130.0
+    "kcal": 130
   },
   {
     "id": 8039,
     "nameVi": "Mực khô, sống",
     "nameEn": "Squid, dried, raw",
     "groupId": 8,
-    "kcal": 291.0
+    "kcal": 291
   },
   {
     "id": 8040,
     "nameVi": "Mực, tươi",
     "nameEn": "Squid, fresh, raw",
     "groupId": 8,
-    "kcal": 73.0
+    "kcal": 73
   },
   {
     "id": 8041,
     "nameVi": "Ốc bươu, tươi",
     "nameEn": "Snail, medium - size, raw",
     "groupId": 8,
-    "kcal": 84.0
+    "kcal": 84
   },
   {
     "id": 8042,
     "nameVi": "Ốc đá, tươi",
     "nameEn": "Snail, marble snail, Chinese mysterysnail, raw",
     "groupId": 8,
-    "kcal": 63.0
+    "kcal": 63
   },
   {
     "id": 8043,
     "nameVi": "Ốc nhồi, tươi",
     "nameEn": "Snail, large size, raw",
     "groupId": 8,
-    "kcal": 84.0
+    "kcal": 84
   },
   {
     "id": 8044,
     "nameVi": "Ốc vặn, raw",
     "nameEn": "Snail, helix, raw",
     "groupId": 8,
-    "kcal": 72.0
+    "kcal": 72
   },
   {
     "id": 8045,
     "nameVi": "Rạm, muối, đồ",
     "nameEn": "Crab, sea water, small size, steamed",
     "groupId": 8,
-    "kcal": 83.0
+    "kcal": 83
   },
   {
     "id": 8046,
     "nameVi": "Rạm, tươi",
     "nameEn": "Crab, sea water, small size, raw",
     "groupId": 8,
-    "kcal": 77.0
+    "kcal": 77
   },
   {
     "id": 8047,
     "nameVi": "Rươi, tươi",
     "nameEn": "Tylorhynchus sinensis, raw",
     "groupId": 8,
-    "kcal": 89.0
+    "kcal": 89
   },
   {
     "id": 8048,
     "nameVi": "Sò, tươi",
     "nameEn": "Oyster, raw",
     "groupId": 8,
-    "kcal": 51.0
+    "kcal": 51
   },
   {
     "id": 8049,
     "nameVi": "Tép gạo, tươi",
     "nameEn": "Shrimp, fresh water, tiny, raw",
     "groupId": 8,
-    "kcal": 58.0
+    "kcal": 58
   },
   {
     "id": 8050,
     "nameVi": "Tép khô, sống",
     "nameEn": "Shrimp, fresh water, tiny, dried",
     "groupId": 8,
-    "kcal": 269.0
+    "kcal": 269
   },
   {
     "id": 8051,
     "nameVi": "Tôm biển, tươi",
     "nameEn": "Shrimp, sea water, raw",
     "groupId": 8,
-    "kcal": 82.0
+    "kcal": 82
   },
   {
     "id": 8052,
     "nameVi": "Tôm đồng, tươi",
     "nameEn": "Shrimp, fresh water, raw",
     "groupId": 8,
-    "kcal": 90.0
+    "kcal": 90
   },
   {
     "id": 8053,
     "nameVi": "Tôm biển, khô",
     "nameEn": "Shrimp, sea water, dried",
     "groupId": 8,
-    "kcal": 347.0
+    "kcal": 347
   },
   {
     "id": 8054,
     "nameVi": "Trai, nước ngọt, tươi",
     "nameEn": "Mussel, fresh water, raw",
     "groupId": 8,
-    "kcal": 38.0
+    "kcal": 38
   },
   {
     "id": 8055,
     "nameVi": "Bánh phồng tôm, rán",
     "nameEn": "Chips, shrimp flavour, fried with oil",
     "groupId": 8,
-    "kcal": 676.0
+    "kcal": 676
   },
   {
     "id": 8056,
     "nameVi": "Bánh phồng tôm, sống",
     "nameEn": "Chíp, shrimp flavour, raw",
     "groupId": 8,
-    "kcal": 381.0
+    "kcal": 381
   },
   {
     "id": 8057,
     "nameVi": "Bột cá, sống",
     "nameEn": "Fish flour, bones included, raw",
     "groupId": 8,
-    "kcal": 323.0
+    "kcal": 323
   },
   {
     "id": 8058,
     "nameVi": "Ruốc cá quả",
     "nameEn": "Fish, snake head fish, dried flour with fish sauce",
     "groupId": 8,
-    "kcal": 312.0
+    "kcal": 312
   },
   {
     "id": 8059,
     "nameVi": "Ruốc tôm",
     "nameEn": "Shrimp dried flour with fish sauce",
     "groupId": 8,
-    "kcal": 305.0
+    "kcal": 305
   },
   {
     "id": 8060,
     "nameVi": "Cá chim",
     "nameEn": "Black pomfret",
     "groupId": 8,
-    "kcal": 143.0
+    "kcal": 143
   },
   {
     "id": 8061,
     "nameVi": "Cá chim trắng",
     "nameEn": "Silver or white pomfret",
     "groupId": 8,
-    "kcal": 247.0
+    "kcal": 247
   },
   {
     "id": 8062,
     "nameVi": "Cá điêu hồng",
     "nameEn": "Red tilapia",
     "groupId": 8,
-    "kcal": 111.0
+    "kcal": 111
   },
   {
     "id": 8063,
     "nameVi": "Cá basa, phi lê",
     "nameEn": "Basafish, Catfish, fillet",
     "groupId": 8,
-    "kcal": 67.0
+    "kcal": 67
   },
   {
     "id": 8064,
     "nameVi": "Chả cá basa",
     "nameEn": "Basafish, fishball",
     "groupId": 8,
-    "kcal": 186.0
+    "kcal": 186
   },
   {
     "id": 8065,
     "nameVi": "Con trùng trục",
     "nameEn": "Mussel, fresh water",
     "groupId": 8,
-    "kcal": 108.0
+    "kcal": 108
   },
   {
     "id": 8066,
     "nameVi": "Ngao biển trắng",
     "nameEn": "Sea water clams",
     "groupId": 8,
-    "kcal": 42.0
+    "kcal": 42
   },
   {
     "id": 8069,
     "nameVi": "Thịt cua",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 103.0
+    "kcal": 103
   },
   {
     "id": 8092,
     "nameVi": "Cá basa, tươi",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 119.0
+    "kcal": 119
   },
   {
     "id": 8093,
     "nameVi": "Tôm tít (bề bề)",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 82.0
+    "kcal": 82
   },
   {
     "id": 8094,
     "nameVi": "Tu hài",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 42.0
+    "kcal": 42
   },
   {
     "id": 9001,
     "nameVi": "Trứng gà ta",
     "nameEn": "Hen egg (Raw, whole)",
     "groupId": 9,
-    "kcal": 150.0
+    "kcal": 150
   },
   {
     "id": 9002,
     "nameVi": "Lòng đỏ trứng gà",
     "nameEn": "Hen egg, yolk",
     "groupId": 9,
-    "kcal": 327.0
+    "kcal": 327
   },
   {
     "id": 9003,
     "nameVi": "Lòng trắng trứng gà",
     "nameEn": "Hen egg, white",
     "groupId": 9,
-    "kcal": 46.0
+    "kcal": 46
   },
   {
     "id": 9004,
     "nameVi": "Trứng vịt",
     "nameEn": "Duck egg",
     "groupId": 9,
-    "kcal": 172.0
+    "kcal": 172
   },
   {
     "id": 9005,
     "nameVi": "Lòng đỏ trứng vịt",
     "nameEn": "Duck egg, yolk",
     "groupId": 9,
-    "kcal": 364.0
+    "kcal": 364
   },
   {
     "id": 9006,
     "nameVi": "Lòng trắng trứng vịt",
     "nameEn": "Duck egg, white",
     "groupId": 9,
-    "kcal": 47.0
+    "kcal": 47
   },
   {
     "id": 9007,
     "nameVi": "Trứng chim cút",
     "nameEn": "Quail egg",
     "groupId": 9,
-    "kcal": 157.0
+    "kcal": 157
   },
   {
     "id": 9008,
     "nameVi": "Trứng cá",
     "nameEn": "Fish roe",
     "groupId": 9,
-    "kcal": 171.0
+    "kcal": 171
   },
   {
     "id": 9009,
     "nameVi": "Trứng cá muối",
     "nameEn": "Fish caviar, black and red, granule",
     "groupId": 9,
-    "kcal": 274.0
+    "kcal": 274
   },
   {
     "id": 9010,
     "nameVi": "Trứng vịt lộn",
     "nameEn": "Duck embryonated egg",
     "groupId": 9,
-    "kcal": 182.0
+    "kcal": 182
   },
   {
     "id": 9011,
     "nameVi": "Bột trứng",
     "nameEn": "Egg powder",
     "groupId": 9,
-    "kcal": 563.0
+    "kcal": 563
   },
   {
     "id": 9012,
     "nameVi": "Trứng gà công nghiệp",
     "nameEn": null,
     "groupId": 9,
-    "kcal": 132.0
+    "kcal": 132
   },
   {
     "id": 10001,
     "nameVi": "Sữa bò tươi",
     "nameEn": "Milk cow, fresh (Fluid)",
     "groupId": 10,
-    "kcal": 74.0
+    "kcal": 74
   },
   {
     "id": 10002,
     "nameVi": "Sữa dê tươi",
     "nameEn": "Milk goat's whole",
     "groupId": 10,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 10003,
     "nameVi": "Sữa mẹ (sữa người)",
     "nameEn": "Breast milk (Milk human, fluid, whole).",
     "groupId": 10,
-    "kcal": 61.0
+    "kcal": 61
   },
   {
     "id": 10004,
     "nameVi": "Sữa chua",
     "nameEn": "Yogurt",
     "groupId": 10,
-    "kcal": 61.0
+    "kcal": 61
   },
   {
     "id": 10005,
     "nameVi": "Sữa chua vớt béo",
     "nameEn": "Yogurt (Skimmed milk)",
     "groupId": 10,
-    "kcal": 26.0
+    "kcal": 26
   },
   {
     "id": 10006,
     "nameVi": "Sữa bột toàn phần",
     "nameEn": "Milk, dried, whole powder",
     "groupId": 10,
-    "kcal": 494.0
+    "kcal": 494
   },
   {
     "id": 10007,
     "nameVi": "Sữa bột tách béo",
     "nameEn": "Skimmed milk powder",
     "groupId": 10,
-    "kcal": 357.0
+    "kcal": 357
   },
   {
     "id": 10008,
     "nameVi": "Sữa đặc có đường Việt Nam",
     "nameEn": "Milk condensed sweetened",
     "groupId": 10,
-    "kcal": 336.0
+    "kcal": 336
   },
   {
     "id": 10009,
     "nameVi": "Phó mát",
     "nameEn": "Cheese (type whole fat)",
     "groupId": 10,
-    "kcal": 380.0
+    "kcal": 380
   },
   {
     "id": 10015,
     "nameVi": "Sữa, bò, tiệt trùng, có đường, toàn phần, trắng",
     "nameEn": "Milk, cow, steralized, with sugar, whole, white",
     "groupId": 10,
-    "kcal": 85.0
+    "kcal": 85
   },
   {
     "id": 10031,
     "nameVi": "Sữa chua, nước/uống, có đường",
     "nameEn": "Yougurt, drink/liquid, with sugar, whole, white",
     "groupId": 10,
-    "kcal": 62.0
+    "kcal": 62
   },
   {
     "id": 10035,
     "nameVi": "Sữa chua, đặc, có đường",
     "nameEn": "Yougurt, thick, with sugar, whole, white",
     "groupId": 10,
-    "kcal": 65.0
+    "kcal": 65
   },
   {
     "id": 10036,
     "nameVi": "Sữa chua, đặc, không đường",
     "nameEn": "Yogurt, thick, without sugar, whole, white",
     "groupId": 10,
-    "kcal": 61.0
+    "kcal": 61
   },
   {
     "id": 10047,
     "nameVi": "Sữa đặc có đường, Việt Nam",
     "nameEn": "Milk condensed sweetened",
     "groupId": 10,
-    "kcal": 328.0
+    "kcal": 328
   },
   {
     "id": 10048,
     "nameVi": "Sữa hộp Milo",
     "nameEn": "Chocolate drink packaged",
     "groupId": 10,
-    "kcal": 55.0
+    "kcal": 55
   },
   {
     "id": 11001,
     "nameVi": "Chuối nước đường",
     "nameEn": "Banana, canned sweetened",
     "groupId": 11,
-    "kcal": 63.0
+    "kcal": 63
   },
   {
     "id": 11002,
     "nameVi": "Dưa chuột hộp",
     "nameEn": "Cucumber (canned)",
     "groupId": 11,
-    "kcal": 19.0
+    "kcal": 19
   },
   {
     "id": 11003,
     "nameVi": "Dứa hộp",
     "nameEn": "Pineapple, canned sweetened",
     "groupId": 11,
-    "kcal": 57.0
+    "kcal": 57
   },
   {
     "id": 11004,
     "nameVi": "Lạc chao dầu",
     "nameEn": "Peanut, oil fried",
     "groupId": 11,
-    "kcal": 680.0
+    "kcal": 680
   },
   {
     "id": 11005,
     "nameVi": "Mắc coọc nước đường",
     "nameEn": "Pyrus pachis in syrup",
     "groupId": 11,
-    "kcal": 58.0
+    "kcal": 58
   },
   {
     "id": 11006,
     "nameVi": "Mận nước đường",
     "nameEn": "Plum, canned sweetened",
     "groupId": 11,
-    "kcal": 62.0
+    "kcal": 62
   },
   {
     "id": 11007,
     "nameVi": "Mứt bí ngô",
     "nameEn": "Pumpkin jam",
     "groupId": 11,
-    "kcal": 201.0
+    "kcal": 201
   },
   {
     "id": 11008,
     "nameVi": "Mứt cam có vỏ",
     "nameEn": "Orange marmalade, jellies",
     "groupId": 11,
-    "kcal": 227.0
+    "kcal": 227
   },
   {
     "id": 11009,
     "nameVi": "Mứt chuối",
     "nameEn": "Banana jam",
     "groupId": 11,
-    "kcal": 224.0
+    "kcal": 224
   },
   {
     "id": 11010,
     "nameVi": "Mứt dứa",
     "nameEn": "Pineapple jam",
     "groupId": 11,
-    "kcal": 210.0
+    "kcal": 210
   },
   {
     "id": 11011,
     "nameVi": "Mứt đu đủ",
     "nameEn": "Papaya jam",
     "groupId": 11,
-    "kcal": 186.0
+    "kcal": 186
   },
   {
     "id": 11012,
     "nameVi": "Nhãn nước đường",
     "nameEn": "Longan, canned sweetened",
     "groupId": 11,
-    "kcal": 66.0
+    "kcal": 66
   },
   {
     "id": 11013,
     "nameVi": "Nước dứa hộp",
     "nameEn": "Pineapple juice",
     "groupId": 11,
-    "kcal": 41.0
+    "kcal": 41
   },
   {
     "id": 11014,
     "nameVi": "Vải nước đường",
     "nameEn": "Litchi, canned sweetened",
     "groupId": 11,
-    "kcal": 65.0
+    "kcal": 65
   },
   {
     "id": 11015,
     "nameVi": "Cá thu hộp",
     "nameEn": "Mackerel, canned",
     "groupId": 11,
-    "kcal": 207.0
+    "kcal": 207
   },
   {
     "id": 11016,
     "nameVi": "Cá trích hộp",
     "nameEn": "Herring, canned",
     "groupId": 11,
-    "kcal": 233.0
+    "kcal": 233
   },
   {
     "id": 11017,
     "nameVi": "Thịt bò hộp",
     "nameEn": "Beef, canned",
     "groupId": 11,
-    "kcal": 251.0
+    "kcal": 251
   },
   {
     "id": 11018,
     "nameVi": "Thịt gà hộp",
     "nameEn": "Chicken, canned",
     "groupId": 11,
-    "kcal": 273.0
+    "kcal": 273
   },
   {
     "id": 11019,
     "nameVi": "Thịt lợn hộp",
     "nameEn": "Pork, canned",
     "groupId": 11,
-    "kcal": 344.0
+    "kcal": 344
   },
   {
     "id": 11020,
     "nameVi": "Thịt lợn, thịt bò xay hộp",
     "nameEn": "Pork beef mince canned",
     "groupId": 11,
-    "kcal": 244.0
+    "kcal": 244
   },
   {
     "id": 11021,
     "nameVi": "Thịt vịt hầm",
     "nameEn": "Duck, stewed meat",
     "groupId": 11,
-    "kcal": 224.0
+    "kcal": 224
   },
   {
     "id": 11022,
     "nameVi": "Cá ngừ hộp",
     "nameEn": null,
     "groupId": 11,
-    "kcal": 85.0
+    "kcal": 85
   },
   {
     "id": 11023,
     "nameVi": "Cá nục hộp",
     "nameEn": null,
     "groupId": 11,
-    "kcal": 233.0
+    "kcal": 233
   },
   {
     "id": 12001,
     "nameVi": "Bánh bích cốt",
     "nameEn": "Whole wheat rusk",
     "groupId": 12,
-    "kcal": 349.0
+    "kcal": 349
   },
   {
     "id": 12002,
     "nameVi": "Bánh bích quy",
     "nameEn": "Biscuits, plain",
     "groupId": 12,
-    "kcal": 378.0
+    "kcal": 378
   },
   {
     "id": 12003,
     "nameVi": "Bánh chả",
     "nameEn": "Small biscuit, fried",
     "groupId": 12,
-    "kcal": 399.0
+    "kcal": 399
   },
   {
     "id": 12004,
     "nameVi": "Bánh con cá",
     "nameEn": "Small biscuits, fish figured",
     "groupId": 12,
-    "kcal": 369.0
+    "kcal": 369
   },
   {
     "id": 12005,
     "nameVi": "Bánh đậu xanh",
     "nameEn": "Mungbean cake",
     "groupId": 12,
-    "kcal": 420.0
+    "kcal": 420
   },
   {
     "id": 12006,
     "nameVi": "Bánh kem xốp",
     "nameEn": "Wafers filled",
     "groupId": 12,
-    "kcal": 506.0
+    "kcal": 506
   },
   {
     "id": 12007,
     "nameVi": "Bánh khảo chay",
     "nameEn": "Rice cake, plain",
     "groupId": 12,
-    "kcal": 377.0
+    "kcal": 377
   },
   {
     "id": 12008,
     "nameVi": "Bánh quế",
     "nameEn": "Cinnamon waffle (roll)",
     "groupId": 12,
-    "kcal": 436.0
+    "kcal": 436
   },
   {
     "id": 12009,
     "nameVi": "Bánh sô cô la",
     "nameEn": "Chocolate filled",
     "groupId": 12,
-    "kcal": 449.0
+    "kcal": 449
   },
   {
     "id": 12010,
     "nameVi": "Bánh thỏi sô cô la",
     "nameEn": "Chocolate sweet",
     "groupId": 12,
-    "kcal": 543.0
+    "kcal": 543
   },
   {
     "id": 12011,
     "nameVi": "Bánh trứng nhện",
     "nameEn": "Small biscuit",
     "groupId": 12,
-    "kcal": 369.0
+    "kcal": 369
   },
   {
     "id": 12012,
     "nameVi": "Bột ca cao",
     "nameEn": "Cocoa powder",
     "groupId": 12,
-    "kcal": 423.0
+    "kcal": 423
   },
   {
     "id": 12013,
     "nameVi": "Đường cát",
     "nameEn": "Sugar crude, brown",
     "groupId": 12,
-    "kcal": 383.0
+    "kcal": 383
   },
   {
     "id": 12014,
     "nameVi": "Đường kính",
     "nameEn": "Granulated sugar",
     "groupId": 12,
-    "kcal": 397.0
+    "kcal": 397
   },
   {
     "id": 12015,
     "nameVi": "Kẹo bơ cứng",
     "nameEn": "Toffee, sweets",
     "groupId": 12,
-    "kcal": 448.0
+    "kcal": 448
   },
   {
     "id": 12016,
     "nameVi": "Kẹo cà phê",
     "nameEn": "Coffee sweets",
     "groupId": 12,
-    "kcal": 378.0
+    "kcal": 378
   },
   {
     "id": 12017,
     "nameVi": "Kẹo cam chanh",
     "nameEn": "Sweets, caramel with citron, orange aroma",
     "groupId": 12,
-    "kcal": 378.0
+    "kcal": 378
   },
   {
     "id": 12018,
     "nameVi": "Kẹo dừa mềm",
     "nameEn": "Sweets with coconut aroma",
     "groupId": 12,
-    "kcal": 425.0
+    "kcal": 425
   },
   {
     "id": 12019,
     "nameVi": "Kẹo dứa mềm",
     "nameEn": "Pineapple sweets candy",
     "groupId": 12,
-    "kcal": 425.0
+    "kcal": 425
   },
   {
     "id": 12020,
     "nameVi": "Kẹo lạc",
     "nameEn": "Peanut candy",
     "groupId": 12,
-    "kcal": 458.0
+    "kcal": 458
   },
   {
     "id": 12021,
     "nameVi": "Kẹo Pastille (kẹo ngậm bạc hà)",
     "nameEn": "Menthol pastille",
     "groupId": 12,
-    "kcal": 356.0
+    "kcal": 356
   },
   {
     "id": 12022,
     "nameVi": "Kẹo sô cô la",
     "nameEn": "Sweets with chocolate",
     "groupId": 12,
-    "kcal": 393.0
+    "kcal": 393
   },
   {
     "id": 12023,
     "nameVi": "Kẹo sữa",
     "nameEn": "Sweets with milk",
     "groupId": 12,
-    "kcal": 390.0
+    "kcal": 390
   },
   {
     "id": 12024,
     "nameVi": "Kẹo vừng viên",
     "nameEn": "Sesame candy",
     "groupId": 12,
-    "kcal": 424.0
+    "kcal": 424
   },
   {
     "id": 12025,
     "nameVi": "Mạch nha",
     "nameEn": "Malt",
     "groupId": 12,
-    "kcal": 331.0
+    "kcal": 331
   },
   {
     "id": 12026,
     "nameVi": "Mật ong",
     "nameEn": "Honey",
     "groupId": 12,
-    "kcal": 327.0
+    "kcal": 327
   },
   {
     "id": 12027,
     "nameVi": "Mứt lạc",
     "nameEn": "Peanut sugar (Jam)",
     "groupId": 12,
-    "kcal": 433.0
+    "kcal": 433
   },
   {
     "id": 12044,
@@ -3798,63 +3798,63 @@
     "nameVi": "Bánh sữa",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 427.0
+    "kcal": 427
   },
   {
     "id": 12063,
     "nameVi": "Thạch POKE hương trái cây",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 253.0
+    "kcal": 253
   },
   {
     "id": 12066,
     "nameVi": "Bim bim, gạo, mặn",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 458.0
+    "kcal": 458
   },
   {
     "id": 12072,
     "nameVi": "Đậu phộng da cá",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 540.0
+    "kcal": 540
   },
   {
     "id": 12073,
     "nameVi": "Kem ngô",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 199.0
+    "kcal": 199
   },
   {
     "id": 12077,
     "nameVi": "Kem que Merino Cacao - Sô cô la",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 227.0
+    "kcal": 227
   },
   {
     "id": 12078,
     "nameVi": "Kem đậu xanh",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 227.0
+    "kcal": 227
   },
   {
     "id": 12079,
     "nameVi": "Kem tươi",
     "nameEn": "Ice cream",
     "groupId": 12,
-    "kcal": 342.0
+    "kcal": 342
   },
   {
     "id": 12084,
     "nameVi": "Bánh bông lan",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 489.0
+    "kcal": 489
   },
   {
     "id": 12085,
@@ -3868,210 +3868,210 @@
     "nameVi": "Bánh ngũ cốc cao năng lượng",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 500.0
+    "kcal": 500
   },
   {
     "id": 12087,
     "nameVi": "Bánh quy tròn nhân kem Ritz",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 507.0
+    "kcal": 507
   },
   {
     "id": 12088,
     "nameVi": "Bánh trứng Custas",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 434.0
+    "kcal": 434
   },
   {
     "id": 12089,
     "nameVi": "Bánh gối",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 318.0
+    "kcal": 318
   },
   {
     "id": 12090,
     "nameVi": "Bánh rán nhân đỗ",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 318.0
+    "kcal": 318
   },
   {
     "id": 12091,
     "nameVi": "Bánh tiêu",
     "nameEn": null,
     "groupId": 12,
-    "kcal": 318.0
+    "kcal": 318
   },
   {
     "id": 13001,
     "nameVi": "Cary bột",
     "nameEn": "Cari powder",
     "groupId": 13,
-    "kcal": 318.0
+    "kcal": 318
   },
   {
     "id": 13002,
     "nameVi": "Gừng khô (bột)",
     "nameEn": "Ginger root dried",
     "groupId": 13,
-    "kcal": 346.0
+    "kcal": 346
   },
   {
     "id": 13003,
     "nameVi": "Gừng tươi",
     "nameEn": "Ginger root fresh",
     "groupId": 13,
-    "kcal": 41.0
+    "kcal": 41
   },
   {
     "id": 13004,
     "nameVi": "Hạt tiêu",
     "nameEn": "Pepper black seeds",
     "groupId": 13,
-    "kcal": 365.0
+    "kcal": 365
   },
   {
     "id": 13005,
     "nameVi": "Muối",
     "nameEn": "Table salt",
     "groupId": 13,
-    "kcal": 1.0
+    "kcal": 1
   },
   {
     "id": 13006,
     "nameVi": "Nghệ khô, bột",
     "nameEn": "Turmeric rhizome, dried",
     "groupId": 13,
-    "kcal": 380.0
+    "kcal": 380
   },
   {
     "id": 13007,
     "nameVi": "Nghệ tươi",
     "nameEn": "Turmeric, rhizome, fresh",
     "groupId": 13,
-    "kcal": 51.0
+    "kcal": 51
   },
   {
     "id": 13008,
     "nameVi": "ớt khô bột",
     "nameEn": "Red pepper, dried powder",
     "groupId": 13,
-    "kcal": 322.0
+    "kcal": 322
   },
   {
     "id": 13009,
     "nameVi": "Riềng",
     "nameEn": "Alpinia root",
     "groupId": 13,
-    "kcal": 26.0
+    "kcal": 26
   },
   {
     "id": 13010,
     "nameVi": "Magi",
     "nameEn": "Soybean sauce",
     "groupId": 13,
-    "kcal": 65.0
+    "kcal": 65
   },
   {
     "id": 13011,
     "nameVi": "Mắm tôm đặc",
     "nameEn": "Shrimp sauce, concentrate",
     "groupId": 13,
-    "kcal": 73.0
+    "kcal": 73
   },
   {
     "id": 13012,
     "nameVi": "Mắm tôm loãng",
     "nameEn": "Shrimp sauce",
     "groupId": 13,
-    "kcal": 44.0
+    "kcal": 44
   },
   {
     "id": 13013,
     "nameVi": "Mắm tép chua",
     "nameEn": "River shrimp (small) sauce",
     "groupId": 13,
-    "kcal": 68.0
+    "kcal": 68
   },
   {
     "id": 13014,
     "nameVi": "Nước mắm cá (loại đặc biệt)",
     "nameEn": "Fish sauce (high quality)",
     "groupId": 13,
-    "kcal": 60.0
+    "kcal": 60
   },
   {
     "id": 13015,
     "nameVi": "Nước mắm loại I",
     "nameEn": "Fish sauce liquid, grade I",
     "groupId": 13,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 13016,
     "nameVi": "Nước mắm loại II",
     "nameEn": "Fish sauce liquid grade II",
     "groupId": 13,
-    "kcal": 21.0
+    "kcal": 21
   },
   {
     "id": 13017,
     "nameVi": "Nước mắm cá",
     "nameEn": "Fish sauce, ready-to-serve",
     "groupId": 13,
-    "kcal": 35.0
+    "kcal": 35
   },
   {
     "id": 13018,
     "nameVi": "Nước mắm cô",
     "nameEn": "Fish sauce dried",
     "groupId": 13,
-    "kcal": 131.0
+    "kcal": 131
   },
   {
     "id": 13019,
     "nameVi": "Tương ngô",
     "nameEn": "Soybean sauce with rice and maize",
     "groupId": 13,
-    "kcal": 75.0
+    "kcal": 75
   },
   {
     "id": 13020,
     "nameVi": "Tương nếp",
     "nameEn": "Soybean sauce with glutinous rice",
     "groupId": 13,
-    "kcal": 86.0
+    "kcal": 86
   },
   {
     "id": 13021,
     "nameVi": "Tương ớt",
     "nameEn": "Chili sauce",
     "groupId": 13,
-    "kcal": 41.0
+    "kcal": 41
   },
   {
     "id": 13022,
     "nameVi": "Xì dầu",
     "nameEn": "Soybean sauce",
     "groupId": 13,
-    "kcal": 55.0
+    "kcal": 55
   },
   {
     "id": 13023,
     "nameVi": "Sốt mayonnaise",
     "nameEn": "Mayonnaise",
     "groupId": 13,
-    "kcal": 701.0
+    "kcal": 701
   },
   {
     "id": 13024,
     "nameVi": "Sả",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 78.0
+    "kcal": 78
   },
   {
     "id": 13025,
@@ -4085,14 +4085,14 @@
     "nameVi": "Bột nêm",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 188.0
+    "kcal": 188
   },
   {
     "id": 13027,
     "nameVi": "Dầu hào",
     "nameEn": "Oyster sauce",
     "groupId": 13,
-    "kcal": 73.0
+    "kcal": 73
   },
   {
     "id": 13028,
@@ -4106,49 +4106,49 @@
     "nameVi": "Mỳ chính",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 282.0
+    "kcal": 282
   },
   {
     "id": 13030,
     "nameVi": "Ngũ vị hương",
     "nameEn": "Five-spice seasoning",
     "groupId": 13,
-    "kcal": 1.0
+    "kcal": 1
   },
   {
     "id": 13031,
     "nameVi": "Nước hàng",
     "nameEn": "Sugar cooked to make color",
     "groupId": 13,
-    "kcal": 1.0
+    "kcal": 1
   },
   {
     "id": 13032,
     "nameVi": "Nước sốt cà chua",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 115.0
+    "kcal": 115
   },
   {
     "id": 13034,
     "nameVi": "Giấm ăn",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 21.0
+    "kcal": 21
   },
   {
     "id": 13039,
     "nameVi": "Ớt tươi",
     "nameEn": "Chilli (fresh)",
     "groupId": 13,
-    "kcal": 18.0
+    "kcal": 18
   },
   {
     "id": 13044,
     "nameVi": "Mù tạt",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 13045,
@@ -4162,56 +4162,56 @@
     "nameVi": "Bột năng",
     "nameEn": "Tapioca Starch/Tapioca Flour",
     "groupId": 13,
-    "kcal": 343.0
+    "kcal": 343
   },
   {
     "id": 13049,
     "nameVi": "Mẻ",
     "nameEn": "Fermented rice or rice noodle",
     "groupId": 13,
-    "kcal": 1.0
+    "kcal": 1
   },
   {
     "id": 13054,
     "nameVi": "Sa tế",
     "nameEn": "Chilli paste",
     "groupId": 13,
-    "kcal": 70.0
+    "kcal": 70
   },
   {
     "id": 13056,
     "nameVi": "Bột hạt điều đỏ",
     "nameEn": "Annatto seed powder",
     "groupId": 13,
-    "kcal": 235.0
+    "kcal": 235
   },
   {
     "id": 13059,
     "nameVi": "Lá chanh",
     "nameEn": "Lemon leaf",
     "groupId": 13,
-    "kcal": 91.0
+    "kcal": 91
   },
   {
     "id": 13067,
     "nameVi": "Bột chiên xù",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 383.0
+    "kcal": 383
   },
   {
     "id": 13072,
     "nameVi": "Hạt ý dĩ",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 358.0
+    "kcal": 358
   },
   {
     "id": 13073,
     "nameVi": "Nước ướp gà nướng",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 172.0
+    "kcal": 172
   },
   {
     "id": 13074,
@@ -4225,126 +4225,126 @@
     "nameVi": "Gói thuốc bắc (dùng để hầm thịt)",
     "nameEn": null,
     "groupId": 13,
-    "kcal": 281.0
+    "kcal": 281
   },
   {
     "id": 14001,
     "nameVi": "Bia (cồn: 4,5 g)",
     "nameEn": "Beer light (4,5 % Alcohol)",
     "groupId": 14,
-    "kcal": 43.0
+    "kcal": 43
   },
   {
     "id": 14002,
     "nameVi": "Cô nhắc (cồn 32 g)",
     "nameEn": "Cognac (32% alcohol)",
     "groupId": 14,
-    "kcal": 224.0
+    "kcal": 224
   },
   {
     "id": 14003,
     "nameVi": "Cốc tain (cồn 13 g)",
     "nameEn": "Cocktail (13% alcohol)",
     "groupId": 14,
-    "kcal": 155.0
+    "kcal": 155
   },
   {
     "id": 14004,
     "nameVi": "Coca cola",
     "nameEn": "Coca Cola",
     "groupId": 14,
-    "kcal": 42.0
+    "kcal": 42
   },
   {
     "id": 14005,
     "nameVi": "Nước cam tươi",
     "nameEn": "Orange juice, fresh",
     "groupId": 14,
-    "kcal": 23.0
+    "kcal": 23
   },
   {
     "id": 14006,
     "nameVi": "Nước dừa non tươi",
     "nameEn": "Water from immature coconut",
     "groupId": 14,
-    "kcal": 21.0
+    "kcal": 21
   },
   {
     "id": 14007,
     "nameVi": "Nước ép cà chua",
     "nameEn": "Tomato juice, without salt added",
     "groupId": 14,
-    "kcal": 21.0
+    "kcal": 21
   },
   {
     "id": 14008,
     "nameVi": "Nước khoáng",
     "nameEn": "Mineral water",
     "groupId": 14,
-    "kcal": 1.0
+    "kcal": 1
   },
   {
     "id": 14009,
     "nameVi": "Nước quít tươi",
     "nameEn": "Mandarins juice (fresh)",
     "groupId": 14,
-    "kcal": 25.0
+    "kcal": 25
   },
   {
     "id": 14010,
     "nameVi": "Rượu cam, chanh (cồn 24,2 g)",
     "nameEn": "Liqueur orange, citron",
     "groupId": 14,
-    "kcal": 241.0
+    "kcal": 241
   },
   {
     "id": 14011,
     "nameVi": "Rượu nếp (80g/ 24 ml) (cồn 5 g)",
     "nameEn": "Rice glutinous Vodka",
     "groupId": 14,
-    "kcal": 202.0
+    "kcal": 202
   },
   {
     "id": 14012,
     "nameVi": "Rượu trắng (cồn 39 g)",
     "nameEn": "Vodka (39% alcohol)",
     "groupId": 14,
-    "kcal": 273.0
+    "kcal": 273
   },
   {
     "id": 14013,
     "nameVi": "Rượu vang đỏ (cồn 9,5 g)",
     "nameEn": "Red wine (9.5% alcohol)",
     "groupId": 14,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 14014,
     "nameVi": "Rượu vang trắng (cồn 9,5 g)",
     "nameEn": "White wine (9.5% alcohol)",
     "groupId": 14,
-    "kcal": 66.0
+    "kcal": 66
   },
   {
     "id": 14015,
     "nameVi": "Rượu vang trắng ngọt (cồn 10.2 g)",
     "nameEn": "White wine, sweet (10.2% alcohol)",
     "groupId": 14,
-    "kcal": 96.0
+    "kcal": 96
   },
   {
     "id": 14016,
     "nameVi": "Rượu Whisky (cồn 35,2 g)",
     "nameEn": "Whisky liqueur (35.2% alcohol)",
     "groupId": 14,
-    "kcal": 246.0
+    "kcal": 246
   },
   {
     "id": 14026,
     "nameVi": "Cà phê sữa hòa tan",
     "nameEn": null,
     "groupId": 14,
-    "kcal": 392.0
+    "kcal": 392
   },
   {
     "id": 14040,
@@ -4358,1574 +4358,1574 @@
     "nameVi": "Nước ép dưa hấu",
     "nameEn": "Juice, watermelon",
     "groupId": 14,
-    "kcal": 34.0
+    "kcal": 34
   },
   {
     "id": 14054,
     "nameVi": "Nước ép đào đóng hộp",
     "nameEn": "Juice packaged, Peach",
     "groupId": 14,
-    "kcal": 57.0
+    "kcal": 57
   },
   {
     "id": 14057,
     "nameVi": "Nước đá",
     "nameEn": "Ice",
     "groupId": 14,
-    "kcal": 1.0
+    "kcal": 1
   },
   {
     "id": 14069,
     "nameVi": "Trà Neste",
     "nameEn": null,
     "groupId": 14,
-    "kcal": 1.0
+    "kcal": 1
   },
   {
     "id": 14070,
     "nameVi": "Trà túi lọc",
     "nameEn": null,
     "groupId": 14,
-    "kcal": 1.0
+    "kcal": 1
   },
   {
     "id": 15001,
     "nameVi": "Bánh bao chiên có nhân",
     "nameEn": "Filled steamed bread, fried",
     "groupId": 15,
-    "kcal": 177.0
+    "kcal": 177
   },
   {
     "id": 15002,
     "nameVi": "Bánh bèo",
     "nameEn": "Bloating Fern-shaped cake",
     "groupId": 15,
-    "kcal": 118.0
+    "kcal": 118
   },
   {
     "id": 15003,
     "nameVi": "Bánh bột lọc",
     "nameEn": "Rice dumpling cake",
     "groupId": 15,
-    "kcal": 137.0
+    "kcal": 137
   },
   {
     "id": 15004,
     "nameVi": "Bánh chay",
     "nameEn": "Stuffed sticky rice balls, large",
     "groupId": 15,
-    "kcal": 156.0
+    "kcal": 156
   },
   {
     "id": 15005,
     "nameVi": "Bánh chín tầng mây",
     "nameEn": null,
     "groupId": 15,
-    "kcal": 169.0
+    "kcal": 169
   },
   {
     "id": 15006,
     "nameVi": "Bánh chưng",
     "nameEn": "Stuffed sticky rice cake",
     "groupId": 15,
-    "kcal": 181.0
+    "kcal": 181
   },
   {
     "id": 15007,
     "nameVi": "Bánh chuối",
     "nameEn": "Banana cake",
     "groupId": 15,
-    "kcal": 297.0
+    "kcal": 297
   },
   {
     "id": 15008,
     "nameVi": "Bánh cốm",
     "nameEn": "Young rice cake",
     "groupId": 15,
-    "kcal": 250.0
+    "kcal": 250
   },
   {
     "id": 15009,
     "nameVi": "Bánh cuốn",
     "nameEn": "Stuffed pancake",
     "groupId": 15,
-    "kcal": 129.0
+    "kcal": 129
   },
   {
     "id": 15010,
     "nameVi": "Bánh cuốn nóng nhân thịt",
     "nameEn": "Stuffed pancake, with pork",
     "groupId": 15,
-    "kcal": 102.0
+    "kcal": 102
   },
   {
     "id": 15011,
     "nameVi": "Bánh dẻo nhân thập cẩm",
     "nameEn": "Sticky rice cake (filled with preserved fruit and meat)",
     "groupId": 15,
-    "kcal": 349.0
+    "kcal": 349
   },
   {
     "id": 15012,
     "nameVi": "Bánh dẻo nhân trứng",
     "nameEn": "Sticky rice cake (filled with egg)",
     "groupId": 15,
-    "kcal": 338.0
+    "kcal": 338
   },
   {
     "id": 15013,
     "nameVi": "Bánh đúc nguội",
     "nameEn": "Plain rice flan; rice cake made of rice flour, and lime water",
     "groupId": 15,
-    "kcal": 88.0
+    "kcal": 88
   },
   {
     "id": 15014,
     "nameVi": "Bánh đúc nóng",
     "nameEn": "Plain rice flan; rice cake made of rice flour, and lime water, hot",
     "groupId": 15,
-    "kcal": 108.0
+    "kcal": 108
   },
   {
     "id": 15015,
     "nameVi": "Bánh gai",
     "nameEn": "Stuffed sticky rice cake with ramie leaves",
     "groupId": 15,
-    "kcal": 251.0
+    "kcal": 251
   },
   {
     "id": 15016,
     "nameVi": "Bánh gio",
     "nameEn": "Sticky rice cake with ash water",
     "groupId": 15,
-    "kcal": 173.0
+    "kcal": 173
   },
   {
     "id": 15017,
     "nameVi": "Bánh giò",
     "nameEn": "Pyramidal rice dumpling (filled with meat, onion, mushroom), meat pie",
     "groupId": 15,
-    "kcal": 234.0
+    "kcal": 234
   },
   {
     "id": 15018,
     "nameVi": "Bánh khoai",
     "nameEn": "Cake made of sweet potato meal (mixed with rice flour",
     "groupId": 15,
-    "kcal": 141.0
+    "kcal": 141
   },
   {
     "id": 15019,
     "nameVi": "Bánh khoái",
     "nameEn": "Plain rice flan",
     "groupId": 15,
-    "kcal": 159.0
+    "kcal": 159
   },
   {
     "id": 15020,
     "nameVi": "Bánh khoai sọ chiên",
     "nameEn": "Taro cake, fried",
     "groupId": 15,
-    "kcal": 197.0
+    "kcal": 197
   },
   {
     "id": 15021,
     "nameVi": "Bánh khúc",
     "nameEn": "Cake made of glutinous rice mixed with everlasting gnaphalium leaves (filled with green bean paste and sprinkled with grains of cooked glutinous rice)",
     "groupId": 15,
-    "kcal": 249.0
+    "kcal": 249
   },
   {
     "id": 15022,
     "nameVi": "Bánh mè",
     "nameEn": "Bread with egg and sesame seed, fried",
     "groupId": 15,
-    "kcal": 482.0
+    "kcal": 482
   },
   {
     "id": 15023,
     "nameVi": "Bánh mì xíu mại",
     "nameEn": "Bread with egg and beef",
     "groupId": 15,
-    "kcal": 189.0
+    "kcal": 189
   },
   {
     "id": 15024,
     "nameVi": "Bánh mỳ patê",
     "nameEn": "Bread with pate",
     "groupId": 15,
-    "kcal": 266.0
+    "kcal": 266
   },
   {
     "id": 15025,
     "nameVi": "Bánh nếp",
     "nameEn": "Sticky rice cake",
     "groupId": 15,
-    "kcal": 216.0
+    "kcal": 216
   },
   {
     "id": 15026,
     "nameVi": "Bánh nướng nhân thập cẩm",
     "nameEn": "Pie filled with various fruit and meat",
     "groupId": 15,
-    "kcal": 386.0
+    "kcal": 386
   },
   {
     "id": 15027,
     "nameVi": "Bánh nướng nhân trứng đỗ xanh",
     "nameEn": "Pie filled with egg and mungbean",
     "groupId": 15,
-    "kcal": 371.0
+    "kcal": 371
   },
   {
     "id": 15028,
     "nameVi": "Bánh phu thê (su sê, xu xuê)",
     "nameEn": "Yellow-coloured wedding pastry",
     "groupId": 15,
-    "kcal": 185.0
+    "kcal": 185
   },
   {
     "id": 15029,
     "nameVi": "Bánh rán bọc đường",
     "nameEn": "Rice cake, fried with sugar",
     "groupId": 15,
-    "kcal": 318.0
+    "kcal": 318
   },
   {
     "id": 15030,
     "nameVi": "Bánh tẻ",
     "nameEn": "Rice cake,, filled with meat",
     "groupId": 15,
-    "kcal": 104.0
+    "kcal": 104
   },
   {
     "id": 15031,
     "nameVi": "Bánh tôm",
     "nameEn": "Crisp shrimp pastry",
     "groupId": 15,
-    "kcal": 204.0
+    "kcal": 204
   },
   {
     "id": 15032,
     "nameVi": "Bánh trôi",
     "nameEn": "Stuffed sticky rice balls",
     "groupId": 15,
-    "kcal": 202.0
+    "kcal": 202
   },
   {
     "id": 15033,
     "nameVi": "Bún bò Nam bộ",
     "nameEn": "Vermicelli noodles with beef, southern style",
     "groupId": 15,
-    "kcal": 81.0
+    "kcal": 81
   },
   {
     "id": 15034,
     "nameVi": "Bún chả",
     "nameEn": "Vermicelli noodles with grilled pork",
     "groupId": 15,
-    "kcal": 136.0
+    "kcal": 136
   },
   {
     "id": 15035,
     "nameVi": "Bún cua",
     "nameEn": "Vermicelli noodles with fresh water crab",
     "groupId": 15,
-    "kcal": 53.0
+    "kcal": 53
   },
   {
     "id": 15036,
     "nameVi": "Bún đậu",
     "nameEn": "Vermicelli noodles with tofu, dried",
     "groupId": 15,
-    "kcal": 151.0
+    "kcal": 151
   },
   {
     "id": 15037,
     "nameVi": "Bún dọc mùng",
     "nameEn": "Vermicelli noodles with giant elephant ear stem",
     "groupId": 15,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 15038,
     "nameVi": "Bún nem",
     "nameEn": "Vermicelli noodles with pork rolls",
     "groupId": 15,
-    "kcal": 120.0
+    "kcal": 120
   },
   {
     "id": 15039,
     "nameVi": "Bún ốc",
     "nameEn": "Vermicelli noodles with snail",
     "groupId": 15,
-    "kcal": 62.0
+    "kcal": 62
   },
   {
     "id": 15040,
     "nameVi": "Caramen",
     "nameEn": "Caramel cake",
     "groupId": 15,
-    "kcal": 109.0
+    "kcal": 109
   },
   {
     "id": 15041,
     "nameVi": "Chả quế",
     "nameEn": "Roasted cinnamon pork",
     "groupId": 15,
-    "kcal": 339.0
+    "kcal": 339
   },
   {
     "id": 15042,
     "nameVi": "Cháo lòng",
     "nameEn": "Pig's tripes soup",
     "groupId": 15,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 15043,
     "nameVi": "Cháo sườn",
     "nameEn": "Rice soup with pork rips",
     "groupId": 15,
-    "kcal": 40.0
+    "kcal": 40
   },
   {
     "id": 15044,
     "nameVi": "Cháo trai",
     "nameEn": "Rice soup with clams",
     "groupId": 15,
-    "kcal": 49.0
+    "kcal": 49
   },
   {
     "id": 15045,
     "nameVi": "Chè bưởi",
     "nameEn": "Sweets gruel with pomelo flavor",
     "groupId": 15,
-    "kcal": 73.0
+    "kcal": 73
   },
   {
     "id": 15046,
     "nameVi": "Chè chuối",
     "nameEn": "Sweets gruel with banana",
     "groupId": 15,
-    "kcal": 82.0
+    "kcal": 82
   },
   {
     "id": 15047,
     "nameVi": "Chè cốm",
     "nameEn": "Sweets gruel with young rice",
     "groupId": 15,
-    "kcal": 80.0
+    "kcal": 80
   },
   {
     "id": 15048,
     "nameVi": "Chè đỗ đen",
     "nameEn": "Sweets gruel with black bean",
     "groupId": 15,
-    "kcal": 79.0
+    "kcal": 79
   },
   {
     "id": 15049,
     "nameVi": "Chè đỗ đỏ",
     "nameEn": "Sweets gruel with red bean",
     "groupId": 15,
-    "kcal": 77.0
+    "kcal": 77
   },
   {
     "id": 15050,
     "nameVi": "Chè đỗ xanh",
     "nameEn": "Sweets gruel with mungbean",
     "groupId": 15,
-    "kcal": 79.0
+    "kcal": 79
   },
   {
     "id": 15051,
     "nameVi": "Chè hạt sen",
     "nameEn": "Sweets gruel with lotus seed",
     "groupId": 15,
-    "kcal": 75.0
+    "kcal": 75
   },
   {
     "id": 15052,
     "nameVi": "Chè khoai sọ",
     "nameEn": "Sweets gruel with taro",
     "groupId": 15,
-    "kcal": 83.0
+    "kcal": 83
   },
   {
     "id": 15053,
     "nameVi": "Chè ngô cốm",
     "nameEn": "Sweets gruel with corn and young rice seeds",
     "groupId": 15,
-    "kcal": 72.0
+    "kcal": 72
   },
   {
     "id": 15054,
     "nameVi": "Chè sắn",
     "nameEn": "Sweets gruel with Kudzu root",
     "groupId": 15,
-    "kcal": 86.0
+    "kcal": 86
   },
   {
     "id": 15055,
     "nameVi": "Chè Thái",
     "nameEn": "Sweets gruel, Thailand style",
     "groupId": 15,
-    "kcal": 82.0
+    "kcal": 82
   },
   {
     "id": 15056,
     "nameVi": "Cơm rang",
     "nameEn": "Fried rice with egg and pork",
     "groupId": 15,
-    "kcal": 198.0
+    "kcal": 198
   },
   {
     "id": 15057,
     "nameVi": "Gà tần",
     "nameEn": "Stewed chicken with medicinal herbs",
     "groupId": 15,
-    "kcal": 131.0
+    "kcal": 131
   },
   {
     "id": 15058,
     "nameVi": "Miến lươn",
     "nameEn": "Vermicelli made of cassava, with eels",
     "groupId": 15,
-    "kcal": 73.0
+    "kcal": 73
   },
   {
     "id": 15059,
     "nameVi": "Miến ngan",
     "nameEn": "Vermicelli made of cassava, with goose meat",
     "groupId": 15,
-    "kcal": 65.0
+    "kcal": 65
   },
   {
     "id": 15060,
     "nameVi": "Mỳ vằn thắn",
     "nameEn": "Wonton soup",
     "groupId": 15,
-    "kcal": 81.0
+    "kcal": 81
   },
   {
     "id": 15061,
     "nameVi": "Mỳ xào",
     "nameEn": "Instant noodle, fried with vegetable and meat",
     "groupId": 15,
-    "kcal": 139.0
+    "kcal": 139
   },
   {
     "id": 15062,
     "nameVi": "Nem lụi",
     "nameEn": "Roll pork meat, grilled",
     "groupId": 15,
-    "kcal": 183.0
+    "kcal": 183
   },
   {
     "id": 15063,
     "nameVi": "Nem rán",
     "nameEn": "Spring roll, fried",
     "groupId": 15,
-    "kcal": 145.0
+    "kcal": 145
   },
   {
     "id": 15064,
     "nameVi": "Nộm tai lợn",
     "nameEn": "Pork ear salad",
     "groupId": 15,
-    "kcal": 119.0
+    "kcal": 119
   },
   {
     "id": 15065,
     "nameVi": "Phở bò chín",
     "nameEn": "Rice noodle with beef, cooked",
     "groupId": 15,
-    "kcal": 73.0
+    "kcal": 73
   },
   {
     "id": 15066,
     "nameVi": "Phở bò tái",
     "nameEn": "Rice noodle with beef, rare",
     "groupId": 15,
-    "kcal": 67.0
+    "kcal": 67
   },
   {
     "id": 15067,
     "nameVi": "Phở gà",
     "nameEn": "Rice noodle with chicken",
     "groupId": 15,
-    "kcal": 73.0
+    "kcal": 73
   },
   {
     "id": 15068,
     "nameVi": "Thịt xiên nướng",
     "nameEn": "Pork meat, grilled",
     "groupId": 15,
-    "kcal": 322.0
+    "kcal": 322
   },
   {
     "id": 15069,
     "nameVi": "Xôi đỗ xanh",
     "nameEn": "Sticky rice with mungbean, cooked",
     "groupId": 15,
-    "kcal": 230.0
+    "kcal": 230
   },
   {
     "id": 15070,
     "nameVi": "Xôi gấc",
     "nameEn": "Sticky rice with Gac fruit, cooked",
     "groupId": 15,
-    "kcal": 231.0
+    "kcal": 231
   },
   {
     "id": 15071,
     "nameVi": "Xôi lạc",
     "nameEn": "Sticky rice with peanut, cooked",
     "groupId": 15,
-    "kcal": 246.0
+    "kcal": 246
   },
   {
     "id": 15072,
     "nameVi": "Xôi ngô",
     "nameEn": "Sticky rice with corn, cooked",
     "groupId": 15,
-    "kcal": 198.0
+    "kcal": 198
   },
   {
     "id": 15073,
     "nameVi": "Xôi xéo",
     "nameEn": "Sticky rice with mungbean paste, cooked",
     "groupId": 15,
-    "kcal": 254.0
+    "kcal": 254
   },
   {
     "id": 15074,
     "nameVi": "Muối vừng",
     "nameEn": null,
     "groupId": 15,
-    "kcal": 421.0
+    "kcal": 421
   },
   {
     "id": 15075,
     "nameVi": "Cháo dinh dưỡng thịt bò",
     "nameEn": null,
     "groupId": 15,
-    "kcal": 47.0
+    "kcal": 47
   },
   {
     "id": 15076,
     "nameVi": "Cháo dinh dưỡng tôm",
     "nameEn": null,
     "groupId": 15,
-    "kcal": 47.0
+    "kcal": 47
   },
   {
     "id": 15077,
     "nameVi": "Bánh dày",
     "nameEn": null,
     "groupId": 15,
-    "kcal": 156.0
+    "kcal": 156
   },
   {
     "id": 15078,
     "nameVi": "Xôi đỗ đen",
     "nameEn": null,
     "groupId": 15,
-    "kcal": 230.0
+    "kcal": 230
   },
   {
     "id": 1007014,
     "nameVi": "Ngô tươi, tẻ, nướng",
     "nameEn": "Corn fresh, glutinous, grilled",
     "groupId": 1,
-    "kcal": 274.0
+    "kcal": 274
   },
   {
     "id": 1024002,
     "nameVi": "Xôi nếp cẩm",
     "nameEn": "Rice glutinous (cooked), purple, boiled",
     "groupId": 1,
-    "kcal": 235.0
+    "kcal": 235
   },
   {
     "id": 1027014,
     "nameVi": "Ngô tươi, nếp, nướng",
     "nameEn": "Corn fresh, regular, grilled",
     "groupId": 1,
-    "kcal": 274.0
+    "kcal": 274
   },
   {
     "id": 1041002,
     "nameVi": "Bánh đa (đỏ, trắng), luộc",
     "nameEn": "Vietnamese style rice noodles (flat), boiled",
     "groupId": 1,
-    "kcal": 97.0
+    "kcal": 97
   },
   {
     "id": 1043002,
     "nameVi": "Mỳ ăn liền, lúa mì, luộc",
     "nameEn": "Instant noodle, wheat, boiled",
     "groupId": 1,
-    "kcal": 102.0
+    "kcal": 102
   },
   {
     "id": 1046002,
     "nameVi": "Nui, luộc",
     "nameEn": "Macaroni, boiled",
     "groupId": 1,
-    "kcal": 371.0
+    "kcal": 371
   },
   {
     "id": 2003002,
     "nameVi": "Củ dong luộc",
     "nameEn": "Arrow root, boiled",
     "groupId": 2,
-    "kcal": 131.0
+    "kcal": 131
   },
   {
     "id": 2004014,
     "nameVi": "Củ sắn nướng",
     "nameEn": "Cassava (manioc), roasted",
     "groupId": 2,
-    "kcal": 216.0
+    "kcal": 216
   },
   {
     "id": 2005002,
     "nameVi": "Củ sắn dây, luộc",
     "nameEn": "Kudzu root (Japanese arrowroot), boiled",
     "groupId": 2,
-    "kcal": 152.0
+    "kcal": 152
   },
   {
     "id": 2007002,
     "nameVi": "Củ từ luộc",
     "nameEn": "Lesser Yam, boiled",
     "groupId": 2,
-    "kcal": 99.0
+    "kcal": 99
   },
   {
     "id": 2008002,
     "nameVi": "Khoai lang, luộc",
     "nameEn": "Sweet potato, boiled",
     "groupId": 2,
-    "kcal": 122.0
+    "kcal": 122
   },
   {
     "id": 2008014,
     "nameVi": "Khoai lang, nướng",
     "nameEn": "Sweet potato, roasted",
     "groupId": 2,
-    "kcal": 170.0
+    "kcal": 170
   },
   {
     "id": 2012002,
     "nameVi": "Khoai riềng luộc",
     "nameEn": "Edible canna, boiled",
     "groupId": 2,
-    "kcal": 116.0
+    "kcal": 116
   },
   {
     "id": 2013002,
     "nameVi": "Khoai sọ, luộc",
     "nameEn": "Taro tuber, boiled",
     "groupId": 2,
-    "kcal": 121.0
+    "kcal": 121
   },
   {
     "id": 2014002,
     "nameVi": "Khoai tây, luộc",
     "nameEn": "Potato (white), boiled",
     "groupId": 2,
-    "kcal": 104.0
+    "kcal": 104
   },
   {
     "id": 2026002,
     "nameVi": "Trân châu sắn luộc",
     "nameEn": "Tapioca, boiled",
     "groupId": 2,
-    "kcal": 344.0
+    "kcal": 344
   },
   {
     "id": 3017011,
     "nameVi": "Lạc rang dầu",
     "nameEn": null,
     "groupId": 3,
-    "kcal": 1.0
+    "kcal": 575
   },
   {
     "id": 3020011,
     "nameVi": "Vừng rang",
     "nameEn": "Sesame seed (stirred)",
     "groupId": 3,
-    "kcal": 607.0
+    "kcal": 607
   },
   {
     "id": 3025002,
     "nameVi": "Đậu phụ luộc",
     "nameEn": "Tofu, boiled",
     "groupId": 3,
-    "kcal": 98.0
+    "kcal": 98
   },
   {
     "id": 3036002,
     "nameVi": "Đậu ngự luộc",
     "nameEn": "Bean, lima bean, boiled",
     "groupId": 3,
-    "kcal": 136.0
+    "kcal": 136
   },
   {
     "id": 3037002,
     "nameVi": "Đậu ván luộc",
     "nameEn": "Bean, lablab bean, boiled",
     "groupId": 3,
-    "kcal": 16.0
+    "kcal": 16
   },
   {
     "id": 3039002,
     "nameVi": "Hạt sen tươi luộc",
     "nameEn": "Lotus seed, fresh, boiled",
     "groupId": 3,
-    "kcal": 172.0
+    "kcal": 172
   },
   {
     "id": 3041011,
     "nameVi": "Hạt hướng dương rang",
     "nameEn": "Sunflower seeds, stirred",
     "groupId": 3,
-    "kcal": 652.0
+    "kcal": 652
   },
   {
     "id": 3042011,
     "nameVi": "Hạt hạnh nhân rang",
     "nameEn": "Almonds dried, stirred",
     "groupId": 3,
-    "kcal": 652.0
+    "kcal": 652
   },
   {
     "id": 3043011,
     "nameVi": "Hạt óc chó rang",
     "nameEn": "Walnuts dried, stirred",
     "groupId": 3,
-    "kcal": 703.0
+    "kcal": 703
   },
   {
     "id": 3044011,
     "nameVi": "Hạt macca rang",
     "nameEn": "Macadamia nut dried, stirred",
     "groupId": 3,
-    "kcal": 767.0
+    "kcal": 767
   },
   {
     "id": 3046011,
     "nameVi": "Hạt dẻ cười rang",
     "nameEn": "Pistachio dried, stirred",
     "groupId": 3,
-    "kcal": 610.0
+    "kcal": 610
   },
   {
     "id": 4001002,
     "nameVi": "Bầu, luộc",
     "nameEn": "Calabash (Bottle gourd), boiled",
     "groupId": 4,
-    "kcal": 19.0
+    "kcal": 19
   },
   {
     "id": 4002002,
     "nameVi": "Bí đao (bí xanh), luộc",
     "nameEn": "Asgourd Waxgoured, boiled",
     "groupId": 4,
-    "kcal": 17.0
+    "kcal": 17
   },
   {
     "id": 4003002,
     "nameVi": "Bí ngô, luộc",
     "nameEn": "Pumpkin squash, boiled",
     "groupId": 4,
-    "kcal": 35.0
+    "kcal": 35
   },
   {
     "id": 4004002,
     "nameVi": "Cà bát, luộc",
     "nameEn": "Egg plant large round, boiled",
     "groupId": 4,
-    "kcal": 36.0
+    "kcal": 36
   },
   {
     "id": 4007002,
     "nameVi": "Cà rốt (củ đỏ, vàng), luộc",
     "nameEn": "Carrots, boiled",
     "groupId": 4,
-    "kcal": 47.0
+    "kcal": 47
   },
   {
     "id": 4009002,
     "nameVi": "Cà tím, luộc",
     "nameEn": "Aubergine, boiled",
     "groupId": 4,
-    "kcal": 37.0
+    "kcal": 37
   },
   {
     "id": 4010002,
     "nameVi": "Cải bắp, luộc",
     "nameEn": "Cabbage, white/green, boiled",
     "groupId": 4,
-    "kcal": 41.0
+    "kcal": 41
   },
   {
     "id": 4011002,
     "nameVi": "Cải bắp đỏ, luộc",
     "nameEn": "Cabbage, red, boiled",
     "groupId": 4,
-    "kcal": 67.0
+    "kcal": 67
   },
   {
     "id": 4015002,
     "nameVi": "Cải thìa (cải trắng), luộc",
     "nameEn": "Brassica, Bok choy (pak choi), boiled",
     "groupId": 4,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 4016002,
     "nameVi": "Cải xanh, luộc",
     "nameEn": "Brassica, Mustard greens, Indian mustard, boiled",
     "groupId": 4,
-    "kcal": 26.0
+    "kcal": 26
   },
   {
     "id": 4019002,
     "nameVi": "Chuối xanh, luộc",
     "nameEn": "Banana unripe, boiled",
     "groupId": 4,
-    "kcal": 64.0
+    "kcal": 64
   },
   {
     "id": 4020002,
     "nameVi": "Củ cải đỏ, luộc",
     "nameEn": "Radish, red, boiled",
     "groupId": 4,
-    "kcal": 63.0
+    "kcal": 63
   },
   {
     "id": 4021002,
     "nameVi": "Củ cải trắng, luộc",
     "nameEn": "Radish, white, boiled",
     "groupId": 4,
-    "kcal": 33.0
+    "kcal": 33
   },
   {
     "id": 4029002,
     "nameVi": "Đậu cô ve, luộc",
     "nameEn": "Bean common string, boiled",
     "groupId": 4,
-    "kcal": 85.0
+    "kcal": 85
   },
   {
     "id": 4030002,
     "nameVi": "Đậu đũa, luộc",
     "nameEn": "Yardlong bean, boiled",
     "groupId": 4,
-    "kcal": 68.0
+    "kcal": 68
   },
   {
     "id": 4036002,
     "nameVi": "Giá đậu xanh, luộc",
     "nameEn": "Sprouts, Mungobean sprouts, boiled",
     "groupId": 4,
-    "kcal": 58.0
+    "kcal": 58
   },
   {
     "id": 4054002,
     "nameVi": "Mướp, luộc",
     "nameEn": "Gourd (sponge gourd), boiled",
     "groupId": 4,
-    "kcal": 26.0
+    "kcal": 26
   },
   {
     "id": 4055002,
     "nameVi": "Mướp đắng, luộc",
     "nameEn": "Bitter gourd, boiled",
     "groupId": 4,
-    "kcal": 21.0
+    "kcal": 21
   },
   {
     "id": 4066002,
     "nameVi": "Rau bí, luộc",
     "nameEn": "Pumpkin leaves, boiled",
     "groupId": 4,
-    "kcal": 27.0
+    "kcal": 27
   },
   {
     "id": 4072002,
     "nameVi": "Rau giền cơm, luộc",
     "nameEn": "Amaranth, green, boiled",
     "groupId": 4,
-    "kcal": 29.0
+    "kcal": 29
   },
   {
     "id": 4073002,
     "nameVi": "Rau giền đỏ, luộc",
     "nameEn": "Amaranth, red, boiled",
     "groupId": 4,
-    "kcal": 48.0
+    "kcal": 48
   },
   {
     "id": 4074002,
     "nameVi": "Rau giền trắng, luộc",
     "nameEn": "Amaranth, white, boiled",
     "groupId": 4,
-    "kcal": 49.0
+    "kcal": 49
   },
   {
     "id": 4076002,
     "nameVi": "Rau khoai lang, luộc",
     "nameEn": "Sweet potato leaves, boiled",
     "groupId": 4,
-    "kcal": 28.0
+    "kcal": 28
   },
   {
     "id": 4080002,
     "nameVi": "Rau mồng tơi, luộc",
     "nameEn": "Malabar nightshade, boiled",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4083002,
     "nameVi": "Rau muống, luộc",
     "nameEn": "Water spinach, boiled",
     "groupId": 4,
-    "kcal": 27.0
+    "kcal": 27
   },
   {
     "id": 4096002,
     "nameVi": "Su hào, luộc",
     "nameEn": "Kohlrabi, boiled",
     "groupId": 4,
-    "kcal": 48.0
+    "kcal": 48
   },
   {
     "id": 4098002,
     "nameVi": "Su su, luộc",
     "nameEn": "Chayote frui, boiled",
     "groupId": 4,
-    "kcal": 24.0
+    "kcal": 24
   },
   {
     "id": 4099002,
     "nameVi": "Súp lơ trắng, luộc",
     "nameEn": "Cauli/Brocco, Cauliflower, boiled",
     "groupId": 4,
-    "kcal": 29.0
+    "kcal": 29
   },
   {
     "id": 4100002,
     "nameVi": "Súp lơ xanh, luộc",
     "nameEn": "Cauli/Brocco, Broccoli, boiled",
     "groupId": 4,
-    "kcal": 34.0
+    "kcal": 34
   },
   {
     "id": 4108002,
     "nameVi": "Cải ngọt, luộc",
     "nameEn": "Brassica, Elongated mustard, boiled",
     "groupId": 4,
-    "kcal": 19.0
+    "kcal": 19
   },
   {
     "id": 4109002,
     "nameVi": "Cải thảo, luộc",
     "nameEn": "Brassica, Chinese cabbage, boiled",
     "groupId": 4,
-    "kcal": 15.0
+    "kcal": 15
   },
   {
     "id": 4110002,
     "nameVi": "Ngọn su su, luộc",
     "nameEn": "Chayote young stem and leaves, boiled",
     "groupId": 4,
-    "kcal": 14.0
+    "kcal": 14
   },
   {
     "id": 4134002,
     "nameVi": "Cải ngồng, luộc",
     "nameEn": "Brassica, Cabbage/mustard, boiled",
     "groupId": 4,
-    "kcal": 18.0
+    "kcal": 18
   },
   {
     "id": 4135002,
     "nameVi": "Rau cải chíp luộc",
     "nameEn": "Brassica rapa chinensis, boiled",
     "groupId": 4,
-    "kcal": 17.0
+    "kcal": 17
   },
   {
     "id": 7005018,
     "nameVi": "Thịt bò, lưng, nạc, chần",
     "nameEn": "Beef, loin, lean, poached",
     "groupId": 7,
-    "kcal": 157.0
+    "kcal": 157
   },
   {
     "id": 7006018,
     "nameVi": "Thịt bò, lưng, nạc và mỡ, chần",
     "nameEn": "Beef, loin, medium fat, poached",
     "groupId": 7,
-    "kcal": 189.0
+    "kcal": 189
   },
   {
     "id": 7011003,
     "nameVi": "Thịt dê, nạc, hấp",
     "nameEn": "Goat meat, lean, steamed",
     "groupId": 7,
-    "kcal": 213.0
+    "kcal": 213
   },
   {
     "id": 7018002,
     "nameVi": "Thịt lợn nửa nạc, nửa mỡ, luộc",
     "nameEn": "Pork, medium fat meat, boiled",
     "groupId": 7,
-    "kcal": 220.0
+    "kcal": 220
   },
   {
     "id": 7019002,
     "nameVi": "Thịt ngỗng, luộc",
     "nameEn": "Goose meat, boiled",
     "groupId": 7,
-    "kcal": 568.0
+    "kcal": 568
   },
   {
     "id": 7024002,
     "nameVi": "Thịt trâu bắp, luộc",
     "nameEn": "Buffalo meat, leg, boiled",
     "groupId": 7,
-    "kcal": 171.0
+    "kcal": 171
   },
   {
     "id": 7024018,
     "nameVi": "Thịt trâu bắp, chần",
     "nameEn": "Buffalo meat, leg, poached",
     "groupId": 7,
-    "kcal": 153.0
+    "kcal": 153
   },
   {
     "id": 7027002,
     "nameVi": "Thịt trâu thăn, luộc",
     "nameEn": "Buffalo meat, tenderloin, boiled",
     "groupId": 7,
-    "kcal": 180.0
+    "kcal": 180
   },
   {
     "id": 7027018,
     "nameVi": "Thịt trâu thăn, chần",
     "nameEn": "Buffalo meat, tenderloin, poached",
     "groupId": 7,
-    "kcal": 161.0
+    "kcal": 161
   },
   {
     "id": 7028002,
     "nameVi": "Thịt vịt, luộc",
     "nameEn": "Duck meat, average, boiled",
     "groupId": 7,
-    "kcal": 371.0
+    "kcal": 371
   },
   {
     "id": 7029002,
     "nameVi": "Bầu dục bò, luộc",
     "nameEn": "Kidney, cow, boiled",
     "groupId": 7,
-    "kcal": 91.0
+    "kcal": 91
   },
   {
     "id": 7030002,
     "nameVi": "Bầu dục lợn, luộc",
     "nameEn": "Kidney, pig, boiled",
     "groupId": 7,
-    "kcal": 110.0
+    "kcal": 110
   },
   {
     "id": 7032002,
     "nameVi": "Thịt chân giò lợn, luộc",
     "nameEn": "Pork, leg meat, boiled",
     "groupId": 7,
-    "kcal": 230.0
+    "kcal": 230
   },
   {
     "id": 7034002,
     "nameVi": "Dạ dày lợn, luộc",
     "nameEn": "Hog, stomach, boiled",
     "groupId": 7,
-    "kcal": 106.0
+    "kcal": 106
   },
   {
     "id": 7040002,
     "nameVi": "Gan gà, luộc",
     "nameEn": "Liver, chicken, boiled",
     "groupId": 7,
-    "kcal": 155.0
+    "kcal": 155
   },
   {
     "id": 7041002,
     "nameVi": "Gan lợn, luộc",
     "nameEn": "Liver, pig, boiled",
     "groupId": 7,
-    "kcal": 150.0
+    "kcal": 150
   },
   {
     "id": 7042002,
     "nameVi": "Gan vịt, luộc",
     "nameEn": "Liver, duck, boiled",
     "groupId": 7,
-    "kcal": 156.0
+    "kcal": 156
   },
   {
     "id": 7043006,
     "nameVi": "Thịt bò, gân, kho/om",
     "nameEn": "Beef, tendon-leg, braised",
     "groupId": 7,
-    "kcal": 175.0
+    "kcal": 175
   },
   {
     "id": 7044002,
     "nameVi": "Lưỡi bò, luộc",
     "nameEn": "Tongue, cow, boiled",
     "groupId": 7,
-    "kcal": 234.0
+    "kcal": 234
   },
   {
     "id": 7045002,
     "nameVi": "Lưỡi lợn, luộc",
     "nameEn": "Tongue, cow, boiled",
     "groupId": 7,
-    "kcal": 254.0
+    "kcal": 254
   },
   {
     "id": 7047002,
     "nameVi": "Lòng lợn (ruột non), luộc",
     "nameEn": "Hog, intestine, small, boiled",
     "groupId": 7,
-    "kcal": 55.0
+    "kcal": 55
   },
   {
     "id": 7048002,
     "nameVi": "Mề gà, luộc",
     "nameEn": "Chicken gizzard, boiled",
     "groupId": 7,
-    "kcal": 127.0
+    "kcal": 127
   },
   {
     "id": 7049002,
     "nameVi": "Óc bò, luộc",
     "nameEn": "Brain, cow, boiled",
     "groupId": 7,
-    "kcal": 134.0
+    "kcal": 134
   },
   {
     "id": 7050002,
     "nameVi": "Óc lợn, luộc",
     "nameEn": "Brain, pig, boiled",
     "groupId": 7,
-    "kcal": 134.0
+    "kcal": 134
   },
   {
     "id": 7054002,
     "nameVi": "Tai lợn, luộc",
     "nameEn": "Hog ears, boiled",
     "groupId": 7,
-    "kcal": 126.0
+    "kcal": 126
   },
   {
     "id": 7055002,
     "nameVi": "Tim bò, luộc",
     "nameEn": "Heart, cow, boiled",
     "groupId": 7,
-    "kcal": 131.0
+    "kcal": 131
   },
   {
     "id": 7056002,
     "nameVi": "Tim gà, luộc",
     "nameEn": "Heart, chicken, boiled",
     "groupId": 7,
-    "kcal": 160.0
+    "kcal": 160
   },
   {
     "id": 7057002,
     "nameVi": "Tim lợn, luộc",
     "nameEn": "Heart, pig, boiled",
     "groupId": 7,
-    "kcal": 138.0
+    "kcal": 138
   },
   {
     "id": 7058002,
     "nameVi": "Tiết bò, luộc",
     "nameEn": "Blood, cow, boiled",
     "groupId": 7,
-    "kcal": 75.0
+    "kcal": 75
   },
   {
     "id": 7083002,
     "nameVi": "Thịt lợn nạc vai, luộc",
     "nameEn": "Pork, lean meat shoulder, boiled",
     "groupId": 7,
-    "kcal": 126.0
+    "kcal": 126
   },
   {
     "id": 7084002,
     "nameVi": "Thịt lợn nạc mông, luộc",
     "nameEn": "Pork, lean meat buttock, boiled",
     "groupId": 7,
-    "kcal": 120.0
+    "kcal": 120
   },
   {
     "id": 7085002,
     "nameVi": "Thịt lợn nạc thăn, luộc",
     "nameEn": "Pork, lean meat tenderloin, boiled",
     "groupId": 7,
-    "kcal": 100.0
+    "kcal": 100
   },
   {
     "id": 7087002,
     "nameVi": "Thịt gà công nghiệp, cánh, luộc",
     "nameEn": "Chicken meat, industrial, wing, boiled",
     "groupId": 7,
-    "kcal": 261.0
+    "kcal": 261
   },
   {
     "id": 7088002,
     "nameVi": "Thịt gà công nghiệp, đùi, luộc",
     "nameEn": "Chicken meat, industrial, thighs, boiled",
     "groupId": 7,
-    "kcal": 190.0
+    "kcal": 190
   },
   {
     "id": 7090002,
     "nameVi": "Thịt ngan, luộc",
     "nameEn": "Muscovy duck meat, boiled",
     "groupId": 7,
-    "kcal": 400.0
+    "kcal": 400
   },
   {
     "id": 7094003,
     "nameVi": "Thịt bò, bắp, hấp",
     "nameEn": "Beef, thigh, steamed",
     "groupId": 7,
-    "kcal": 182.0
+    "kcal": 182
   },
   {
     "id": 7095003,
     "nameVi": "Thịt bò, vai, hấp",
     "nameEn": "Beef, shoulder, steamed",
     "groupId": 7,
-    "kcal": 191.0
+    "kcal": 191
   },
   {
     "id": 7105002,
     "nameVi": "Thịt gà, ta, đùi, luộc",
     "nameEn": "Chicken meat, local, thigh, boiled",
     "groupId": 7,
-    "kcal": 261.0
+    "kcal": 261
   },
   {
     "id": 7106002,
     "nameVi": "Thịt gà, ta, lườn, đùi, luộc",
     "nameEn": "Chicken meat, local, thigh, boiled",
     "groupId": 7,
-    "kcal": 186.0
+    "kcal": 186
   },
   {
     "id": 7107002,
     "nameVi": "Thịt gà, ta, cánh, đùi, luộc",
     "nameEn": "Chicken meat, local, boiled",
     "groupId": 7,
-    "kcal": 261.0
+    "kcal": 261
   },
   {
     "id": 7108002,
     "nameVi": "Thịt gà, ta, chân, đùi, luộc",
     "nameEn": "Chicken meat, local, boiled",
     "groupId": 7,
-    "kcal": 214.0
+    "kcal": 214
   },
   {
     "id": 7111002,
     "nameVi": "Thịt gà, công nghiệp, cổ, luộc",
     "nameEn": "Chicken meat, industrial, neck, boiled",
     "groupId": 7,
-    "kcal": 188.0
+    "kcal": 188
   },
   {
     "id": 7113002,
     "nameVi": "Thịt vịt, lườn, luộc",
     "nameEn": "Duck meat, pointrine, boiled",
     "groupId": 7,
-    "kcal": 163.0
+    "kcal": 163
   },
   {
     "id": 7113003,
     "nameVi": "Thịt vịt, lườn, hấp",
     "nameEn": "Duck meat, pointrine, steamed",
     "groupId": 7,
-    "kcal": 163.0
+    "kcal": 163
   },
   {
     "id": 7114002,
     "nameVi": "Thịt vịt, đùi, luộc",
     "nameEn": "Duck meat, thigh, boiled",
     "groupId": 7,
-    "kcal": 267.0
+    "kcal": 267
   },
   {
     "id": 7115003,
     "nameVi": "Thịt vịt, cánh, hấp",
     "nameEn": "Duck meat, wing, steamed",
     "groupId": 7,
-    "kcal": 261.0
+    "kcal": 261
   },
   {
     "id": 7118002,
     "nameVi": "Mọc, từ thịt lợn, nấu canh",
     "nameEn": "Pork mince lean and fat meat ball shaped boiled",
     "groupId": 7,
-    "kcal": 286.0
+    "kcal": 286
   },
   {
     "id": 7123002,
     "nameVi": "Tiết ngan, luộc",
     "nameEn": "Blood, muscovy duck, boiled",
     "groupId": 7,
-    "kcal": 50.0
+    "kcal": 50
   },
   {
     "id": 8013002,
     "nameVi": "Cá lác, luộc",
     "nameEn": "Seafish, Thac lac fish, boiled",
     "groupId": 8,
-    "kcal": 86.0
+    "kcal": 86
   },
   {
     "id": 8013008,
     "nameVi": "Cá lác, chiên giòn",
     "nameEn": "Seafish, Thac lac fish, shallow fried",
     "groupId": 8,
-    "kcal": 94.0
+    "kcal": 94
   },
   {
     "id": 8020002,
     "nameVi": "Cá nục, luộc",
     "nameEn": "Seafish, Anchovy, boiled",
     "groupId": 8,
-    "kcal": 133.0
+    "kcal": 133
   },
   {
     "id": 8020014,
     "nameVi": "Cá nục, nướng",
     "nameEn": "Seafish, Anchovy, grilled",
     "groupId": 8,
-    "kcal": 138.0
+    "kcal": 138
   },
   {
     "id": 8024008,
     "nameVi": "Cá rô phi, chiên giòn",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 131.0
+    "kcal": 131
   },
   {
     "id": 8040003,
     "nameVi": "Mực tươi, hấp",
     "nameEn": "Cuttle fish squid, steamed",
     "groupId": 8,
-    "kcal": 115.0
+    "kcal": 115
   },
   {
     "id": 8040014,
     "nameVi": "Mực tươi, nướng",
     "nameEn": "Cuttle fish squid, grilled",
     "groupId": 8,
-    "kcal": 115.0
+    "kcal": 115
   },
   {
     "id": 8041002,
     "nameVi": "Ốc bươu, luộc",
     "nameEn": "Snail, bươu, boiled",
     "groupId": 8,
-    "kcal": 336.0
+    "kcal": 336
   },
   {
     "id": 8043003,
     "nameVi": "Ốc nhồi, hấp",
     "nameEn": "Snail, nhồi , steamed",
     "groupId": 8,
-    "kcal": 337.0
+    "kcal": 337
   },
   {
     "id": 8044002,
     "nameVi": "Ốc vặn, luộc",
     "nameEn": "Snail, Helix, boiled",
     "groupId": 8,
-    "kcal": 289.0
+    "kcal": 289
   },
   {
     "id": 8044003,
     "nameVi": "Ốc vặn, hấp",
     "nameEn": "Snail, Helix, steamed",
     "groupId": 8,
-    "kcal": 289.0
+    "kcal": 289
   },
   {
     "id": 8044014,
     "nameVi": "Ốc vặn, nướng",
     "nameEn": "Snail, Helix, grilled",
     "groupId": 8,
-    "kcal": 289.0
+    "kcal": 289
   },
   {
     "id": 8051002,
     "nameVi": "Tôm biển, luộc",
     "nameEn": "Shrimp, sea water, boiled",
     "groupId": 8,
-    "kcal": 82.0
+    "kcal": 82
   },
   {
     "id": 8051014,
     "nameVi": "Tôm biển, nướng",
     "nameEn": "Shrimp, sea water, grilled",
     "groupId": 8,
-    "kcal": 124.0
+    "kcal": 124
   },
   {
     "id": 8052002,
     "nameVi": "Tôm đồng, luộc",
     "nameEn": "Shrimp, fresh water, boiled",
     "groupId": 8,
-    "kcal": 90.0
+    "kcal": 90
   },
   {
     "id": 8052014,
     "nameVi": "Tôm đồng, nướng",
     "nameEn": "Shrimp, fresh water, grilled",
     "groupId": 8,
-    "kcal": 136.0
+    "kcal": 136
   },
   {
     "id": 8064008,
     "nameVi": "Chả cá basa, rán",
     "nameEn": null,
     "groupId": 8,
-    "kcal": 186.0
+    "kcal": 186
   },
   {
     "id": 8070002,
     "nameVi": "Sò huyết, luộc",
     "nameEn": "Blood cockle, boiled",
     "groupId": 8,
-    "kcal": 316.0
+    "kcal": 316
   },
   {
     "id": 8074002,
     "nameVi": "Ốc móng tay, luộc",
     "nameEn": "Snail, Razor shells, boiled",
     "groupId": 8,
-    "kcal": 123.0
+    "kcal": 123
   },
   {
     "id": 8074014,
     "nameVi": "Ốc móng tay, nướng",
     "nameEn": "Snail, Razor shells, grilled",
     "groupId": 8,
-    "kcal": 123.0
+    "kcal": 123
   },
   {
     "id": 8075002,
     "nameVi": "Ốc hương, luộc",
     "nameEn": "Snail, Babylonia tesselata, boiled",
     "groupId": 8,
-    "kcal": 94.0
+    "kcal": 94
   },
   {
     "id": 8075003,
     "nameVi": "Ốc hương, hấp",
     "nameEn": "Snail, Babylonia tesselata, steamed",
     "groupId": 8,
-    "kcal": 94.0
+    "kcal": 94
   },
   {
     "id": 8075014,
     "nameVi": "Ốc hương, nướng",
     "nameEn": "Snail, Babylonia tesselata, grilled",
     "groupId": 8,
-    "kcal": 94.0
+    "kcal": 94
   },
   {
     "id": 8076003,
     "nameVi": "Ốc len, hấp",
     "nameEn": "Snail, Obtuse Horn Shell, steamed",
     "groupId": 8,
-    "kcal": 94.0
+    "kcal": 94
   },
   {
     "id": 8076014,
     "nameVi": "Ốc len, nướng",
     "nameEn": "Snail, Obtuse Horn Shell, grilled",
     "groupId": 8,
-    "kcal": 94.0
+    "kcal": 94
   },
   {
     "id": 8079002,
     "nameVi": "Sò dương, luộc",
     "nameEn": "Scallop, Vasticardium flavum, boiled",
     "groupId": 8,
-    "kcal": 261.0
+    "kcal": 261
   },
   {
     "id": 8079003,
     "nameVi": "Sò dương, hấp",
     "nameEn": "Scallop, Vasticardium flavum, steamed",
     "groupId": 8,
-    "kcal": 261.0
+    "kcal": 261
   },
   {
     "id": 8079014,
     "nameVi": "Sò dương, nướng",
     "nameEn": "Scallop, Vasticardium flavum, grilled",
     "groupId": 8,
-    "kcal": 261.0
+    "kcal": 261
   },
   {
     "id": 8080002,
     "nameVi": "Sò điệp, luộc",
     "nameEn": "Scallop, Noble scallop, boiled",
     "groupId": 8,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 8080003,
     "nameVi": "Sò điệp, hấp",
     "nameEn": "Scallop, Noble scallop, steamed",
     "groupId": 8,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 8080014,
     "nameVi": "Sò điệp, nướng",
     "nameEn": "Scallop, Noble scallop, grilled",
     "groupId": 8,
-    "kcal": 69.0
+    "kcal": 69
   },
   {
     "id": 8081003,
     "nameVi": "Sò lông, hấp",
     "nameEn": "Scallop, ark clam, steamed",
     "groupId": 8,
-    "kcal": 316.0
+    "kcal": 316
   },
   {
     "id": 8081014,
     "nameVi": "Sò lông, nướng",
     "nameEn": "Scallop, ark clam, grilled",
     "groupId": 8,
-    "kcal": 316.0
+    "kcal": 316
   }
 ]

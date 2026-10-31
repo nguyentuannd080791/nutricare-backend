@@ -21,6 +21,13 @@ async function seedDishGroups() {
 }
 
 async function seedDishes() {
+  // Đồng bộ và dọn dẹp các món trùng lặp đã bị loại bỏ khỏi seed-data
+  const activeIds = dishes.map((d) => d.id);
+  const deleted = await prisma.dish.deleteMany({ where: { id: { notIn: activeIds } } });
+  if (deleted.count > 0) {
+    console.log(`Đã loại bỏ ${deleted.count} món ăn trùng lặp khỏi CSDL.`);
+  }
+
   // batch nhỏ để tránh 1 statement quá lớn
   const BATCH = 200;
   for (let i = 0; i < dishes.length; i += BATCH) {
@@ -29,9 +36,16 @@ async function seedDishes() {
       batch.map((d) =>
         prisma.dish.upsert({
           where: { id: d.id },
-          // update dishFormat để re-seed trên DB cũ (trước khi cột này tồn
-          // tại) backfill được, không cần xoá DB làm lại từ đầu.
-          update: { dishFormat: d.dishFormat },
+          // Cập nhật lại cả thông tin dinh dưỡng và tag chuẩn hóa trên DB
+          update: {
+            nameVi: d.nameVi,
+            kcal: d.kcal,
+            proteinG: d.protein_g,
+            fatG: d.fat_g,
+            carbG: d.carb_g,
+            dishFormat: d.dishFormat,
+            tags: tagDish(d.nameVi),
+          },
           create: {
             id: d.id,
             code: d.code,
@@ -93,7 +107,7 @@ async function seedRawFoods() {
       batch.map((f) =>
         prisma.rawFood.upsert({
           where: { id: f.id },
-          update: {},
+          update: { nameVi: f.nameVi, kcal: f.kcal },
           create: { id: f.id, nameVi: f.nameVi, nameEn: f.nameEn, groupId: f.groupId, kcal: f.kcal },
         })
       )
